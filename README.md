@@ -3,27 +3,26 @@
 
 This project predicts the insurance claim amount using supervised machine learning and basic NLP techniques.
 
-# Model Used
+## Model Used
 
-Lasso Regression
+- Lasso Regression
 
-# Features
+## Features
+* Policy type
+* Accident type
+* Claim severity level
+* Vehicle category
+* Area type
+* Vehicle damage score
+* Accident impact score
+* Repair risk index
+* Injury severity probability
+* Overall claim risk score
+* Claim description (text)
 
-Policy type
-Accident type
-Claim severity level
-Vehicle category
-Area type
-Vehicle damage score
-Accident impact score
-Repair risk index
-Injury severity probability
-Overall claim risk score
-Claim description (text)
+## Target Variable
 
-# Target Variable
-
-Insurance Claim Amount (continuous value)
+* Insurance Claim Amount (continuous value)
 
 ## How to Run
 
@@ -40,6 +39,7 @@ Insurance Claim Amount (continuous value)
 3. Start Flask app
 
    python app.py
+   
 
 
 4. Open browser
