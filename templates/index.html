@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insurance Claim Amount Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+        }
+        .container {
+            width: 600px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 8px;
+            margin: 6px 0 15px 0;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f5e9;
+            border-left: 5px solid #4CAF50;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>Insurance Claim Amount Prediction</h2>
+
+    <form method="POST">
+
+        <label>Policy Type</label>
+        <select name="policy_type" required>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+        </select>
+
+        <label>Accident Type</label>
+        <select name="accident_type" required>
+            <option value="Collision">Collision</option>
+            <option value="Theft">Theft</option>
+            <option value="Fire">Fire</option>
+        </select>
+
+        <label>Claim Severity Level</label>
+        <select name="claim_severity_level" required>
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+        </select>
+
+        <label>Vehicle Category</label>
+        <select name="vehicle_category" required>
+            <option value="Sedan">Sedan</option>
+            <option value="SUV">SUV</option>
+            <option value="Truck">Truck</option>
+        </select>
+
+        <label>Area Type</label>
+        <select name="area_type" required>
+            <option value="Urban">Urban</option>
+            <option value="Rural">Rural</option>
+        </select>
+
+        <label>Vehicle Damage Score (0–1)</label>
+        <input type="number" name="vehicle_damage_score" step="0.01" min="0" max="1" required>
+
+        <label>Accident Impact Score (0–1)</label>
+        <input type="number" name="accident_impact_score" step="0.01" min="0" max="1" required>
+
+        <label>Repair Risk Index (0–1)</label>
+        <input type="number" name="repair_risk_index" step="0.01" min="0" max="1" required>
+
+        <label>Injury Severity Probability (0–1)</label>
+        <input type="number" name="injury_severity_prob" step="0.01" min="0" max="1" required>
+
+        <label>Overall Claim Risk (0–1)</label>
+        <input type="number" name="overall_claim_risk" step="0.01" min="0" max="1" required>
+
+        <label>Claim Description</label>
+        <textarea name="claim_description" rows="3" required></textarea>
+
+        <button type="submit">Predict Claim Amount</button>
+    </form>
+
+    {% if prediction %}
+    <div class="result">
+        Predicted Insurance Claim Amount: ₹ {{ prediction }}
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
