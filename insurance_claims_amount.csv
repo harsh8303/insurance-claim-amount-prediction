@@ -1,0 +1,1201 @@
+id,policy_type,accident_type,claim_severity_level,vehicle_category,area_type,vehicle_damage_score,accident_impact_score,repair_risk_index,injury_severity_prob,overall_claim_risk,agent_name,policy_number,claim_date,random_noise,claim_description,claim_amount
+10001,A,Theft,Medium,Sedan,Urban,0.636,0.598,0.616,0.35,0.514,Neha,PN27401,2022-01-01,0.167,Moderate theft causing body and light damage,36017
+10002,C,Collision,Medium,Sedan,Urban,0.861,1.0,0.994,0.184,0.644,Kunal,PN25428,2022-01-02,0.049,Moderate collision causing body and light damage,74032
+10003,B,Collision,Medium,Sedan,Urban,0.717,0.025,0.425,0.59,0.55,Neha,PN74372,2022-01-03,0.396,Moderate collision causing body and light damage,38491
+10004,B,Collision,Medium,Sedan,Urban,0.518,0.721,0.565,0.208,0.413,Suresh,PN21971,2022-01-04,0.854,Moderate collision causing body and light damage,42784
+10005,A,Collision,Medium,SUV,Urban,0.651,0.521,0.553,0.391,0.508,Suresh,PN98018,2022-01-05,0.755,Moderate collision causing body and light damage,40923
+10006,A,Theft,Medium,SUV,Urban,0.552,0.692,0.67,0.236,0.473,Suresh,PN95504,2022-01-06,0.517,Moderate theft causing body and light damage,34469
+10007,A,Theft,Low,Sedan,Rural,0.602,0.386,0.358,0.043,0.281,Ramesh,PN26565,2022-01-07,0.572,Minor theft with small damage,21155
+10008,C,Collision,Medium,Sedan,Urban,0.535,0.538,0.529,0.292,0.435,Priya,PN16829,2022-01-08,0.13,Moderate collision causing body and light damage,48898
+10009,B,Collision,Medium,Truck,Rural,0.567,0.728,0.576,0.668,0.611,Anjali,PN86023,2022-01-09,0.841,Moderate collision causing body and light damage,46923
+10010,B,Fire,Medium,SUV,Rural,0.642,1.0,0.797,0.418,0.615,Neha,PN45435,2022-01-10,0.787,Moderate fire causing body and light damage,66503
+10011,A,Collision,Low,SUV,Urban,0.401,0.752,0.562,0.111,0.349,Priya,PN91823,2022-01-11,0.656,Minor collision with small damage,38484
+10012,C,Collision,Medium,Sedan,Urban,0.397,0.338,0.349,0.521,0.428,Kunal,PN48941,2022-01-12,0.466,Moderate collision causing body and light damage,39602
+10013,C,Collision,Medium,SUV,Urban,0.322,0.444,0.356,0.643,0.464,Neha,PN52459,2022-01-13,0.964,Moderate collision causing body and light damage,40899
+10014,A,Theft,Low,Sedan,Rural,0.28,0.437,0.303,0.266,0.284,Neha,PN57976,2022-01-14,0.879,Minor theft with small damage,20880
+10015,A,Theft,Low,SUV,Urban,0.357,0.101,0.343,0.089,0.244,Rahul,PN89199,2022-01-15,0.644,Minor theft with small damage,18761
+10016,A,Collision,Medium,Truck,Urban,0.632,0.467,0.643,0.3,0.504,Neha,PN19176,2022-01-16,0.372,Moderate collision causing body and light damage,39478
+10017,A,Collision,Medium,Sedan,Urban,0.421,0.733,0.519,0.596,0.53,Neha,PN61516,2022-01-17,0.618,Moderate collision causing body and light damage,41601
+10018,B,Theft,Medium,Sedan,Rural,0.703,0.231,0.546,0.245,0.457,Amit,PN25072,2022-01-18,0.575,Moderate theft causing body and light damage,29938
+10019,B,Theft,Medium,Sedan,Rural,0.607,0.812,0.69,0.332,0.53,Anjali,PN81052,2022-01-19,0.394,Moderate theft causing body and light damage,37264
+10020,A,Collision,Medium,Sedan,Urban,0.206,0.672,0.446,0.494,0.417,Amit,PN29689,2022-01-20,0.307,Moderate collision causing body and light damage,34085
+10021,B,Fire,Medium,Sedan,Urban,0.731,0.366,0.546,0.319,0.492,Rahul,PN28599,2022-01-21,0.407,Moderate fire causing body and light damage,52969
+10022,A,Collision,Medium,Sedan,Urban,0.762,0.515,0.605,0.378,0.546,Ramesh,PN92045,2022-01-22,0.574,Moderate collision causing body and light damage,43827
+10023,A,Collision,Medium,SUV,Urban,0.401,0.95,0.725,0.594,0.608,Suresh,PN45388,2022-01-23,0.428,Moderate collision causing body and light damage,47488
+10024,A,Fire,Medium,SUV,Rural,0.684,0.733,0.715,0.19,0.499,Kunal,PN60603,2022-01-24,0.264,Moderate fire causing body and light damage,52515
+10025,B,Collision,Low,Sedan,Urban,0.429,0.552,0.467,0.04,0.288,Kunal,PN84736,2022-01-25,0.761,Minor collision with small damage,37422
+10026,C,Theft,Medium,Truck,Urban,0.62,0.491,0.49,0.305,0.442,Anjali,PN35789,2022-01-26,0.531,Moderate theft causing body and light damage,41830
+10027,A,Collision,Medium,Sedan,Urban,0.347,0.569,0.413,0.323,0.364,Neha,PN87432,2022-01-27,0.068,Moderate collision causing body and light damage,31147
+10028,B,Collision,Medium,Truck,Rural,0.241,0.422,0.25,0.522,0.357,Priya,PN97467,2022-01-28,0.368,Moderate collision causing body and light damage,30238
+10029,B,Fire,Medium,Sedan,Rural,0.523,0.024,0.274,0.459,0.398,Kunal,PN98623,2022-01-29,0.885,Moderate fire causing body and light damage,36051
+10030,A,Collision,Medium,Truck,Urban,0.575,1.0,0.728,0.249,0.506,Amit,PN99289,2022-01-30,0.755,Moderate collision causing body and light damage,48118
+10031,B,Fire,Medium,SUV,Rural,0.52,0.589,0.541,0.18,0.393,Suresh,PN62282,2022-01-31,0.323,Moderate fire causing body and light damage,48120
+10032,A,Collision,Medium,Truck,Urban,0.363,0.65,0.575,0.516,0.509,Ramesh,PN43464,2022-02-01,0.938,Moderate collision causing body and light damage,38994
+10033,A,Collision,Medium,Truck,Urban,0.52,0.536,0.588,0.074,0.369,Suresh,PN77806,2022-02-02,0.077,Moderate collision causing body and light damage,33702
+10034,C,Collision,Medium,Sedan,Urban,0.654,0.366,0.508,0.266,0.441,Neha,PN51994,2022-02-03,0.961,Moderate collision causing body and light damage,45728
+10035,C,Theft,Medium,Truck,Urban,0.591,0.504,0.543,0.144,0.393,Anjali,PN91596,2022-02-04,0.246,Moderate theft causing body and light damage,41872
+10036,C,Collision,Medium,Sedan,Urban,0.637,0.15,0.487,0.228,0.414,Suresh,PN35594,2022-02-05,0.009,Moderate collision causing body and light damage,39501
+10037,A,Fire,Medium,Sedan,Rural,0.466,1.0,0.759,0.119,0.444,Neha,PN62563,2022-02-06,0.434,Moderate fire causing body and light damage,51291
+10038,A,Collision,Medium,Sedan,Urban,0.834,0.241,0.521,0.152,0.436,Rahul,PN90352,2022-02-07,0.359,Moderate collision causing body and light damage,36791
+10039,B,Fire,Low,SUV,Urban,0.365,0.292,0.257,0.184,0.25,Amit,PN96840,2022-02-08,0.539,Minor fire with small damage,33903
+10040,B,Collision,Medium,Sedan,Urban,0.698,0.44,0.588,0.578,0.606,Amit,PN38386,2022-02-09,0.797,Moderate collision causing body and light damage,47623
+10041,A,Fire,Medium,SUV,Urban,0.836,0.872,0.896,0.277,0.636,Neha,PN76652,2022-02-10,0.842,Moderate fire causing body and light damage,67862
+10042,B,Theft,Medium,SUV,Rural,0.696,0.554,0.593,0.255,0.478,Priya,PN27540,2022-02-11,0.401,Moderate theft causing body and light damage,34661
+10043,A,Theft,Medium,SUV,Urban,0.559,0.241,0.415,0.278,0.389,Amit,PN43756,2022-02-12,0.43,Moderate theft causing body and light damage,25059
+10044,C,Theft,Medium,Truck,Urban,0.494,0.864,0.661,0.603,0.605,Anjali,PN53426,2022-02-13,0.148,Moderate theft causing body and light damage,51892
+10045,A,Theft,Medium,Sedan,Rural,0.807,0.733,0.761,0.175,0.536,Priya,PN15587,2022-02-14,0.048,Moderate theft causing body and light damage,38236
+10046,B,Theft,Medium,Sedan,Urban,0.315,0.685,0.376,0.563,0.439,Neha,PN93748,2022-02-15,0.641,Moderate theft causing body and light damage,35151
+10047,A,Collision,Medium,Sedan,Urban,0.406,0.729,0.556,0.578,0.535,Rahul,PN91339,2022-02-16,0.064,Moderate collision causing body and light damage,40892
+10048,B,Collision,Medium,Sedan,Urban,0.52,1.0,0.809,0.619,0.675,Neha,PN99792,2022-02-17,0.734,Moderate collision causing body and light damage,57268
+10049,B,Fire,Medium,Sedan,Urban,0.848,1.0,0.892,0.152,0.587,Rahul,PN59039,2022-02-18,0.539,Moderate fire causing body and light damage,75685
+10050,A,Theft,Medium,Sedan,Rural,0.676,0.378,0.53,0.119,0.395,Kunal,PN20269,2022-02-19,0.199,Moderate theft causing body and light damage,29397
+10051,C,Theft,Medium,Sedan,Rural,0.406,0.956,0.643,0.298,0.458,Amit,PN16088,2022-02-20,0.54,Moderate theft causing body and light damage,43577
+10052,C,Collision,Medium,Truck,Urban,0.538,0.646,0.61,0.51,0.556,Anjali,PN52044,2022-02-21,0.183,Moderate collision causing body and light damage,56014
+10053,C,Collision,Medium,SUV,Rural,0.477,0.675,0.565,0.19,0.398,Priya,PN37081,2022-02-22,0.439,Moderate collision causing body and light damage,45088
+10054,C,Collision,Low,Sedan,Urban,0.458,0.127,0.246,0.076,0.22,Anjali,PN71388,2022-02-23,0.8,Minor collision with small damage,29445
+10055,B,Theft,Medium,SUV,Urban,0.796,0.507,0.718,0.408,0.61,Neha,PN20543,2022-02-24,0.462,Moderate theft causing body and light damage,44047
+10056,C,Collision,Low,Sedan,Urban,0.326,0.347,0.383,0.195,0.296,Kunal,PN13005,2022-02-25,0.149,Minor collision with small damage,35876
+10057,A,Collision,High,Sedan,Urban,0.922,0.757,0.809,0.54,0.724,Amit,PN47203,2022-02-26,0.724,Severe collision with major damage and possible injuries,54732
+10058,A,Collision,High,SUV,Urban,0.766,0.818,0.817,0.648,0.739,Anjali,PN26220,2022-02-27,0.187,Severe collision with major damage and possible injuries,53263
+10059,A,Collision,Medium,SUV,Urban,0.818,0.031,0.452,0.207,0.427,Kunal,PN42696,2022-02-28,0.739,Moderate collision causing body and light damage,33676
+10060,A,Collision,Medium,Sedan,Rural,0.507,0.544,0.558,0.255,0.427,Rahul,PN89683,2022-03-01,0.479,Moderate collision causing body and light damage,35272
+10061,A,Collision,Medium,Truck,Urban,0.57,0.83,0.616,0.298,0.479,Neha,PN56381,2022-03-02,0.454,Moderate collision causing body and light damage,42694
+10062,A,Theft,Medium,Truck,Urban,0.313,0.503,0.459,0.508,0.449,Kunal,PN57984,2022-03-03,0.851,Moderate theft causing body and light damage,30273
+10063,C,Collision,Medium,SUV,Urban,0.495,0.732,0.585,0.292,0.45,Anjali,PN10076,2022-03-04,0.709,Moderate collision causing body and light damage,54057
+10064,A,Collision,Medium,SUV,Urban,0.699,0.638,0.65,0.74,0.696,Kunal,PN28946,2022-03-05,0.033,Moderate collision causing body and light damage,49166
+10065,A,Collision,Medium,SUV,Urban,0.859,0.635,0.879,0.203,0.605,Rahul,PN93492,2022-03-06,0.296,Moderate collision causing body and light damage,49122
+10066,B,Collision,Medium,Sedan,Urban,0.379,0.482,0.445,0.498,0.453,Suresh,PN33471,2022-03-07,0.871,Moderate collision causing body and light damage,38932
+10067,A,Collision,Medium,Sedan,Rural,0.527,0.246,0.367,0.698,0.531,Anjali,PN71531,2022-03-08,0.018,Moderate collision causing body and light damage,30879
+10068,C,Collision,Medium,Sedan,Urban,0.57,0.27,0.309,0.449,0.417,Rahul,PN48738,2022-03-09,0.545,Moderate collision causing body and light damage,40162
+10069,A,Theft,Medium,SUV,Urban,0.321,0.727,0.594,0.224,0.391,Suresh,PN50720,2022-03-10,0.728,Moderate theft causing body and light damage,32047
+10070,C,Collision,Medium,SUV,Urban,0.718,0.555,0.569,0.057,0.394,Amit,PN34440,2022-03-11,0.622,Moderate collision causing body and light damage,47964
+10071,C,Theft,Medium,Sedan,Urban,0.455,0.515,0.435,0.633,0.518,Neha,PN21862,2022-03-12,0.761,Moderate theft causing body and light damage,39548
+10072,A,Fire,Medium,Truck,Urban,0.561,0.444,0.486,0.347,0.445,Kunal,PN78273,2022-03-13,0.726,Moderate fire causing body and light damage,45665
+10073,A,Theft,Medium,Truck,Rural,0.51,0.474,0.562,0.31,0.451,Amit,PN31788,2022-03-14,0.692,Moderate theft causing body and light damage,28494
+10074,C,Collision,High,SUV,Urban,0.442,0.812,0.666,0.904,0.716,Ramesh,PN35522,2022-03-15,0.822,Severe collision with major damage and possible injuries,63555
+10075,B,Collision,Medium,SUV,Urban,0.599,0.466,0.524,0.588,0.565,Rahul,PN80185,2022-03-16,0.646,Moderate collision causing body and light damage,47724
+10076,B,Collision,Medium,Truck,Urban,0.557,0.215,0.401,0.446,0.45,Amit,PN79404,2022-03-17,0.402,Moderate collision causing body and light damage,36477
+10077,C,Collision,Medium,Sedan,Urban,0.526,0.736,0.601,0.39,0.501,Amit,PN62289,2022-03-18,0.472,Moderate collision causing body and light damage,55289
+10078,A,Fire,Medium,SUV,Urban,0.454,0.499,0.484,0.49,0.48,Kunal,PN17824,2022-03-19,0.717,Moderate fire causing body and light damage,45151
+10079,A,Collision,Medium,Sedan,Rural,0.664,0.558,0.615,0.279,0.49,Suresh,PN17799,2022-03-20,0.876,Moderate collision causing body and light damage,38502
+10080,A,Collision,Medium,SUV,Urban,0.931,0.952,0.99,0.151,0.643,Rahul,PN95406,2022-03-21,0.272,Moderate collision causing body and light damage,56675
+10081,C,Theft,Medium,Sedan,Rural,0.628,0.545,0.635,0.618,0.627,Suresh,PN55147,2022-03-22,0.342,Moderate theft causing body and light damage,44277
+10082,B,Theft,Medium,Truck,Urban,0.799,0.622,0.735,0.421,0.623,Neha,PN92922,2022-03-23,0.931,Moderate theft causing body and light damage,45820
+10083,A,Collision,Low,Truck,Rural,0.322,0.255,0.27,0.209,0.256,Amit,PN18614,2022-03-24,0.579,Minor collision with small damage,23081
+10084,A,Collision,Medium,Sedan,Urban,0.632,0.495,0.6,0.478,0.558,Rahul,PN35147,2022-03-25,0.179,Moderate collision causing body and light damage,40522
+10085,A,Collision,Low,SUV,Urban,0.381,0.702,0.537,0.11,0.335,Amit,PN86637,2022-03-26,0.664,Minor collision with small damage,32646
+10086,A,Collision,Medium,Truck,Urban,0.305,0.161,0.179,0.636,0.387,Neha,PN30914,2022-03-27,0.991,Moderate collision causing body and light damage,25360
+10087,B,Collision,Medium,SUV,Rural,0.452,0.6,0.506,0.673,0.562,Priya,PN73699,2022-03-28,0.823,Moderate collision causing body and light damage,41735
+10088,B,Collision,Medium,Truck,Urban,0.838,0.575,0.711,0.443,0.629,Neha,PN19615,2022-03-29,0.746,Moderate collision causing body and light damage,53997
+10089,C,Collision,Medium,SUV,Urban,0.79,0.56,0.721,0.192,0.523,Suresh,PN60785,2022-03-30,0.208,Moderate collision causing body and light damage,58642
+10090,B,Collision,Medium,Sedan,Urban,0.649,0.809,0.72,0.171,0.486,Suresh,PN98589,2022-03-31,0.876,Moderate collision causing body and light damage,51196
+10091,A,Collision,Medium,Sedan,Rural,0.293,0.634,0.403,0.562,0.445,Anjali,PN67811,2022-04-01,0.526,Moderate collision causing body and light damage,31466
+10092,B,Collision,Medium,Sedan,Urban,0.561,0.92,0.743,0.607,0.652,Amit,PN89017,2022-04-02,0.889,Moderate collision causing body and light damage,53938
+10093,C,Collision,Medium,SUV,Rural,0.66,0.302,0.487,0.835,0.661,Suresh,PN56898,2022-04-03,0.33,Moderate collision causing body and light damage,47968
+10094,B,Theft,Medium,Sedan,Urban,0.635,0.584,0.619,0.427,0.545,Rahul,PN65505,2022-04-04,0.062,Moderate theft causing body and light damage,42012
+10095,C,Theft,Low,SUV,Urban,0.231,0.571,0.447,0.31,0.349,Neha,PN86031,2022-04-05,0.476,Minor theft with small damage,33798
+10096,B,Collision,Medium,SUV,Urban,0.422,0.283,0.403,0.378,0.397,Amit,PN10146,2022-04-06,0.27,Moderate collision causing body and light damage,34092
+10097,B,Collision,Medium,SUV,Rural,0.587,0.789,0.658,0.308,0.504,Neha,PN50275,2022-04-07,0.715,Moderate collision causing body and light damage,45414
+10098,B,Collision,Medium,Truck,Urban,0.707,1.0,0.823,0.169,0.538,Neha,PN25977,2022-04-08,0.957,Moderate collision causing body and light damage,55711
+10099,A,Theft,Medium,Truck,Rural,0.161,0.546,0.301,0.498,0.352,Amit,PN51565,2022-04-09,0.691,Moderate theft causing body and light damage,23336
+10100,A,Theft,Medium,Sedan,Urban,0.568,0.676,0.657,0.392,0.533,Kunal,PN43945,2022-04-10,0.887,Moderate theft causing body and light damage,39072
+10101,A,Collision,Medium,Truck,Urban,0.629,0.571,0.672,0.556,0.617,Priya,PN12594,2022-04-11,0.453,Moderate collision causing body and light damage,45150
+10102,B,Fire,Medium,SUV,Urban,0.77,0.372,0.555,0.321,0.504,Anjali,PN86610,2022-04-12,0.772,Moderate fire causing body and light damage,54275
+10103,A,Collision,Medium,SUV,Urban,0.739,0.095,0.405,0.291,0.426,Kunal,PN67655,2022-04-13,0.843,Moderate collision causing body and light damage,32333
+10104,B,Collision,Medium,Truck,Rural,0.717,0.374,0.618,0.623,0.64,Suresh,PN37431,2022-04-14,0.711,Moderate collision causing body and light damage,41360
+10105,C,Theft,Medium,Sedan,Rural,0.44,0.202,0.346,0.327,0.357,Ramesh,PN92684,2022-04-15,0.508,Moderate theft causing body and light damage,28077
+10106,A,Fire,Medium,Sedan,Rural,0.218,0.976,0.619,0.242,0.388,Anjali,PN98197,2022-04-16,0.626,Moderate fire causing body and light damage,45281
+10107,B,Theft,Medium,Truck,Rural,0.521,0.521,0.462,0.528,0.5,Kunal,PN37571,2022-04-17,0.701,Moderate theft causing body and light damage,34936
+10108,C,Theft,Medium,Sedan,Urban,0.8,0.464,0.666,0.404,0.588,Ramesh,PN75971,2022-04-18,0.253,Moderate theft causing body and light damage,48545
+10109,A,Collision,High,Truck,Urban,0.879,0.772,0.779,0.716,0.774,Ramesh,PN71797,2022-04-19,0.81,Severe collision with major damage and possible injuries,56786
+10110,A,Theft,Medium,Truck,Rural,0.742,0.27,0.449,0.53,0.54,Suresh,PN53937,2022-04-20,0.95,Moderate theft causing body and light damage,28573
+10111,A,Collision,Medium,Sedan,Urban,0.686,0.358,0.505,0.307,0.462,Priya,PN69643,2022-04-21,0.465,Moderate collision causing body and light damage,36894
+10112,A,Fire,Medium,Truck,Rural,0.676,0.567,0.592,0.134,0.426,Neha,PN92054,2022-04-22,0.701,Moderate fire causing body and light damage,43194
+10113,C,Collision,Medium,Sedan,Rural,0.489,0.807,0.637,0.36,0.496,Amit,PN96538,2022-04-23,0.737,Moderate collision causing body and light damage,49979
+10114,C,Theft,Medium,SUV,Urban,0.574,0.675,0.553,0.574,0.566,Priya,PN70051,2022-04-24,0.662,Moderate theft causing body and light damage,47267
+10115,B,Collision,Medium,SUV,Rural,0.934,0.612,0.821,0.336,0.649,Ramesh,PN77902,2022-04-25,0.547,Moderate collision causing body and light damage,52073
+10116,C,Theft,Medium,Truck,Urban,0.411,0.57,0.547,0.483,0.494,Anjali,PN87903,2022-04-26,0.882,Moderate theft causing body and light damage,41012
+10117,C,Collision,Medium,Sedan,Urban,0.923,0.65,0.689,0.506,0.663,Rahul,PN86990,2022-04-27,0.449,Moderate collision causing body and light damage,65573
+10118,A,Theft,Medium,SUV,Urban,0.536,0.6,0.617,0.445,0.532,Suresh,PN85204,2022-04-28,0.061,Moderate theft causing body and light damage,35202
+10119,C,Collision,Medium,SUV,Urban,0.865,0.293,0.538,0.372,0.537,Kunal,PN78951,2022-04-29,0.845,Moderate collision causing body and light damage,51746
+10120,B,Collision,Medium,SUV,Urban,0.319,0.562,0.483,0.423,0.426,Anjali,PN85768,2022-04-30,0.674,Moderate collision causing body and light damage,38829
+10121,C,Collision,Medium,SUV,Urban,0.717,0.282,0.496,0.252,0.442,Suresh,PN39039,2022-05-01,0.849,Moderate collision causing body and light damage,46021
+10122,C,Collision,Medium,Sedan,Rural,0.453,0.57,0.513,0.379,0.447,Kunal,PN35568,2022-05-02,0.139,Moderate collision causing body and light damage,44080
+10123,A,Fire,Low,Sedan,Rural,0.317,0.43,0.364,0.157,0.272,Amit,PN47459,2022-05-03,0.031,Minor fire with small damage,31185
+10124,A,Collision,High,Sedan,Urban,0.644,1.0,0.882,0.715,0.768,Rahul,PN17669,2022-05-04,0.934,Severe collision with major damage and possible injuries,57051
+10125,A,Fire,Medium,Truck,Urban,0.802,0.54,0.609,0.279,0.516,Neha,PN99749,2022-05-05,0.148,Moderate fire causing body and light damage,54200
+10126,B,Collision,Medium,Sedan,Rural,0.431,0.199,0.345,0.647,0.483,Priya,PN93816,2022-05-06,0.81,Moderate collision causing body and light damage,30890
+10127,C,Collision,Medium,Sedan,Urban,0.3,0.516,0.463,0.802,0.566,Rahul,PN94985,2022-05-07,0.823,Moderate collision causing body and light damage,47914
+10128,C,Theft,Medium,Truck,Urban,0.582,0.68,0.667,0.721,0.671,Priya,PN45516,2022-05-08,0.709,Moderate theft causing body and light damage,54420
+10129,A,Theft,Medium,Sedan,Urban,0.583,0.968,0.892,0.182,0.546,Priya,PN72484,2022-05-09,0.131,Moderate theft causing body and light damage,41503
+10130,B,Collision,Medium,Truck,Urban,0.71,0.403,0.53,0.329,0.485,Neha,PN98612,2022-05-10,0.667,Moderate collision causing body and light damage,43085
+10131,B,Collision,Medium,SUV,Urban,0.79,0.154,0.52,0.346,0.504,Neha,PN78197,2022-05-11,0.889,Moderate collision causing body and light damage,40575
+10132,A,Theft,Medium,Truck,Rural,0.588,0.754,0.666,0.407,0.547,Kunal,PN33333,2022-05-12,0.426,Moderate theft causing body and light damage,34656
+10133,A,Collision,High,Sedan,Urban,0.971,0.205,0.65,0.683,0.727,Neha,PN98295,2022-05-13,0.414,Severe collision with major damage and possible injuries,46604
+10134,A,Fire,Medium,Sedan,Urban,0.645,0.441,0.543,0.322,0.475,Amit,PN65611,2022-05-14,0.443,Moderate fire causing body and light damage,48685
+10135,C,Fire,Medium,SUV,Urban,0.531,0.486,0.489,0.387,0.456,Suresh,PN57941,2022-05-15,0.082,Moderate fire causing body and light damage,57195
+10136,A,Theft,Medium,Truck,Urban,0.278,0.533,0.47,0.538,0.459,Ramesh,PN48875,2022-05-16,0.892,Moderate theft causing body and light damage,30847
+10137,B,Collision,Medium,SUV,Urban,0.547,0.722,0.61,0.532,0.566,Neha,PN22698,2022-05-17,0.869,Moderate collision causing body and light damage,50403
+10138,B,Theft,Medium,Sedan,Rural,0.533,0.379,0.385,0.508,0.464,Suresh,PN71826,2022-05-18,0.998,Moderate theft causing body and light damage,28443
+10139,A,Collision,Medium,SUV,Rural,0.792,0.482,0.611,0.25,0.503,Kunal,PN41408,2022-05-19,0.585,Moderate collision causing body and light damage,35490
+10140,C,Collision,Medium,SUV,Urban,0.692,0.546,0.65,0.167,0.466,Neha,PN98421,2022-05-20,0.751,Moderate collision causing body and light damage,51567
+10141,C,Collision,Medium,SUV,Rural,0.364,0.587,0.545,0.291,0.407,Ramesh,PN88845,2022-05-21,0.203,Moderate collision causing body and light damage,40961
+10142,A,Collision,Medium,SUV,Rural,0.634,0.574,0.61,0.538,0.586,Rahul,PN25133,2022-05-22,0.668,Moderate collision causing body and light damage,43020
+10143,B,Fire,Medium,Truck,Rural,0.734,0.659,0.763,0.427,0.623,Anjali,PN83746,2022-05-23,0.65,Moderate fire causing body and light damage,61778
+10144,A,Theft,Medium,SUV,Urban,0.906,0.761,0.765,0.403,0.649,Neha,PN46126,2022-05-24,0.901,Moderate theft causing body and light damage,42701
+10145,A,Theft,Medium,Sedan,Urban,0.778,0.648,0.691,0.302,0.552,Suresh,PN43043,2022-05-25,0.831,Moderate theft causing body and light damage,38653
+10146,A,Collision,High,SUV,Urban,0.752,0.663,0.693,0.771,0.736,Kunal,PN14078,2022-05-26,0.938,Severe collision with major damage and possible injuries,51537
+10147,B,Collision,Medium,Sedan,Urban,0.612,0.154,0.378,0.732,0.566,Kunal,PN63906,2022-05-27,0.869,Moderate collision causing body and light damage,39856
+10148,B,Collision,Medium,Sedan,Urban,0.678,0.563,0.624,0.366,0.532,Anjali,PN21137,2022-05-28,0.869,Moderate collision causing body and light damage,46216
+10149,A,Fire,Medium,Sedan,Urban,0.85,0.67,0.794,0.14,0.544,Amit,PN39350,2022-05-29,0.064,Moderate fire causing body and light damage,59988
+10150,A,Collision,Medium,Sedan,Rural,0.333,0.732,0.511,0.904,0.633,Kunal,PN14698,2022-05-30,0.846,Moderate collision causing body and light damage,38507
+10151,C,Fire,Medium,Sedan,Rural,0.53,0.377,0.46,0.926,0.661,Rahul,PN43132,2022-05-31,0.607,Moderate fire causing body and light damage,58107
+10152,A,Collision,Medium,Sedan,Rural,0.445,0.385,0.413,0.688,0.53,Kunal,PN20165,2022-06-01,0.38,Moderate collision causing body and light damage,33075
+10153,A,Collision,Medium,Truck,Urban,0.676,0.406,0.495,0.318,0.46,Kunal,PN10794,2022-06-02,0.057,Moderate collision causing body and light damage,38707
+10154,B,Theft,Medium,Truck,Urban,0.846,0.684,0.759,0.39,0.629,Rahul,PN23646,2022-06-03,0.678,Moderate theft causing body and light damage,48626
+10155,C,Collision,Medium,Sedan,Urban,0.481,0.808,0.637,0.578,0.582,Anjali,PN98715,2022-06-04,0.328,Moderate collision causing body and light damage,59203
+10156,A,Fire,Low,Truck,Urban,0.122,0.448,0.277,0.345,0.273,Anjali,PN15870,2022-06-05,0.468,Minor fire with small damage,30813
+10157,B,Fire,Medium,SUV,Urban,0.518,0.777,0.649,0.461,0.547,Rahul,PN40736,2022-06-06,0.682,Moderate fire causing body and light damage,63170
+10158,C,Collision,Medium,Sedan,Urban,0.783,0.581,0.686,0.173,0.5,Ramesh,PN68084,2022-06-07,0.912,Moderate collision causing body and light damage,56627
+10159,A,Collision,Medium,Sedan,Urban,0.708,0.519,0.592,0.618,0.625,Suresh,PN26211,2022-06-08,0.825,Moderate collision causing body and light damage,45297
+10160,B,Collision,Medium,SUV,Rural,0.686,0.497,0.655,0.549,0.619,Priya,PN96665,2022-06-09,0.451,Moderate collision causing body and light damage,44374
+10161,A,Fire,Medium,SUV,Urban,0.544,0.737,0.582,0.355,0.483,Kunal,PN69538,2022-06-10,0.388,Moderate fire causing body and light damage,52245
+10162,B,Collision,Low,SUV,Rural,0.344,0.631,0.452,0.146,0.308,Anjali,PN17377,2022-06-11,0.24,Minor collision with small damage,32819
+10163,B,Theft,Medium,Sedan,Urban,0.703,1.0,0.991,0.275,0.647,Priya,PN18861,2022-06-12,0.372,Moderate theft causing body and light damage,55381
+10164,B,Theft,Low,Sedan,Urban,0.433,0.337,0.333,0.182,0.293,Priya,PN27821,2022-06-13,0.111,Minor theft with small damage,26862
+10165,A,Theft,High,Sedan,Urban,1.0,0.68,0.772,0.568,0.736,Amit,PN88488,2022-06-14,0.971,Severe theft with major damage and possible injuries,46217
+10166,C,Collision,Medium,Sedan,Urban,0.714,0.418,0.603,0.363,0.529,Neha,PN84583,2022-06-15,0.574,Moderate collision causing body and light damage,51554
+10167,A,Theft,Medium,Sedan,Urban,0.484,0.333,0.304,0.589,0.454,Kunal,PN36953,2022-06-16,0.128,Moderate theft causing body and light damage,27408
+10168,A,Fire,Low,Sedan,Urban,0.478,0.547,0.501,0.1,0.336,Neha,PN46801,2022-06-17,0.353,Minor fire with small damage,45171
+10169,A,Collision,Medium,Truck,Urban,0.581,0.584,0.69,0.583,0.625,Neha,PN28277,2022-06-18,0.547,Moderate collision causing body and light damage,44905
+10170,B,Collision,Medium,Truck,Urban,0.552,1.0,0.699,0.458,0.573,Amit,PN99439,2022-06-19,0.533,Moderate collision causing body and light damage,56112
+10171,B,Fire,Medium,Sedan,Urban,0.823,0.504,0.565,0.514,0.596,Priya,PN93762,2022-06-20,0.036,Moderate fire causing body and light damage,62333
+10172,A,Collision,Medium,Truck,Rural,0.637,0.267,0.377,0.215,0.364,Rahul,PN32628,2022-06-21,0.951,Moderate collision causing body and light damage,29049
+10173,B,Fire,Medium,Sedan,Urban,0.454,0.618,0.581,0.372,0.472,Neha,PN92246,2022-06-22,0.275,Moderate fire causing body and light damage,55442
+10174,A,Collision,Medium,SUV,Rural,0.978,0.031,0.561,0.353,0.561,Anjali,PN37802,2022-06-23,0.016,Moderate collision causing body and light damage,34817
+10175,B,Collision,Medium,Sedan,Urban,0.61,0.527,0.543,0.573,0.568,Rahul,PN73497,2022-06-24,0.076,Moderate collision causing body and light damage,46076
+10176,A,Fire,Medium,SUV,Rural,0.754,0.554,0.688,0.152,0.487,Rahul,PN94320,2022-06-25,0.58,Moderate fire causing body and light damage,50585
+10177,B,Collision,Medium,Truck,Rural,0.478,0.749,0.683,0.174,0.439,Amit,PN79814,2022-06-26,0.138,Moderate collision causing body and light damage,42595
+10178,A,Collision,Medium,SUV,Urban,0.673,0.793,0.822,0.166,0.53,Anjali,PN63702,2022-06-27,0.042,Moderate collision causing body and light damage,48625
+10179,C,Collision,Medium,Sedan,Urban,0.662,0.424,0.531,0.147,0.404,Amit,PN38677,2022-06-28,0.38,Moderate collision causing body and light damage,47635
+10180,A,Collision,Low,SUV,Rural,0.222,0.512,0.252,0.158,0.209,Suresh,PN17500,2022-06-29,0.623,Minor collision with small damage,23315
+10181,A,Collision,Medium,Sedan,Urban,1.0,0.358,0.638,0.374,0.605,Kunal,PN14015,2022-06-30,0.112,Moderate collision causing body and light damage,48371
+10182,A,Collision,Medium,Truck,Urban,0.858,0.268,0.542,0.436,0.563,Neha,PN97372,2022-07-01,0.313,Moderate collision causing body and light damage,41189
+10183,C,Fire,Medium,SUV,Urban,0.521,0.627,0.561,0.149,0.388,Priya,PN68812,2022-07-02,0.418,Moderate fire causing body and light damage,60759
+10184,C,Collision,Low,Sedan,Rural,0.38,0.232,0.296,0.377,0.345,Ramesh,PN17826,2022-07-03,0.159,Minor collision with small damage,29673
+10185,A,Theft,Medium,SUV,Rural,0.67,0.446,0.614,0.443,0.557,Anjali,PN19201,2022-07-04,0.506,Moderate theft causing body and light damage,31237
+10186,B,Collision,Medium,SUV,Urban,0.617,0.301,0.523,0.586,0.567,Amit,PN39048,2022-07-05,0.085,Moderate collision causing body and light damage,41735
+10187,C,Theft,Medium,Sedan,Urban,0.671,0.687,0.671,0.076,0.433,Rahul,PN29941,2022-07-06,0.047,Moderate theft causing body and light damage,47425
+10188,B,Collision,Medium,SUV,Urban,0.638,1.0,0.874,0.45,0.657,Suresh,PN90641,2022-07-07,0.52,Moderate collision causing body and light damage,57176
+10189,B,Fire,Medium,Sedan,Urban,0.701,0.225,0.481,0.447,0.511,Ramesh,PN68418,2022-07-08,0.248,Moderate fire causing body and light damage,50667
+10190,A,Collision,Medium,SUV,Rural,0.889,0.087,0.491,0.387,0.529,Amit,PN75689,2022-07-09,0.095,Moderate collision causing body and light damage,30419
+10191,A,Collision,Medium,Truck,Urban,0.714,0.519,0.662,0.239,0.503,Suresh,PN51541,2022-07-10,0.424,Moderate collision causing body and light damage,41263
+10192,C,Collision,Low,Truck,Urban,0.39,0.554,0.476,0.155,0.33,Rahul,PN59939,2022-07-11,0.915,Minor collision with small damage,41320
+10193,C,Collision,Medium,SUV,Urban,0.873,0.605,0.841,0.116,0.558,Neha,PN80422,2022-07-12,0.724,Moderate collision causing body and light damage,63243
+10194,B,Collision,Medium,SUV,Rural,0.928,0.438,0.611,0.547,0.649,Kunal,PN33950,2022-07-13,0.816,Moderate collision causing body and light damage,48050
+10195,A,Collision,Medium,Sedan,Urban,1.0,0.5,0.724,0.13,0.542,Kunal,PN77803,2022-07-14,0.872,Moderate collision causing body and light damage,45821
+10196,A,Theft,Low,SUV,Urban,0.375,0.642,0.502,0.151,0.336,Suresh,PN30642,2022-07-15,0.973,Minor theft with small damage,30386
+10197,B,Collision,Medium,Sedan,Urban,0.649,0.81,0.751,0.419,0.598,Amit,PN76506,2022-07-16,0.763,Moderate collision causing body and light damage,54496
+10198,C,Collision,Low,SUV,Urban,0.184,0.061,0.186,0.051,0.132,Kunal,PN51607,2022-07-17,0.608,Minor collision with small damage,20036
+10199,C,Theft,Medium,Sedan,Urban,0.711,0.458,0.583,0.505,0.577,Kunal,PN41288,2022-07-18,0.365,Moderate theft causing body and light damage,45128
+10200,C,Theft,Medium,Sedan,Urban,0.49,0.603,0.476,0.276,0.399,Neha,PN92865,2022-07-19,0.182,Moderate theft causing body and light damage,38541
+10201,B,Collision,Medium,SUV,Urban,0.985,0.321,0.695,0.544,0.692,Rahul,PN24450,2022-07-20,0.687,Moderate collision causing body and light damage,52512
+10202,A,Collision,Medium,Sedan,Rural,0.445,0.983,0.752,0.24,0.486,Priya,PN15618,2022-07-21,0.995,Moderate collision causing body and light damage,41665
+10203,A,Collision,Low,SUV,Rural,0.262,0.391,0.23,0.34,0.28,Kunal,PN44263,2022-07-22,0.467,Minor collision with small damage,23401
+10204,C,Theft,Medium,Sedan,Rural,0.506,0.54,0.523,0.462,0.495,Suresh,PN77583,2022-07-23,0.724,Moderate theft causing body and light damage,40102
+10205,B,Theft,Medium,Sedan,Urban,0.205,0.689,0.367,0.687,0.463,Ramesh,PN84900,2022-07-24,0.495,Moderate theft causing body and light damage,34038
+10206,A,Collision,Medium,SUV,Rural,0.75,0.402,0.543,0.264,0.473,Anjali,PN38794,2022-07-25,0.432,Moderate collision causing body and light damage,32283
+10207,A,Theft,Low,Sedan,Urban,0.187,0.088,0.093,0.229,0.166,Rahul,PN23091,2022-07-26,0.41,Minor theft with small damage,14204
+10208,B,Theft,Medium,Sedan,Urban,0.606,0.443,0.565,0.165,0.413,Neha,PN78422,2022-07-27,0.505,Moderate theft causing body and light damage,32907
+10209,A,Collision,Medium,SUV,Urban,0.184,0.807,0.502,0.374,0.387,Rahul,PN97108,2022-07-28,0.367,Moderate collision causing body and light damage,34705
+10210,A,Fire,Medium,Sedan,Urban,0.536,0.466,0.437,0.571,0.51,Neha,PN25161,2022-07-29,0.749,Moderate fire causing body and light damage,46532
+10211,B,Collision,Medium,Truck,Urban,0.929,0.338,0.678,0.523,0.666,Rahul,PN14158,2022-07-30,0.874,Moderate collision causing body and light damage,51300
+10212,B,Collision,Medium,Sedan,Urban,0.672,0.781,0.655,0.556,0.619,Anjali,PN37663,2022-07-31,0.883,Moderate collision causing body and light damage,52524
+10213,B,Collision,Medium,Sedan,Urban,0.427,0.467,0.464,0.594,0.509,Priya,PN95381,2022-08-01,0.228,Moderate collision causing body and light damage,41304
+10214,A,Collision,Medium,SUV,Urban,0.594,0.422,0.467,0.254,0.407,Suresh,PN16733,2022-08-02,0.896,Moderate collision causing body and light damage,33671
+10215,B,Collision,Medium,Sedan,Urban,0.604,0.587,0.577,0.023,0.361,Ramesh,PN42001,2022-08-03,0.342,Moderate collision causing body and light damage,41903
+10216,A,Fire,Medium,Sedan,Urban,0.695,0.743,0.744,0.26,0.54,Kunal,PN49128,2022-08-04,0.309,Moderate fire causing body and light damage,61312
+10217,A,Collision,Medium,Sedan,Urban,0.327,1.0,0.689,0.562,0.566,Priya,PN59630,2022-08-05,0.727,Moderate collision causing body and light damage,45100
+10218,B,Collision,Medium,Sedan,Rural,0.719,0.757,0.805,0.186,0.54,Suresh,PN19329,2022-08-06,0.305,Moderate collision causing body and light damage,47734
+10219,B,Collision,Medium,Truck,Rural,0.059,0.84,0.445,0.556,0.412,Ramesh,PN63105,2022-08-07,0.053,Moderate collision causing body and light damage,32352
+10220,C,Fire,Medium,Sedan,Urban,0.474,0.424,0.464,0.364,0.426,Rahul,PN73436,2022-08-08,0.374,Moderate fire causing body and light damage,54792
+10221,B,Collision,Medium,SUV,Urban,0.502,0.294,0.376,0.394,0.408,Anjali,PN79579,2022-08-09,0.721,Moderate collision causing body and light damage,36149
+10222,B,Collision,Medium,Truck,Urban,0.727,0.566,0.655,0.557,0.63,Kunal,PN24242,2022-08-10,0.327,Moderate collision causing body and light damage,52678
+10223,A,Collision,Medium,Sedan,Rural,0.605,0.577,0.613,0.28,0.478,Ramesh,PN37133,2022-08-11,0.63,Moderate collision causing body and light damage,36983
+10224,A,Collision,Medium,Truck,Urban,0.319,0.28,0.295,0.697,0.461,Amit,PN34740,2022-08-12,0.66,Moderate collision causing body and light damage,31502
+10225,A,Fire,Medium,Sedan,Urban,0.403,0.506,0.364,0.405,0.388,Ramesh,PN40976,2022-08-13,0.734,Moderate fire causing body and light damage,44392
+10226,A,Fire,Medium,Truck,Urban,0.64,0.65,0.661,0.754,0.694,Suresh,PN50067,2022-08-14,0.897,Moderate fire causing body and light damage,62933
+10227,C,Collision,Medium,Sedan,Urban,0.584,0.64,0.63,0.403,0.53,Priya,PN21231,2022-08-15,0.433,Moderate collision causing body and light damage,54391
+10228,A,Fire,Medium,SUV,Urban,0.484,0.676,0.546,0.262,0.42,Kunal,PN76105,2022-08-16,0.166,Moderate fire causing body and light damage,46602
+10229,C,Theft,Medium,SUV,Rural,0.504,0.623,0.499,0.576,0.531,Priya,PN13328,2022-08-17,0.319,Moderate theft causing body and light damage,39725
+10230,B,Fire,Medium,Sedan,Urban,0.739,0.423,0.655,0.416,0.576,Kunal,PN35261,2022-08-18,0.432,Moderate fire causing body and light damage,58909
+10231,C,Collision,Low,SUV,Urban,0.496,0.422,0.484,0.127,0.343,Amit,PN35262,2022-08-19,0.714,Minor collision with small damage,42138
+10232,B,Collision,Medium,SUV,Rural,0.582,0.25,0.405,0.722,0.567,Suresh,PN13280,2022-08-20,0.013,Moderate collision causing body and light damage,35634
+10233,B,Collision,High,Sedan,Rural,1.0,0.996,0.941,0.452,0.757,Anjali,PN94683,2022-08-21,0.316,Severe collision with major damage and possible injuries,61840
+10234,B,Theft,Medium,Sedan,Urban,0.315,0.553,0.393,0.699,0.5,Anjali,PN41742,2022-08-22,0.78,Moderate theft causing body and light damage,35119
+10235,A,Collision,Medium,SUV,Urban,0.23,0.494,0.427,0.425,0.387,Ramesh,PN13590,2022-08-23,0.671,Moderate collision causing body and light damage,31228
+10236,B,Collision,Medium,SUV,Urban,0.757,0.318,0.544,0.209,0.452,Amit,PN60226,2022-08-24,0.732,Moderate collision causing body and light damage,40628
+10237,A,Collision,Medium,Truck,Rural,0.464,1.0,0.705,0.45,0.555,Rahul,PN97542,2022-08-25,0.812,Moderate collision causing body and light damage,44889
+10238,A,Theft,Medium,SUV,Urban,0.536,0.282,0.434,0.481,0.473,Neha,PN23570,2022-08-26,0.783,Moderate theft causing body and light damage,26934
+10239,B,Collision,Low,Truck,Rural,0.444,0.443,0.403,0.241,0.346,Rahul,PN99443,2022-08-27,0.682,Minor collision with small damage,31496
+10240,A,Theft,Medium,SUV,Urban,0.548,0.654,0.676,0.291,0.496,Suresh,PN19533,2022-08-28,0.44,Moderate theft causing body and light damage,35842
+10241,C,Fire,Medium,Sedan,Urban,0.92,0.7,0.878,0.362,0.68,Amit,PN92283,2022-08-29,0.984,Moderate fire causing body and light damage,85977
+10242,C,Collision,High,Sedan,Urban,0.76,0.789,0.752,0.701,0.733,Priya,PN23366,2022-08-30,0.569,Severe collision with major damage and possible injuries,69019
+10243,C,Theft,Medium,SUV,Urban,0.772,1.0,0.855,0.076,0.527,Amit,PN86368,2022-08-31,0.203,Moderate theft causing body and light damage,57093
+10244,A,Collision,Low,SUV,Urban,0.317,0.677,0.366,0.34,0.345,Neha,PN38325,2022-09-01,0.293,Minor collision with small damage,33257
+10245,A,Fire,Medium,Sedan,Urban,0.37,0.286,0.254,0.637,0.43,Anjali,PN44798,2022-09-02,0.694,Moderate fire causing body and light damage,36959
+10246,C,Collision,Low,Sedan,Urban,0.032,0.486,0.192,0.136,0.137,Suresh,PN49453,2022-09-03,0.925,Minor collision with small damage,25269
+10247,B,Theft,Medium,Truck,Rural,0.438,0.627,0.539,0.945,0.682,Amit,PN32849,2022-09-04,0.179,Moderate theft causing body and light damage,37559
+10248,C,Theft,High,SUV,Urban,0.791,1.0,0.879,0.586,0.745,Kunal,PN65943,2022-09-05,0.082,Severe theft with major damage and possible injuries,64443
+10249,C,Fire,Medium,Sedan,Rural,0.703,0.201,0.385,0.16,0.359,Rahul,PN16157,2022-09-06,0.882,Moderate fire causing body and light damage,44680
+10250,C,Theft,Medium,SUV,Urban,0.556,0.851,0.689,0.395,0.545,Ramesh,PN40178,2022-09-07,0.915,Moderate theft causing body and light damage,51603
+10251,A,Collision,Medium,Sedan,Urban,0.596,0.595,0.621,0.233,0.46,Rahul,PN92537,2022-09-08,0.276,Moderate collision causing body and light damage,40514
+10252,A,Theft,Medium,Sedan,Urban,0.462,0.759,0.637,0.236,0.442,Suresh,PN39030,2022-09-09,0.377,Moderate theft causing body and light damage,34150
+10253,C,Fire,Medium,Sedan,Urban,0.641,0.525,0.488,0.416,0.49,Anjali,PN61134,2022-09-10,0.66,Moderate fire causing body and light damage,64364
+10254,A,Collision,Medium,Sedan,Rural,0.753,0.339,0.54,0.056,0.389,Amit,PN75729,2022-09-11,0.33,Moderate collision causing body and light damage,31712
+10255,A,Collision,Low,SUV,Urban,0.277,0.738,0.438,0.07,0.259,Anjali,PN18164,2022-09-12,0.877,Minor collision with small damage,32568
+10256,B,Fire,Medium,Sedan,Urban,0.66,0.714,0.732,0.425,0.595,Rahul,PN96378,2022-09-13,0.108,Moderate fire causing body and light damage,66295
+10257,C,Theft,Medium,Truck,Urban,0.786,0.793,0.829,0.295,0.607,Amit,PN11119,2022-09-14,0.038,Moderate theft causing body and light damage,54885
+10258,B,Theft,Medium,Truck,Urban,0.517,0.547,0.487,0.453,0.479,Rahul,PN23351,2022-09-15,0.208,Moderate theft causing body and light damage,36943
+10259,B,Collision,Medium,Sedan,Urban,0.74,0.4,0.532,0.391,0.517,Suresh,PN66063,2022-09-16,0.286,Moderate collision causing body and light damage,45437
+10260,A,Theft,Medium,SUV,Rural,1.0,0.16,0.557,0.219,0.51,Priya,PN82076,2022-09-17,0.113,Moderate theft causing body and light damage,32040
+10261,B,Collision,Medium,SUV,Rural,0.579,0.755,0.554,0.502,0.539,Anjali,PN55162,2022-09-18,0.066,Moderate collision causing body and light damage,45678
+10262,C,Theft,Medium,Truck,Urban,0.679,0.656,0.684,0.438,0.584,Anjali,PN41760,2022-09-19,0.756,Moderate theft causing body and light damage,50872
+10263,A,Collision,Medium,Sedan,Urban,0.452,0.309,0.367,0.882,0.59,Rahul,PN59678,2022-09-20,0.164,Moderate collision causing body and light damage,35213
+10264,B,Theft,Medium,SUV,Urban,0.636,0.415,0.574,0.276,0.467,Ramesh,PN99074,2022-09-21,0.914,Moderate theft causing body and light damage,39067
+10265,C,Fire,Medium,SUV,Urban,0.692,0.433,0.508,0.17,0.409,Rahul,PN57628,2022-09-22,0.368,Moderate fire causing body and light damage,57407
+10266,B,Collision,Medium,Sedan,Urban,0.639,0.179,0.378,0.585,0.513,Suresh,PN50739,2022-09-23,0.671,Moderate collision causing body and light damage,39745
+10267,B,Fire,Low,Sedan,Urban,0.396,0.346,0.295,0.365,0.343,Rahul,PN39738,2022-09-24,0.225,Minor fire with small damage,40676
+10268,B,Collision,Medium,SUV,Urban,0.641,0.267,0.404,0.191,0.366,Ramesh,PN56921,2022-09-25,0.24,Moderate collision causing body and light damage,34190
+10269,A,Fire,Medium,SUV,Urban,0.892,0.447,0.611,0.429,0.594,Kunal,PN71068,2022-09-26,0.575,Moderate fire causing body and light damage,56704
+10270,A,Theft,Medium,Sedan,Urban,0.69,0.365,0.577,0.459,0.552,Ramesh,PN33581,2022-09-27,0.561,Moderate theft causing body and light damage,34405
+10271,C,Collision,Medium,SUV,Urban,0.792,0.143,0.433,0.38,0.484,Suresh,PN31485,2022-09-28,0.769,Moderate collision causing body and light damage,47012
+10272,C,Theft,Medium,Sedan,Urban,0.553,1.0,0.783,0.49,0.62,Amit,PN46294,2022-09-29,0.758,Moderate theft causing body and light damage,55062
+10273,C,Fire,Medium,SUV,Urban,0.75,0.863,0.788,0.254,0.567,Rahul,PN63001,2022-09-30,0.671,Moderate fire causing body and light damage,80052
+10274,C,Collision,Medium,Sedan,Rural,0.656,0.355,0.442,0.59,0.544,Priya,PN11634,2022-10-01,0.449,Moderate collision causing body and light damage,42053
+10275,B,Collision,Medium,Truck,Urban,0.41,0.618,0.506,0.474,0.474,Ramesh,PN53969,2022-10-02,0.891,Moderate collision causing body and light damage,44547
+10276,B,Theft,Medium,Sedan,Urban,0.664,0.654,0.689,0.154,0.47,Kunal,PN10093,2022-10-03,0.623,Moderate theft causing body and light damage,39224
+10277,C,Theft,Medium,Sedan,Urban,0.402,0.848,0.564,0.509,0.51,Ramesh,PN38370,2022-10-04,0.99,Moderate theft causing body and light damage,46929
+10278,B,Theft,Medium,Sedan,Rural,0.473,0.345,0.45,0.282,0.387,Rahul,PN29750,2022-10-05,0.819,Moderate theft causing body and light damage,27400
+10279,B,Theft,High,Sedan,Urban,0.638,0.823,0.688,0.917,0.77,Amit,PN26472,2022-10-06,0.044,Severe theft with major damage and possible injuries,50392
+10280,C,Collision,Medium,SUV,Urban,0.659,0.413,0.512,0.274,0.446,Anjali,PN28934,2022-10-07,0.321,Moderate collision causing body and light damage,48782
+10281,C,Theft,Low,Sedan,Urban,0.362,0.216,0.316,0.17,0.267,Rahul,PN53774,2022-10-08,0.572,Minor theft with small damage,28811
+10282,A,Collision,Medium,Truck,Rural,0.811,0.731,0.738,0.244,0.555,Anjali,PN98057,2022-10-09,0.721,Moderate collision causing body and light damage,44114
+10283,A,Collision,Medium,Sedan,Rural,0.714,0.873,0.795,0.354,0.603,Kunal,PN49125,2022-10-10,0.55,Moderate collision causing body and light damage,47051
+10284,A,Collision,Medium,Sedan,Urban,0.459,1.0,0.714,0.313,0.503,Kunal,PN76981,2022-10-11,0.786,Moderate collision causing body and light damage,46983
+10285,B,Collision,Medium,Sedan,Rural,0.292,0.25,0.278,0.498,0.369,Suresh,PN96541,2022-10-12,0.283,Moderate collision causing body and light damage,28337
+10286,A,Collision,Medium,Sedan,Rural,0.571,0.725,0.529,0.122,0.375,Priya,PN49103,2022-10-13,0.184,Moderate collision causing body and light damage,34666
+10287,B,Collision,Low,Sedan,Rural,0.511,0.448,0.388,0.193,0.334,Rahul,PN93750,2022-10-14,0.054,Minor collision with small damage,33567
+10288,B,Theft,Medium,Sedan,Urban,0.623,0.746,0.715,0.385,0.565,Ramesh,PN70085,2022-10-15,0.573,Moderate theft causing body and light damage,45349
+10289,A,Collision,Low,SUV,Urban,0.527,0.182,0.407,0.129,0.32,Ramesh,PN98705,2022-10-16,0.689,Minor collision with small damage,29560
+10290,B,Collision,Low,Sedan,Urban,0.199,0.234,0.171,0.561,0.332,Suresh,PN66543,2022-10-17,0.326,Minor collision with small damage,25705
+10291,A,Collision,Medium,SUV,Rural,0.522,0.356,0.427,0.206,0.358,Amit,PN26938,2022-10-18,0.614,Moderate collision causing body and light damage,28659
+10292,A,Collision,Medium,SUV,Urban,0.539,0.57,0.569,0.302,0.456,Rahul,PN87492,2022-10-19,0.052,Moderate collision causing body and light damage,39264
+10293,C,Collision,Medium,Sedan,Urban,0.727,0.39,0.593,0.131,0.435,Neha,PN61586,2022-10-20,0.099,Moderate collision causing body and light damage,47087
+10294,A,Collision,Low,SUV,Urban,0.46,0.715,0.486,0.112,0.331,Amit,PN68024,2022-10-21,0.702,Minor collision with small damage,37894
+10295,A,Theft,High,Truck,Rural,0.936,0.807,0.827,0.653,0.779,Ramesh,PN49687,2022-10-22,0.368,Severe theft with major damage and possible injuries,44548
+10296,B,Theft,Low,SUV,Rural,0.218,0.7,0.442,0.312,0.345,Kunal,PN81129,2022-10-23,0.671,Minor theft with small damage,28607
+10297,C,Theft,Medium,SUV,Urban,0.862,0.955,0.944,0.206,0.632,Rahul,PN36207,2022-10-24,0.832,Moderate theft causing body and light damage,60055
+10298,A,Collision,Medium,Sedan,Rural,0.555,0.654,0.729,0.563,0.628,Kunal,PN59354,2022-10-25,0.853,Moderate collision causing body and light damage,40433
+10299,B,Collision,Medium,SUV,Urban,0.772,0.246,0.497,0.864,0.699,Ramesh,PN47310,2022-10-26,0.172,Moderate collision causing body and light damage,47472
+10300,A,Fire,Medium,SUV,Rural,0.616,0.891,0.683,0.33,0.528,Priya,PN58960,2022-10-27,0.486,Moderate fire causing body and light damage,53770
+10301,A,Collision,Medium,SUV,Urban,0.828,0.399,0.633,0.584,0.653,Amit,PN71262,2022-10-28,0.734,Moderate collision causing body and light damage,46697
+10302,B,Collision,Medium,Truck,Urban,0.523,0.778,0.716,0.604,0.633,Neha,PN23403,2022-10-29,0.774,Moderate collision causing body and light damage,53365
+10303,B,Collision,Medium,Sedan,Rural,0.38,0.943,0.667,0.451,0.523,Priya,PN23065,2022-10-30,0.785,Moderate collision causing body and light damage,45777
+10304,B,Collision,Medium,Sedan,Urban,0.884,0.664,0.729,0.322,0.597,Neha,PN99930,2022-10-31,0.228,Moderate collision causing body and light damage,54531
+10305,B,Collision,Medium,SUV,Rural,0.577,0.176,0.425,0.789,0.601,Priya,PN36801,2022-11-01,0.193,Moderate collision causing body and light damage,37631
+10306,C,Collision,Medium,Truck,Urban,0.644,0.32,0.516,0.169,0.403,Amit,PN39230,2022-11-02,0.59,Moderate collision causing body and light damage,46154
+10307,B,Collision,High,Sedan,Urban,0.847,0.881,0.813,0.692,0.771,Ramesh,PN82706,2022-11-03,0.741,Severe collision with major damage and possible injuries,64911
+10308,A,Collision,Medium,Sedan,Urban,0.394,0.508,0.47,0.309,0.39,Neha,PN93942,2022-11-04,0.319,Moderate collision causing body and light damage,34803
+10309,C,Theft,Medium,Sedan,Urban,0.719,0.57,0.694,0.276,0.532,Anjali,PN39968,2022-11-05,0.105,Moderate theft causing body and light damage,48277
+10310,A,Theft,Medium,Sedan,Urban,0.482,0.74,0.67,0.12,0.412,Amit,PN52517,2022-11-06,0.717,Moderate theft causing body and light damage,32424
+10311,B,Theft,Medium,SUV,Urban,0.574,0.724,0.646,0.315,0.499,Neha,PN63239,2022-11-07,0.3,Moderate theft causing body and light damage,39687
+10312,A,Theft,Medium,SUV,Urban,0.614,0.62,0.599,0.177,0.433,Anjali,PN42655,2022-11-08,0.166,Moderate theft causing body and light damage,34652
+10313,A,Fire,Medium,Sedan,Urban,0.3,0.498,0.46,0.625,0.494,Amit,PN72771,2022-11-09,0.148,Moderate fire causing body and light damage,44371
+10314,C,Collision,Medium,Sedan,Rural,0.444,0.472,0.398,0.45,0.428,Priya,PN55984,2022-11-10,0.315,Moderate collision causing body and light damage,40327
+10315,C,Collision,High,Sedan,Rural,0.87,0.764,0.839,0.493,0.707,Amit,PN21049,2022-11-11,0.593,Severe collision with major damage and possible injuries,65195
+10316,B,Collision,Medium,Sedan,Urban,0.777,0.688,0.664,0.288,0.536,Priya,PN82321,2022-11-12,0.358,Moderate collision causing body and light damage,52383
+10317,B,Theft,Medium,SUV,Rural,0.587,0.486,0.59,0.562,0.578,Ramesh,PN74813,2022-11-13,0.021,Moderate theft causing body and light damage,37360
+10318,A,Fire,Medium,Truck,Urban,0.649,0.821,0.722,0.195,0.496,Priya,PN14655,2022-11-14,0.097,Moderate fire causing body and light damage,57706
+10319,A,Collision,Medium,Truck,Urban,0.541,0.518,0.593,0.258,0.449,Suresh,PN93994,2022-11-15,0.291,Moderate collision causing body and light damage,37270
+10320,A,Fire,Medium,Sedan,Rural,0.871,0.337,0.629,0.225,0.516,Ramesh,PN82454,2022-11-16,0.66,Moderate fire causing body and light damage,46969
+10321,B,Collision,Medium,Truck,Rural,0.56,0.36,0.399,0.519,0.479,Kunal,PN78972,2022-11-17,0.099,Moderate collision causing body and light damage,34835
+10322,B,Fire,Medium,SUV,Urban,0.646,0.305,0.547,0.235,0.442,Kunal,PN31432,2022-11-18,0.561,Moderate fire causing body and light damage,51706
+10323,B,Collision,Medium,SUV,Rural,0.829,0.482,0.733,0.512,0.664,Kunal,PN75896,2022-11-19,0.12,Moderate collision causing body and light damage,49364
+10324,A,Collision,Medium,SUV,Urban,0.445,0.858,0.696,0.036,0.382,Rahul,PN80135,2022-11-20,0.212,Moderate collision causing body and light damage,41468
+10325,C,Collision,High,Sedan,Rural,0.912,0.349,0.592,0.761,0.723,Anjali,PN52936,2022-11-21,0.172,Severe collision with major damage and possible injuries,56778
+10326,B,Collision,Medium,Sedan,Urban,0.294,0.597,0.43,0.303,0.352,Rahul,PN23750,2022-11-22,0.067,Moderate collision causing body and light damage,33789
+10327,B,Collision,Medium,Sedan,Urban,0.926,0.386,0.663,0.554,0.672,Amit,PN37987,2022-11-23,0.671,Moderate collision causing body and light damage,53591
+10328,B,Collision,Low,Sedan,Urban,0.525,0.485,0.47,0.034,0.307,Amit,PN36165,2022-11-24,0.463,Minor collision with small damage,34696
+10329,B,Theft,Low,Sedan,Urban,0.551,0.172,0.447,0.079,0.321,Anjali,PN60541,2022-11-25,0.831,Minor theft with small damage,27116
+10330,A,Collision,Medium,SUV,Urban,0.222,0.495,0.366,0.763,0.496,Suresh,PN34346,2022-11-26,0.099,Moderate collision causing body and light damage,33543
+10331,A,Collision,Low,SUV,Rural,0.509,0.502,0.37,0.163,0.315,Amit,PN13514,2022-11-27,0.145,Minor collision with small damage,29903
+10332,C,Theft,Medium,SUV,Urban,0.392,0.685,0.556,0.478,0.492,Ramesh,PN34838,2022-11-28,0.306,Moderate theft causing body and light damage,43569
+10333,A,Theft,Medium,Sedan,Urban,0.478,0.606,0.525,0.621,0.554,Ramesh,PN37559,2022-11-29,0.766,Moderate theft causing body and light damage,36672
+10334,A,Collision,Medium,Truck,Urban,0.573,0.25,0.408,0.185,0.352,Kunal,PN69207,2022-11-30,0.306,Moderate collision causing body and light damage,29932
+10335,A,Collision,High,Truck,Urban,0.792,0.821,0.788,0.693,0.751,Priya,PN26385,2022-12-01,0.408,Severe collision with major damage and possible injuries,56264
+10336,A,Collision,Medium,SUV,Urban,0.642,0.603,0.662,0.45,0.573,Neha,PN28317,2022-12-02,0.302,Moderate collision causing body and light damage,44829
+10337,C,Collision,Medium,Truck,Urban,0.662,0.6,0.687,0.547,0.626,Amit,PN10393,2022-12-03,0.08,Moderate collision causing body and light damage,57443
+10338,B,Theft,Medium,SUV,Urban,0.381,0.548,0.478,0.307,0.39,Suresh,PN34881,2022-12-04,0.939,Moderate theft causing body and light damage,31312
+10339,B,Collision,Low,Truck,Urban,0.424,0.421,0.405,0.175,0.317,Kunal,PN37955,2022-12-05,0.549,Minor collision with small damage,33568
+10340,A,Collision,High,Sedan,Urban,0.96,0.604,0.78,0.526,0.715,Anjali,PN68308,2022-12-06,0.788,Severe collision with major damage and possible injuries,54500
+10341,B,Theft,Medium,Sedan,Rural,0.453,0.669,0.562,0.609,0.559,Rahul,PN68014,2022-12-07,0.658,Moderate theft causing body and light damage,36682
+10342,B,Collision,Medium,Sedan,Rural,0.931,0.113,0.482,0.472,0.568,Anjali,PN75430,2022-12-08,0.514,Moderate collision causing body and light damage,38284
+10343,A,Collision,Medium,Sedan,Urban,0.551,0.415,0.512,0.764,0.621,Ramesh,PN82031,2022-12-09,0.09,Moderate collision causing body and light damage,41003
+10344,B,Collision,Medium,Sedan,Urban,0.6,0.486,0.566,0.575,0.577,Ramesh,PN96973,2022-12-10,0.643,Moderate collision causing body and light damage,48971
+10345,A,Fire,High,SUV,Urban,0.814,0.614,0.791,0.748,0.779,Ramesh,PN69596,2022-12-11,0.155,Severe fire with major damage and possible injuries,67070
+10346,B,Collision,High,SUV,Urban,0.854,0.848,0.914,0.779,0.848,Neha,PN11713,2022-12-12,0.414,Severe collision with major damage and possible injuries,66534
+10347,B,Theft,Medium,SUV,Urban,0.578,0.357,0.433,0.622,0.538,Neha,PN30428,2022-12-13,0.629,Moderate theft causing body and light damage,36187
+10348,A,Collision,Medium,Sedan,Urban,0.522,0.426,0.515,0.506,0.513,Amit,PN72160,2022-12-14,0.782,Moderate collision causing body and light damage,38859
+10349,A,Collision,Medium,Truck,Urban,0.589,0.422,0.458,0.164,0.366,Rahul,PN76171,2022-12-15,0.685,Moderate collision causing body and light damage,33519
+10350,B,Theft,High,SUV,Urban,0.668,0.35,0.543,0.874,0.701,Suresh,PN90729,2022-12-16,0.672,Severe theft with major damage and possible injuries,42213
+10351,B,Fire,Medium,Sedan,Urban,0.778,0.463,0.595,0.228,0.485,Neha,PN70843,2022-12-17,0.149,Moderate fire causing body and light damage,56823
+10352,C,Theft,Medium,SUV,Rural,0.601,0.743,0.621,0.346,0.507,Anjali,PN33003,2022-12-18,0.346,Moderate theft causing body and light damage,44057
+10353,B,Theft,Medium,Sedan,Rural,0.724,0.287,0.519,0.236,0.447,Priya,PN90169,2022-12-19,0.043,Moderate theft causing body and light damage,31322
+10354,A,Fire,Medium,Sedan,Urban,0.928,0.657,0.659,0.36,0.593,Neha,PN52077,2022-12-20,0.719,Moderate fire causing body and light damage,62057
+10355,A,Collision,Low,Truck,Urban,0.676,0.125,0.313,0.174,0.33,Ramesh,PN36730,2022-12-21,0.953,Minor collision with small damage,27798
+10356,B,Collision,Medium,Sedan,Rural,0.662,0.41,0.527,0.486,0.538,Anjali,PN82981,2022-12-22,0.264,Moderate collision causing body and light damage,39336
+10357,A,Theft,Medium,SUV,Rural,0.296,0.468,0.386,0.342,0.35,Suresh,PN89817,2022-12-23,0.088,Moderate theft causing body and light damage,24512
+10358,B,Collision,Medium,Truck,Urban,0.074,0.969,0.503,0.426,0.386,Amit,PN82138,2022-12-24,0.476,Moderate collision causing body and light damage,40890
+10359,C,Theft,Medium,SUV,Urban,0.678,0.481,0.501,0.556,0.558,Neha,PN75573,2022-12-25,0.857,Moderate theft causing body and light damage,45604
+10360,B,Fire,Low,Sedan,Urban,0.581,0.0,0.25,0.083,0.249,Ramesh,PN38869,2022-12-26,0.552,Minor fire with small damage,31716
+10361,A,Collision,Medium,Sedan,Urban,0.497,0.05,0.293,0.521,0.425,Kunal,PN41076,2022-12-27,0.047,Moderate collision causing body and light damage,29253
+10362,B,Collision,Medium,Sedan,Urban,0.649,0.559,0.633,0.284,0.496,Priya,PN96005,2022-12-28,0.974,Moderate collision causing body and light damage,45588
+10363,B,Theft,Medium,SUV,Urban,0.588,0.703,0.645,0.319,0.503,Priya,PN35094,2022-12-29,0.829,Moderate theft causing body and light damage,40770
+10364,B,Collision,Medium,Sedan,Urban,0.826,0.644,0.793,0.396,0.641,Kunal,PN36817,2022-12-30,0.132,Moderate collision causing body and light damage,56725
+10365,C,Theft,Medium,Sedan,Urban,0.617,0.592,0.624,0.206,0.456,Amit,PN20555,2022-12-31,0.922,Moderate theft causing body and light damage,45493
+10366,A,Collision,Medium,Truck,Rural,0.451,0.841,0.608,0.394,0.491,Amit,PN80656,2023-01-01,0.451,Moderate collision causing body and light damage,38368
+10367,C,Theft,Medium,SUV,Urban,0.798,0.415,0.593,0.459,0.58,Neha,PN90214,2023-01-02,0.372,Moderate theft causing body and light damage,49518
+10368,C,Collision,Medium,Sedan,Urban,0.557,0.774,0.595,0.441,0.526,Amit,PN60193,2023-01-03,0.461,Moderate collision causing body and light damage,56900
+10369,A,Theft,Medium,SUV,Urban,0.705,0.142,0.418,0.265,0.414,Anjali,PN14715,2023-01-04,0.835,Moderate theft causing body and light damage,26355
+10370,A,Collision,Medium,SUV,Urban,0.505,0.324,0.47,0.304,0.41,Rahul,PN44162,2023-01-05,0.659,Moderate collision causing body and light damage,33494
+10371,A,Collision,Low,Sedan,Rural,0.47,0.098,0.318,0.07,0.249,Rahul,PN48458,2023-01-06,0.059,Minor collision with small damage,21036
+10372,A,Collision,Medium,Sedan,Urban,0.617,0.481,0.619,0.19,0.447,Ramesh,PN13140,2023-01-07,0.958,Moderate collision causing body and light damage,39248
+10373,A,Theft,Medium,Truck,Urban,0.603,0.538,0.555,0.12,0.39,Ramesh,PN84174,2023-01-08,0.148,Moderate theft causing body and light damage,31648
+10374,B,Fire,Medium,SUV,Rural,0.696,0.579,0.705,0.552,0.642,Anjali,PN27383,2023-01-09,0.746,Moderate fire causing body and light damage,59369
+10375,A,Collision,Medium,SUV,Urban,0.546,0.565,0.546,0.234,0.421,Ramesh,PN27718,2023-01-10,0.636,Moderate collision causing body and light damage,36752
+10376,A,Collision,Low,Sedan,Rural,0.233,0.318,0.349,0.393,0.343,Rahul,PN86160,2023-01-11,0.188,Minor collision with small damage,25688
+10377,C,Collision,Medium,Sedan,Urban,0.513,0.502,0.507,0.388,0.461,Neha,PN67399,2023-01-12,0.171,Moderate collision causing body and light damage,46398
+10378,A,Theft,Medium,Sedan,Urban,0.759,0.176,0.503,0.311,0.477,Neha,PN97008,2023-01-13,0.87,Moderate theft causing body and light damage,29258
+10379,C,Theft,Medium,Sedan,Urban,0.541,0.891,0.789,0.161,0.488,Amit,PN31863,2023-01-14,0.42,Moderate theft causing body and light damage,50538
+10380,A,Collision,Medium,Sedan,Urban,0.551,0.474,0.503,0.294,0.429,Neha,PN81626,2023-01-15,0.655,Moderate collision causing body and light damage,38404
+10381,A,Collision,Medium,Sedan,Rural,0.797,0.428,0.623,0.647,0.668,Ramesh,PN21377,2023-01-16,0.504,Moderate collision causing body and light damage,41473
+10382,B,Collision,Medium,Truck,Rural,0.458,0.947,0.767,0.554,0.62,Suresh,PN93031,2023-01-17,0.727,Moderate collision causing body and light damage,50653
+10383,B,Collision,Medium,Truck,Urban,0.291,0.239,0.259,0.688,0.437,Ramesh,PN70523,2023-01-18,0.479,Moderate collision causing body and light damage,33076
+10384,C,Collision,Medium,SUV,Urban,0.568,0.269,0.352,0.738,0.55,Rahul,PN24870,2023-01-19,0.287,Moderate collision causing body and light damage,47050
+10385,B,Fire,Medium,Truck,Rural,0.503,0.276,0.497,0.334,0.433,Kunal,PN67487,2023-01-20,0.363,Moderate fire causing body and light damage,41353
+10386,C,Collision,Medium,Sedan,Rural,0.407,0.533,0.446,0.65,0.52,Suresh,PN29300,2023-01-21,0.859,Moderate collision causing body and light damage,42435
+10387,A,Theft,Medium,Truck,Urban,0.565,0.658,0.619,0.298,0.48,Amit,PN65951,2023-01-22,0.468,Moderate theft causing body and light damage,32695
+10388,A,Collision,Medium,Sedan,Urban,0.698,0.735,0.774,0.411,0.614,Priya,PN77639,2023-01-23,0.213,Moderate collision causing body and light damage,48839
+10389,C,Collision,Medium,Truck,Urban,0.598,1.0,0.769,0.371,0.575,Kunal,PN82126,2023-01-24,0.935,Moderate collision causing body and light damage,66120
+10390,C,Theft,Medium,Truck,Rural,0.661,0.0,0.28,0.511,0.449,Neha,PN52980,2023-01-25,0.797,Moderate theft causing body and light damage,28032
+10391,C,Theft,High,SUV,Urban,0.963,0.702,0.845,0.639,0.786,Neha,PN42050,2023-01-26,0.056,Severe theft with major damage and possible injuries,62861
+10392,B,Fire,Medium,Truck,Urban,0.531,0.411,0.381,0.359,0.402,Rahul,PN12921,2023-01-27,0.999,Moderate fire causing body and light damage,45665
+10393,A,Collision,Medium,SUV,Rural,0.656,0.403,0.515,0.399,0.497,Ramesh,PN80270,2023-01-28,0.695,Moderate collision causing body and light damage,35133
+10394,C,Collision,Medium,Sedan,Urban,0.498,0.395,0.459,0.331,0.416,Ramesh,PN95293,2023-01-29,0.16,Moderate collision causing body and light damage,44373
+10395,A,Theft,Medium,Sedan,Urban,0.431,0.323,0.363,0.395,0.389,Suresh,PN40328,2023-01-30,0.237,Moderate theft causing body and light damage,25391
+10396,C,Collision,Medium,SUV,Urban,0.483,0.971,0.65,0.432,0.53,Neha,PN70820,2023-01-31,0.692,Moderate collision causing body and light damage,59913
+10397,C,Collision,Medium,Sedan,Urban,0.504,0.761,0.712,0.506,0.588,Kunal,PN33138,2023-02-01,0.78,Moderate collision causing body and light damage,58425
+10398,B,Collision,Medium,SUV,Urban,0.672,0.556,0.619,0.2,0.462,Rahul,PN91573,2023-02-02,0.239,Moderate collision causing body and light damage,46221
+10399,C,Collision,Medium,Truck,Urban,1.0,0.888,1.0,0.223,0.689,Kunal,PN22094,2023-02-03,0.257,Moderate collision causing body and light damage,75137
+10400,C,Fire,Medium,Sedan,Urban,0.457,0.172,0.301,0.604,0.454,Amit,PN75264,2023-02-04,0.307,Moderate fire causing body and light damage,48489
+10401,A,Collision,Medium,SUV,Urban,0.517,0.217,0.323,0.447,0.411,Ramesh,PN19028,2023-02-05,0.598,Moderate collision causing body and light damage,32469
+10402,C,Collision,Medium,Truck,Rural,0.587,0.006,0.31,0.313,0.367,Anjali,PN25432,2023-02-06,0.172,Moderate collision causing body and light damage,32053
+10403,B,Collision,Medium,Truck,Rural,0.679,0.375,0.516,0.778,0.654,Kunal,PN53819,2023-02-07,0.104,Moderate collision causing body and light damage,42411
+10404,C,Collision,Medium,Truck,Urban,0.653,0.59,0.563,0.059,0.379,Neha,PN98627,2023-02-08,0.679,Moderate collision causing body and light damage,48875
+10405,A,Collision,Medium,SUV,Urban,0.857,0.576,0.79,0.367,0.634,Priya,PN91122,2023-02-09,0.779,Moderate collision causing body and light damage,49292
+10406,C,Collision,Low,Truck,Urban,0.115,0.587,0.32,0.345,0.289,Rahul,PN15312,2023-02-10,0.501,Minor collision with small damage,35608
+10407,A,Collision,Low,SUV,Urban,0.123,0.197,0.068,0.588,0.287,Suresh,PN35973,2023-02-11,0.364,Minor collision with small damage,23419
+10408,A,Theft,Medium,Sedan,Urban,0.501,0.751,0.692,0.394,0.535,Ramesh,PN65305,2023-02-12,0.432,Moderate theft causing body and light damage,38073
+10409,C,Collision,Medium,SUV,Urban,0.819,0.61,0.689,0.369,0.587,Ramesh,PN38973,2023-02-13,0.388,Moderate collision causing body and light damage,58065
+10410,A,Collision,Medium,SUV,Urban,0.287,0.733,0.48,0.533,0.462,Amit,PN54390,2023-02-14,0.96,Moderate collision causing body and light damage,37287
+10411,A,Fire,Low,Sedan,Urban,0.0,0.077,0.0,0.157,0.063,Ramesh,PN26099,2023-02-15,0.768,Minor fire with small damage,10712
+10412,C,Theft,Medium,SUV,Urban,0.714,0.628,0.758,0.412,0.611,Rahul,PN59956,2023-02-16,0.208,Moderate theft causing body and light damage,51314
+10413,C,Collision,Medium,SUV,Urban,0.649,0.253,0.386,0.406,0.447,Neha,PN24063,2023-02-17,0.384,Moderate collision causing body and light damage,41175
+10414,B,Collision,Medium,Sedan,Urban,0.382,0.451,0.419,0.667,0.511,Neha,PN91919,2023-02-18,0.544,Moderate collision causing body and light damage,38884
+10415,B,Collision,Medium,SUV,Urban,0.403,0.684,0.589,0.822,0.645,Neha,PN19605,2023-02-19,0.613,Moderate collision causing body and light damage,47683
+10416,B,Theft,Medium,SUV,Urban,0.406,0.573,0.51,0.656,0.548,Anjali,PN87904,2023-02-20,0.468,Moderate theft causing body and light damage,37928
+10417,A,Fire,Medium,SUV,Rural,0.622,0.337,0.477,0.317,0.442,Priya,PN82964,2023-02-21,0.81,Moderate fire causing body and light damage,40177
+10418,A,Theft,Low,Sedan,Rural,0.475,0.552,0.428,0.199,0.346,Priya,PN61205,2023-02-22,0.768,Minor theft with small damage,26356
+10419,B,Collision,Medium,Sedan,Urban,0.699,0.167,0.392,0.26,0.401,Anjali,PN25817,2023-02-23,0.505,Moderate collision causing body and light damage,35636
+10420,C,Theft,Low,Sedan,Urban,0.029,0.838,0.443,0.235,0.277,Ramesh,PN12420,2023-02-24,0.854,Minor theft with small damage,31949
+10421,C,Collision,Low,Truck,Urban,0.429,0.499,0.424,0.145,0.313,Kunal,PN94448,2023-02-25,0.751,Minor collision with small damage,40966
+10422,C,Collision,Medium,Sedan,Urban,0.375,0.83,0.612,0.639,0.576,Priya,PN79853,2023-02-26,0.779,Moderate collision causing body and light damage,59194
+10423,A,Collision,Medium,SUV,Urban,0.549,0.418,0.518,0.599,0.556,Kunal,PN99897,2023-02-27,0.956,Moderate collision causing body and light damage,39889
+10424,B,Fire,Medium,Sedan,Rural,0.492,0.419,0.504,0.383,0.453,Kunal,PN37728,2023-02-28,0.266,Moderate fire causing body and light damage,44397
+10425,A,Collision,Medium,Sedan,Urban,0.76,0.359,0.498,0.332,0.484,Priya,PN67858,2023-03-01,0.268,Moderate collision causing body and light damage,37035
+10426,B,Theft,Medium,Truck,Rural,0.228,0.769,0.608,0.542,0.506,Anjali,PN59089,2023-03-02,0.889,Moderate theft causing body and light damage,33078
+10427,B,Collision,Medium,SUV,Urban,0.609,0.373,0.529,0.379,0.485,Amit,PN94257,2023-03-03,0.772,Moderate collision causing body and light damage,42216
+10428,C,Collision,Medium,Sedan,Urban,0.712,0.711,0.711,0.312,0.552,Priya,PN38964,2023-03-04,0.927,Moderate collision causing body and light damage,60997
+10429,A,Collision,Medium,Sedan,Rural,0.971,0.454,0.767,0.323,0.63,Suresh,PN86992,2023-03-05,0.063,Moderate collision causing body and light damage,44366
+10430,A,Collision,Medium,Sedan,Urban,0.504,0.056,0.398,0.637,0.515,Anjali,PN52240,2023-03-06,0.628,Moderate collision causing body and light damage,32622
+10431,A,Theft,Medium,SUV,Urban,0.665,0.407,0.464,0.218,0.406,Suresh,PN93449,2023-03-07,0.145,Moderate theft causing body and light damage,31352
+10432,C,Collision,Medium,SUV,Urban,0.239,0.255,0.236,0.594,0.38,Kunal,PN22675,2023-03-08,0.504,Moderate collision causing body and light damage,34392
+10433,B,Theft,Low,Sedan,Urban,0.122,0.558,0.221,0.467,0.299,Suresh,PN70049,2023-03-09,0.156,Minor theft with small damage,24723
+10434,A,Theft,Medium,Sedan,Rural,0.769,0.252,0.52,0.758,0.665,Ramesh,PN91664,2023-03-10,0.128,Moderate theft causing body and light damage,33009
+10435,A,Fire,Medium,Sedan,Urban,0.599,0.781,0.708,0.293,0.52,Neha,PN58436,2023-03-11,0.012,Moderate fire causing body and light damage,55903
+10436,B,Collision,Medium,Truck,Rural,0.836,0.527,0.68,0.148,0.498,Amit,PN50213,2023-03-12,0.63,Moderate collision causing body and light damage,44023
+10437,A,Collision,Medium,Truck,Rural,0.325,0.506,0.383,0.448,0.397,Ramesh,PN38111,2023-03-13,0.359,Moderate collision causing body and light damage,29867
+10438,C,Collision,Medium,Sedan,Rural,0.704,0.714,0.607,0.189,0.459,Neha,PN14284,2023-03-14,0.105,Moderate collision causing body and light damage,52026
+10439,B,Fire,Medium,SUV,Urban,0.974,0.791,0.901,0.178,0.626,Amit,PN27585,2023-03-15,0.323,Moderate fire causing body and light damage,73965
+10440,A,Fire,Medium,Sedan,Urban,0.684,0.545,0.687,0.692,0.689,Kunal,PN75039,2023-03-16,0.169,Moderate fire causing body and light damage,60277
+10441,A,Collision,Medium,Sedan,Rural,0.655,0.357,0.477,0.689,0.597,Amit,PN17131,2023-03-17,0.942,Moderate collision causing body and light damage,38502
+10442,C,Theft,Medium,SUV,Urban,0.602,0.107,0.376,0.367,0.417,Amit,PN53382,2023-03-18,0.32,Moderate theft causing body and light damage,34114
+10443,A,Collision,Low,Truck,Urban,0.286,0.378,0.254,0.372,0.308,Suresh,PN43527,2023-03-19,0.334,Minor collision with small damage,27804
+10444,A,Theft,Medium,Truck,Urban,0.871,0.396,0.656,0.372,0.586,Suresh,PN97493,2023-03-20,0.84,Moderate theft causing body and light damage,38623
+10445,C,Collision,Medium,SUV,Urban,0.478,0.577,0.508,0.553,0.52,Suresh,PN40936,2023-03-21,0.648,Moderate collision causing body and light damage,52327
+10446,C,Theft,Medium,Sedan,Urban,0.701,0.464,0.544,0.294,0.476,Amit,PN97081,2023-03-22,0.71,Moderate theft causing body and light damage,41790
+10447,C,Collision,Low,SUV,Urban,0.287,0.722,0.467,0.024,0.254,Rahul,PN63441,2023-03-23,0.636,Minor collision with small damage,38934
+10448,C,Theft,Low,Sedan,Urban,0.364,0.397,0.361,0.152,0.278,Anjali,PN64598,2023-03-24,0.946,Minor theft with small damage,30318
+10449,A,Theft,Medium,SUV,Rural,0.887,0.536,0.731,0.235,0.564,Amit,PN89220,2023-03-25,0.207,Moderate theft causing body and light damage,33333
+10450,A,Theft,Medium,Sedan,Urban,0.531,0.846,0.623,0.303,0.477,Anjali,PN30642,2023-03-26,0.989,Moderate theft causing body and light damage,38693
+10451,C,Collision,Medium,SUV,Rural,0.891,0.635,0.743,0.549,0.695,Anjali,PN79907,2023-03-27,0.831,Moderate collision causing body and light damage,61574
+10452,B,Collision,Medium,Sedan,Urban,0.584,0.535,0.558,0.671,0.608,Suresh,PN22651,2023-03-28,0.589,Moderate collision causing body and light damage,47516
+10453,B,Collision,Low,Sedan,Rural,0.232,0.4,0.261,0.236,0.245,Amit,PN11665,2023-03-29,0.662,Minor collision with small damage,24454
+10454,C,Collision,Medium,Truck,Urban,0.778,0.392,0.675,0.382,0.578,Suresh,PN16918,2023-03-30,0.649,Moderate collision causing body and light damage,55415
+10455,A,Collision,Medium,Sedan,Rural,0.482,0.337,0.367,0.591,0.48,Suresh,PN33007,2023-03-31,0.058,Moderate collision causing body and light damage,30990
+10456,B,Fire,Medium,SUV,Urban,0.74,0.415,0.544,0.245,0.463,Suresh,PN85730,2023-04-01,0.218,Moderate fire causing body and light damage,54419
+10457,A,Collision,Medium,Sedan,Rural,0.605,0.739,0.623,0.652,0.631,Kunal,PN35035,2023-04-02,0.961,Moderate collision causing body and light damage,43637
+10458,B,Collision,Low,Sedan,Urban,0.291,0.495,0.483,0.141,0.308,Kunal,PN99352,2023-04-03,0.534,Minor collision with small damage,33400
+10459,A,Collision,Medium,Sedan,Rural,0.633,0.213,0.45,0.367,0.454,Rahul,PN98602,2023-04-04,0.378,Moderate collision causing body and light damage,31905
+10460,A,Collision,High,Sedan,Rural,1.0,0.992,0.949,0.361,0.724,Neha,PN86749,2023-04-05,0.762,Severe collision with major damage and possible injuries,55418
+10461,A,Theft,Medium,Truck,Urban,0.699,0.63,0.72,0.524,0.637,Anjali,PN98148,2023-04-06,0.525,Moderate theft causing body and light damage,40004
+10462,B,Collision,Low,Sedan,Urban,0.588,0.198,0.403,0.169,0.347,Amit,PN32211,2023-04-07,0.013,Minor collision with small damage,34849
+10463,B,Fire,Medium,Truck,Rural,0.815,0.44,0.64,0.624,0.669,Ramesh,PN64587,2023-04-08,0.736,Moderate fire causing body and light damage,57223
+10464,B,Collision,Medium,SUV,Urban,0.642,0.578,0.593,0.496,0.564,Suresh,PN36866,2023-04-09,0.732,Moderate collision causing body and light damage,48225
+10465,C,Fire,Medium,Sedan,Rural,0.642,0.976,0.772,0.457,0.62,Rahul,PN17344,2023-04-10,0.165,Moderate fire causing body and light damage,76423
+10466,A,Fire,Low,SUV,Urban,0.382,0.273,0.344,0.318,0.341,Ramesh,PN78737,2023-04-11,0.957,Minor fire with small damage,34178
+10467,A,Collision,Medium,SUV,Urban,0.647,0.794,0.693,0.444,0.584,Kunal,PN80288,2023-04-12,0.224,Moderate collision causing body and light damage,48318
+10468,C,Fire,High,SUV,Rural,0.807,0.9,0.944,0.562,0.764,Neha,PN72546,2023-04-13,0.458,Severe fire with major damage and possible injuries,84843
+10469,A,Collision,Medium,Sedan,Urban,0.433,0.393,0.349,0.564,0.452,Amit,PN20327,2023-04-14,0.115,Moderate collision causing body and light damage,32451
+10470,C,Theft,Medium,Sedan,Rural,0.885,0.481,0.76,0.313,0.606,Anjali,PN58659,2023-04-15,0.603,Moderate theft causing body and light damage,46421
+10471,A,Collision,Medium,Truck,Urban,0.582,0.291,0.431,0.212,0.373,Anjali,PN55797,2023-04-16,0.375,Moderate collision causing body and light damage,31930
+10472,C,Fire,Medium,Truck,Urban,0.422,0.499,0.476,0.243,0.372,Kunal,PN81627,2023-04-17,0.353,Moderate fire causing body and light damage,52946
+10473,A,Fire,Medium,Truck,Urban,0.8,0.541,0.712,0.57,0.673,Rahul,PN37608,2023-04-18,0.827,Moderate fire causing body and light damage,63696
+10474,C,Theft,Medium,Sedan,Urban,0.543,0.715,0.597,0.339,0.483,Suresh,PN38285,2023-04-19,0.01,Moderate theft causing body and light damage,44764
+10475,B,Theft,Medium,SUV,Urban,0.752,0.823,0.83,0.17,0.551,Suresh,PN98534,2023-04-20,0.798,Moderate theft causing body and light damage,48081
+10476,C,Collision,Medium,SUV,Urban,0.542,0.363,0.317,0.525,0.445,Anjali,PN58634,2023-04-21,0.571,Moderate collision causing body and light damage,42792
+10477,A,Collision,Medium,SUV,Urban,0.588,0.058,0.287,0.513,0.438,Suresh,PN50289,2023-04-22,0.986,Moderate collision causing body and light damage,28326
+10478,B,Collision,Medium,Sedan,Urban,0.699,0.545,0.575,0.312,0.495,Anjali,PN98479,2023-04-23,0.589,Moderate collision causing body and light damage,46327
+10479,C,Collision,Medium,SUV,Rural,0.658,0.623,0.578,0.136,0.417,Rahul,PN28007,2023-04-24,0.055,Moderate collision causing body and light damage,47097
+10480,B,Theft,Medium,Sedan,Urban,0.201,0.612,0.396,0.87,0.547,Kunal,PN35257,2023-04-25,0.051,Moderate theft causing body and light damage,36056
+10481,B,Collision,Medium,Sedan,Urban,0.376,0.468,0.441,0.374,0.401,Ramesh,PN95054,2023-04-26,0.883,Moderate collision causing body and light damage,38738
+10482,B,Fire,Medium,Truck,Urban,0.786,0.581,0.719,0.486,0.639,Neha,PN39784,2023-04-27,0.841,Moderate fire causing body and light damage,70555
+10483,B,Theft,Medium,Sedan,Urban,0.574,0.929,0.763,0.347,0.559,Amit,PN48588,2023-04-28,0.346,Moderate theft causing body and light damage,46427
+10484,B,Theft,Medium,Sedan,Rural,0.495,0.645,0.537,0.224,0.403,Anjali,PN54221,2023-04-29,0.618,Moderate theft causing body and light damage,31519
+10485,B,Collision,Medium,Sedan,Urban,0.328,0.457,0.411,0.473,0.419,Neha,PN31378,2023-04-30,0.49,Moderate collision causing body and light damage,36926
+10486,C,Fire,Low,Truck,Urban,0.384,0.425,0.411,0.167,0.308,Kunal,PN14696,2023-05-01,0.967,Minor fire with small damage,47239
+10487,A,Fire,Medium,SUV,Urban,0.196,0.508,0.398,0.487,0.393,Suresh,PN44635,2023-05-02,0.95,Moderate fire causing body and light damage,40034
+10488,A,Collision,High,Sedan,Urban,0.58,0.959,0.808,0.759,0.743,Neha,PN68543,2023-05-03,0.984,Severe collision with major damage and possible injuries,53346
+10489,C,Theft,Medium,Truck,Rural,0.48,0.504,0.494,0.354,0.435,Ramesh,PN91259,2023-05-04,0.866,Moderate theft causing body and light damage,38433
+10490,C,Theft,Medium,Truck,Urban,0.407,0.545,0.431,0.26,0.358,Priya,PN29207,2023-05-05,0.91,Moderate theft causing body and light damage,37193
+10491,B,Collision,Medium,Sedan,Rural,0.586,0.429,0.475,0.188,0.383,Kunal,PN37524,2023-05-06,0.217,Moderate collision causing body and light damage,32898
+10492,B,Collision,Medium,SUV,Urban,0.673,0.825,0.721,0.298,0.542,Priya,PN38554,2023-05-07,0.831,Moderate collision causing body and light damage,52159
+10493,A,Collision,High,SUV,Urban,1.0,1.0,0.984,0.336,0.728,Amit,PN21817,2023-05-08,0.709,Severe collision with major damage and possible injuries,62138
+10494,A,Collision,Medium,SUV,Rural,0.298,0.663,0.494,0.683,0.53,Amit,PN65258,2023-05-09,0.963,Moderate collision causing body and light damage,36773
+10495,B,Collision,Medium,Sedan,Urban,0.832,0.571,0.737,0.469,0.649,Neha,PN72582,2023-05-10,0.571,Moderate collision causing body and light damage,52966
+10496,A,Collision,Medium,Truck,Urban,0.795,0.559,0.674,0.554,0.65,Amit,PN10168,2023-05-11,0.085,Moderate collision causing body and light damage,48885
+10497,B,Collision,Low,SUV,Urban,0.444,0.0,0.223,0.263,0.283,Kunal,PN52981,2023-05-12,0.597,Minor collision with small damage,22449
+10498,A,Collision,Medium,Sedan,Urban,0.641,0.736,0.696,0.398,0.566,Rahul,PN75199,2023-05-13,0.687,Moderate collision causing body and light damage,46448
+10499,C,Fire,Medium,Sedan,Urban,0.508,0.584,0.52,0.479,0.501,Anjali,PN74948,2023-05-14,0.22,Moderate fire causing body and light damage,64815
+10500,C,Collision,Medium,Sedan,Urban,0.637,0.657,0.601,0.058,0.391,Ramesh,PN67782,2023-05-15,0.394,Moderate collision causing body and light damage,50093
+10501,B,Fire,Medium,Sedan,Urban,0.902,0.372,0.549,0.072,0.429,Suresh,PN90759,2023-05-16,0.599,Moderate fire causing body and light damage,52875
+10502,B,Collision,Medium,SUV,Urban,0.721,0.454,0.553,0.073,0.394,Suresh,PN71599,2023-05-17,0.374,Moderate collision causing body and light damage,41880
+10503,A,Collision,Medium,Sedan,Urban,0.702,0.447,0.598,0.322,0.508,Anjali,PN83563,2023-05-18,0.375,Moderate collision causing body and light damage,40068
+10504,C,Collision,Medium,Sedan,Urban,0.514,0.805,0.625,0.584,0.586,Neha,PN26291,2023-05-19,0.133,Moderate collision causing body and light damage,59723
+10505,B,Collision,Low,SUV,Urban,0.303,0.455,0.367,0.208,0.291,Suresh,PN63833,2023-05-20,0.941,Minor collision with small damage,30579
+10506,A,Collision,Medium,Sedan,Urban,0.558,1.0,0.802,0.16,0.497,Neha,PN97057,2023-05-21,0.75,Moderate collision causing body and light damage,47282
+10507,C,Theft,Medium,Truck,Rural,0.841,0.658,0.776,0.275,0.589,Anjali,PN97154,2023-05-22,0.001,Moderate theft causing body and light damage,45701
+10508,C,Collision,Low,Sedan,Urban,0.295,0.231,0.209,0.343,0.28,Amit,PN42992,2023-05-23,0.766,Minor collision with small damage,30471
+10509,C,Theft,Medium,Sedan,Rural,0.389,0.518,0.503,0.241,0.375,Anjali,PN49350,2023-05-24,0.74,Moderate theft causing body and light damage,32981
+10510,B,Theft,Medium,Sedan,Urban,0.625,0.387,0.563,0.17,0.418,Amit,PN11573,2023-05-25,0.01,Moderate theft causing body and light damage,32798
+10511,B,Collision,Low,Sedan,Urban,0.403,0.001,0.146,0.154,0.2,Rahul,PN18577,2023-05-26,0.37,Minor collision with small damage,21270
+10512,B,Collision,Medium,Sedan,Urban,0.441,0.95,0.654,0.842,0.687,Rahul,PN18712,2023-05-27,0.607,Moderate collision causing body and light damage,57287
+10513,C,Theft,Medium,SUV,Urban,0.515,0.726,0.68,0.114,0.421,Ramesh,PN39948,2023-05-28,0.453,Moderate theft causing body and light damage,44006
+10514,C,Collision,Medium,Truck,Urban,0.327,0.683,0.498,0.5,0.465,Anjali,PN87700,2023-05-29,0.778,Moderate collision causing body and light damage,48733
+10515,A,Collision,Medium,Sedan,Urban,0.405,0.591,0.387,0.787,0.551,Suresh,PN15217,2023-05-30,0.425,Moderate collision causing body and light damage,39404
+10516,A,Fire,Medium,SUV,Urban,0.741,0.204,0.403,0.618,0.556,Kunal,PN70178,2023-05-31,0.154,Moderate fire causing body and light damage,45644
+10517,A,Collision,Low,SUV,Rural,0.339,0.429,0.371,0.157,0.279,Rahul,PN95062,2023-06-01,0.976,Minor collision with small damage,27978
+10518,C,Theft,Medium,Truck,Urban,0.28,0.76,0.462,0.72,0.529,Anjali,PN36409,2023-06-02,0.242,Moderate theft causing body and light damage,42896
+10519,C,Fire,Low,Sedan,Urban,0.474,0.287,0.36,0.126,0.289,Ramesh,PN59040,2023-06-03,0.718,Minor fire with small damage,45381
+10520,A,Collision,Medium,Sedan,Rural,0.746,0.0,0.375,0.259,0.403,Priya,PN88270,2023-06-04,0.143,Moderate collision causing body and light damage,28314
+10521,B,Collision,Medium,Sedan,Urban,0.561,0.493,0.6,0.341,0.489,Rahul,PN89066,2023-06-05,0.329,Moderate collision causing body and light damage,43497
+10522,A,Collision,Medium,SUV,Urban,0.507,0.515,0.496,0.167,0.367,Ramesh,PN87930,2023-06-06,0.442,Moderate collision causing body and light damage,35479
+10523,C,Collision,Medium,Truck,Urban,0.609,0.584,0.65,0.405,0.544,Neha,PN77035,2023-06-07,0.192,Moderate collision causing body and light damage,55325
+10524,C,Collision,Medium,Sedan,Rural,0.251,0.732,0.563,0.224,0.365,Neha,PN19669,2023-06-08,0.45,Moderate collision causing body and light damage,39209
+10525,C,Theft,High,Sedan,Rural,0.699,0.709,0.776,0.808,0.773,Ramesh,PN68247,2023-06-09,0.157,Severe theft with major damage and possible injuries,52006
+10526,B,Collision,Medium,Truck,Urban,0.677,0.615,0.66,0.342,0.536,Amit,PN68975,2023-06-10,0.559,Moderate collision causing body and light damage,48300
+10527,B,Collision,Medium,Truck,Urban,0.518,0.849,0.585,0.59,0.574,Priya,PN38562,2023-06-11,0.664,Moderate collision causing body and light damage,50731
+10528,A,Fire,Medium,Truck,Rural,0.801,0.17,0.509,0.779,0.675,Ramesh,PN31629,2023-06-12,0.062,Moderate fire causing body and light damage,45995
+10529,A,Theft,Medium,SUV,Urban,0.375,0.676,0.578,0.473,0.495,Rahul,PN71463,2023-06-13,0.871,Moderate theft causing body and light damage,35181
+10530,C,Theft,High,Sedan,Urban,0.826,0.707,0.762,0.8,0.79,Amit,PN56007,2023-06-14,0.185,Severe theft with major damage and possible injuries,61765
+10531,C,Collision,Medium,SUV,Urban,0.631,0.24,0.523,0.579,0.567,Ramesh,PN28128,2023-06-15,0.225,Moderate collision causing body and light damage,49913
+10532,C,Theft,Medium,SUV,Urban,0.533,0.174,0.396,0.496,0.463,Suresh,PN12039,2023-06-16,0.661,Moderate theft causing body and light damage,36506
+10533,C,Collision,Medium,Sedan,Urban,0.596,0.364,0.508,0.359,0.466,Rahul,PN13857,2023-06-17,0.469,Moderate collision causing body and light damage,46258
+10534,B,Collision,Medium,SUV,Urban,0.579,0.385,0.536,0.111,0.374,Rahul,PN69019,2023-06-18,0.499,Moderate collision causing body and light damage,37275
+10535,C,Collision,Medium,SUV,Urban,0.844,0.738,0.808,0.343,0.629,Neha,PN80486,2023-06-19,0.128,Moderate collision causing body and light damage,64922
+10536,C,Fire,Low,Sedan,Urban,0.385,0.396,0.266,0.191,0.26,Suresh,PN99007,2023-06-20,0.806,Minor fire with small damage,43759
+10537,C,Collision,Medium,SUV,Rural,0.447,0.336,0.367,0.642,0.493,Suresh,PN90977,2023-06-21,0.617,Moderate collision causing body and light damage,39746
+10538,A,Collision,Medium,SUV,Urban,0.807,0.397,0.662,0.207,0.509,Anjali,PN22735,2023-06-22,0.135,Moderate collision causing body and light damage,41682
+10539,B,Collision,Medium,Truck,Urban,0.481,0.83,0.615,0.415,0.508,Anjali,PN97951,2023-06-23,0.374,Moderate collision causing body and light damage,50245
+10540,A,Collision,Medium,Sedan,Urban,0.78,0.553,0.656,0.545,0.636,Rahul,PN44511,2023-06-24,0.81,Moderate collision causing body and light damage,47722
+10541,C,Theft,Medium,Sedan,Urban,0.94,0.505,0.67,0.186,0.531,Priya,PN56051,2023-06-25,0.568,Moderate theft causing body and light damage,48399
+10542,B,Theft,Medium,SUV,Urban,0.52,0.522,0.61,0.396,0.506,Kunal,PN62693,2023-06-26,0.109,Moderate theft causing body and light damage,36796
+10543,A,Theft,Medium,Sedan,Urban,0.736,0.873,0.889,0.274,0.612,Anjali,PN79152,2023-06-27,0.373,Moderate theft causing body and light damage,45323
+10544,B,Collision,Medium,SUV,Rural,0.369,0.363,0.322,0.463,0.388,Amit,PN90919,2023-06-28,0.243,Moderate collision causing body and light damage,31721
+10545,B,Collision,Medium,SUV,Rural,0.751,0.879,0.822,0.15,0.539,Neha,PN39756,2023-06-29,0.517,Moderate collision causing body and light damage,50958
+10546,A,Collision,Medium,Sedan,Urban,0.64,0.603,0.587,0.821,0.691,Suresh,PN13894,2023-06-30,0.843,Moderate collision causing body and light damage,49667
+10547,A,Collision,Medium,SUV,Urban,0.695,0.51,0.633,0.469,0.58,Neha,PN53232,2023-07-01,0.436,Moderate collision causing body and light damage,45847
+10548,B,Collision,High,SUV,Urban,0.471,1.0,0.761,0.805,0.721,Rahul,PN63214,2023-07-02,0.433,Severe collision with major damage and possible injuries,59701
+10549,B,Theft,Medium,Sedan,Rural,0.268,0.286,0.318,0.588,0.416,Amit,PN79817,2023-07-03,0.905,Moderate theft causing body and light damage,23632
+10550,C,Collision,Medium,Truck,Rural,0.701,0.462,0.598,0.277,0.49,Ramesh,PN73862,2023-07-04,0.576,Moderate collision causing body and light damage,45205
+10551,B,Collision,Medium,Truck,Urban,0.187,0.242,0.361,0.583,0.415,Suresh,PN40036,2023-07-05,0.566,Moderate collision causing body and light damage,30213
+10552,C,Collision,Medium,SUV,Urban,0.537,0.788,0.611,0.673,0.621,Amit,PN28584,2023-07-06,0.262,Moderate collision causing body and light damage,61002
+10553,B,Collision,High,SUV,Rural,0.788,0.972,0.795,0.603,0.717,Kunal,PN42308,2023-07-07,0.608,Severe collision with major damage and possible injuries,59099
+10554,B,Collision,Medium,SUV,Urban,0.638,0.967,0.783,0.417,0.608,Neha,PN38333,2023-07-08,0.576,Moderate collision causing body and light damage,57901
+10555,C,Fire,Medium,Truck,Urban,0.99,0.856,0.844,0.219,0.623,Rahul,PN45949,2023-07-09,0.397,Moderate fire causing body and light damage,89203
+10556,B,Theft,Medium,SUV,Urban,0.805,0.501,0.578,0.595,0.63,Amit,PN94795,2023-07-10,0.991,Moderate theft causing body and light damage,43169
+10557,A,Fire,Medium,SUV,Urban,0.469,0.459,0.414,0.551,0.48,Ramesh,PN49288,2023-07-11,0.882,Moderate fire causing body and light damage,45895
+10558,A,Collision,Medium,Truck,Rural,0.605,0.132,0.323,0.31,0.374,Anjali,PN88588,2023-07-12,0.75,Moderate collision causing body and light damage,27544
+10559,C,Collision,Medium,Sedan,Rural,0.591,1.0,0.748,0.169,0.485,Anjali,PN87807,2023-07-13,0.537,Moderate collision causing body and light damage,52910
+10560,B,Collision,Medium,Truck,Urban,0.284,0.667,0.501,0.515,0.463,Amit,PN55267,2023-07-14,0.462,Moderate collision causing body and light damage,40794
+10561,B,Collision,Low,Sedan,Urban,0.412,0.427,0.394,0.211,0.324,Rahul,PN42175,2023-07-15,0.185,Minor collision with small damage,34981
+10562,A,Theft,Medium,Sedan,Urban,0.488,0.882,0.676,0.301,0.488,Neha,PN18915,2023-07-16,0.306,Moderate theft causing body and light damage,38193
+10563,A,Collision,Medium,Sedan,Urban,0.193,0.307,0.294,0.571,0.385,Suresh,PN91658,2023-07-17,0.774,Moderate collision causing body and light damage,25792
+10564,A,Collision,Medium,Truck,Urban,0.609,0.652,0.592,0.186,0.433,Kunal,PN82454,2023-07-18,0.454,Moderate collision causing body and light damage,37557
+10565,A,Collision,Medium,Truck,Urban,0.55,0.507,0.515,0.118,0.363,Kunal,PN69722,2023-07-19,0.882,Moderate collision causing body and light damage,34737
+10566,B,Collision,Low,SUV,Urban,0.265,0.71,0.506,0.09,0.292,Suresh,PN75298,2023-07-20,0.148,Minor collision with small damage,36270
+10567,A,Theft,Medium,SUV,Urban,0.681,0.534,0.51,0.528,0.552,Priya,PN23805,2023-07-21,0.508,Moderate theft causing body and light damage,34933
+10568,B,Collision,Medium,SUV,Urban,0.743,0.187,0.346,0.531,0.5,Neha,PN95134,2023-07-22,0.647,Moderate collision causing body and light damage,39529
+10569,C,Collision,Medium,Truck,Urban,0.645,0.569,0.624,0.334,0.513,Kunal,PN50517,2023-07-23,0.517,Moderate collision causing body and light damage,54524
+10570,A,Collision,Medium,SUV,Urban,0.535,0.812,0.698,0.614,0.632,Priya,PN64716,2023-07-24,0.889,Moderate collision causing body and light damage,49143
+10571,B,Collision,Medium,Sedan,Urban,0.718,0.543,0.734,0.323,0.566,Priya,PN12871,2023-07-25,0.99,Moderate collision causing body and light damage,47171
+10572,C,Theft,Medium,Sedan,Rural,0.736,0.744,0.748,0.342,0.583,Rahul,PN47375,2023-07-26,0.116,Moderate theft causing body and light damage,46214
+10573,A,Fire,Medium,SUV,Urban,0.661,0.289,0.516,0.307,0.462,Rahul,PN55741,2023-07-27,0.13,Moderate fire causing body and light damage,44808
+10574,B,Fire,Low,SUV,Urban,0.435,0.543,0.479,0.083,0.312,Rahul,PN33148,2023-07-28,0.13,Minor fire with small damage,46050
+10575,C,Theft,Medium,Sedan,Rural,0.655,0.394,0.539,0.27,0.455,Ramesh,PN15834,2023-07-29,0.681,Moderate theft causing body and light damage,37482
+10576,C,Collision,Medium,Sedan,Rural,0.839,0.737,0.871,0.109,0.56,Neha,PN52680,2023-07-30,0.373,Moderate collision causing body and light damage,58345
+10577,A,Theft,Medium,Truck,Urban,0.481,0.558,0.413,0.248,0.36,Suresh,PN13399,2023-07-31,0.733,Moderate theft causing body and light damage,28662
+10578,C,Collision,High,Sedan,Rural,1.0,0.723,0.882,0.557,0.776,Neha,PN74091,2023-08-01,0.405,Severe collision with major damage and possible injuries,66429
+10579,B,Collision,Medium,SUV,Urban,0.495,0.822,0.765,0.067,0.432,Rahul,PN31762,2023-08-02,0.628,Moderate collision causing body and light damage,46737
+10580,A,Theft,Medium,Truck,Urban,0.606,0.723,0.679,0.264,0.498,Ramesh,PN61009,2023-08-03,0.77,Moderate theft causing body and light damage,38272
+10581,B,Collision,Medium,Sedan,Urban,0.466,0.618,0.624,0.258,0.446,Neha,PN86493,2023-08-04,0.548,Moderate collision causing body and light damage,42194
+10582,C,Fire,Medium,Sedan,Urban,0.645,0.3,0.441,0.487,0.5,Neha,PN61548,2023-08-05,0.54,Moderate fire causing body and light damage,59555
+10583,B,Collision,Low,SUV,Urban,0.252,0.549,0.399,0.198,0.289,Priya,PN38340,2023-08-06,0.088,Minor collision with small damage,32919
+10584,A,Theft,Medium,Truck,Urban,0.491,0.417,0.455,0.537,0.495,Neha,PN71365,2023-08-07,0.411,Moderate theft causing body and light damage,30980
+10585,B,Theft,Low,SUV,Urban,0.382,0.464,0.312,0.219,0.289,Priya,PN91344,2023-08-08,0.546,Minor theft with small damage,26610
+10586,A,Fire,Medium,Truck,Urban,0.627,0.456,0.483,0.59,0.555,Priya,PN69790,2023-08-09,0.462,Moderate fire causing body and light damage,49021
+10587,A,Theft,Medium,Sedan,Urban,0.799,0.305,0.497,0.512,0.563,Amit,PN77797,2023-08-10,0.901,Moderate theft causing body and light damage,33795
+10588,A,Theft,Medium,SUV,Urban,0.729,0.061,0.436,0.408,0.484,Rahul,PN21809,2023-08-11,0.907,Moderate theft causing body and light damage,28244
+10589,A,Collision,Low,SUV,Urban,0.126,0.383,0.298,0.287,0.259,Kunal,PN27696,2023-08-12,0.822,Minor collision with small damage,21167
+10590,A,Collision,Medium,Truck,Rural,1.0,0.598,0.815,0.138,0.581,Ramesh,PN61457,2023-08-13,0.375,Moderate collision causing body and light damage,45029
+10591,A,Collision,Medium,Sedan,Rural,0.659,0.213,0.477,0.36,0.467,Priya,PN31891,2023-08-14,0.717,Moderate collision causing body and light damage,32680
+10592,B,Theft,Medium,Truck,Rural,0.445,0.554,0.491,0.6,0.526,Neha,PN69151,2023-08-15,0.395,Moderate theft causing body and light damage,34063
+10593,A,Collision,Medium,SUV,Urban,0.631,1.0,0.876,0.183,0.55,Priya,PN94661,2023-08-16,0.233,Moderate collision causing body and light damage,50511
+10594,A,Theft,Medium,Sedan,Rural,0.635,0.806,0.721,0.611,0.66,Priya,PN73008,2023-08-17,0.343,Moderate theft causing body and light damage,38774
+10595,C,Collision,Medium,Sedan,Urban,0.467,0.961,0.717,0.631,0.633,Priya,PN62488,2023-08-18,0.071,Moderate collision causing body and light damage,62996
+10596,B,Collision,Medium,Truck,Urban,0.64,0.648,0.63,0.21,0.464,Suresh,PN66632,2023-08-19,0.332,Moderate collision causing body and light damage,46758
+10597,B,Theft,Medium,Sedan,Urban,0.479,0.842,0.694,0.407,0.536,Kunal,PN76533,2023-08-20,0.461,Moderate theft causing body and light damage,44703
+10598,A,Collision,Medium,Sedan,Urban,0.519,0.369,0.423,0.761,0.577,Kunal,PN81889,2023-08-21,0.955,Moderate collision causing body and light damage,39406
+10599,A,Collision,Medium,Sedan,Urban,0.463,0.389,0.475,0.255,0.384,Suresh,PN94239,2023-08-22,0.313,Moderate collision causing body and light damage,33429
+10600,A,Collision,Low,Truck,Urban,0.313,0.0,0.1,0.544,0.32,Suresh,PN67942,2023-08-23,0.902,Minor collision with small damage,20359
+10601,A,Fire,Medium,SUV,Rural,0.629,0.847,0.683,0.185,0.473,Suresh,PN19275,2023-08-24,0.229,Moderate fire causing body and light damage,52089
+10602,A,Theft,Medium,SUV,Urban,0.717,0.935,0.86,0.368,0.635,Kunal,PN29965,2023-08-25,0.191,Moderate theft causing body and light damage,43405
+10603,A,Collision,Medium,Sedan,Urban,0.703,0.412,0.553,0.235,0.456,Amit,PN45854,2023-08-26,0.519,Moderate collision causing body and light damage,38170
+10604,A,Collision,Medium,SUV,Rural,0.764,0.487,0.603,0.387,0.549,Priya,PN25973,2023-08-27,0.673,Moderate collision causing body and light damage,39811
+10605,A,Collision,Medium,SUV,Urban,0.665,0.362,0.558,0.594,0.594,Amit,PN99086,2023-08-28,0.044,Moderate collision causing body and light damage,42160
+10606,B,Theft,Medium,Truck,Urban,0.493,0.646,0.539,0.376,0.465,Neha,PN36878,2023-08-29,0.221,Moderate theft causing body and light damage,38162
+10607,A,Theft,Medium,Truck,Urban,0.768,0.831,0.79,0.367,0.616,Kunal,PN27105,2023-08-30,0.456,Moderate theft causing body and light damage,44121
+10608,A,Collision,Low,Sedan,Urban,0.328,0.114,0.291,0.197,0.261,Rahul,PN74746,2023-08-31,0.331,Minor collision with small damage,22274
+10609,B,Collision,Medium,SUV,Urban,0.42,0.652,0.613,0.724,0.619,Kunal,PN91565,2023-09-01,0.713,Moderate collision causing body and light damage,49256
+10610,B,Collision,Medium,Sedan,Urban,0.407,0.481,0.523,0.784,0.604,Ramesh,PN49935,2023-09-02,0.511,Moderate collision causing body and light damage,43372
+10611,A,Theft,Medium,SUV,Urban,0.816,0.578,0.683,0.474,0.626,Amit,PN42784,2023-09-03,0.16,Moderate theft causing body and light damage,39722
+10612,C,Theft,High,Sedan,Urban,0.789,0.665,0.788,0.826,0.803,Suresh,PN41601,2023-09-04,0.894,Severe theft with major damage and possible injuries,59442
+10613,B,Collision,Medium,Sedan,Urban,0.697,0.503,0.553,0.554,0.582,Anjali,PN49865,2023-09-05,0.293,Moderate collision causing body and light damage,48297
+10614,A,Collision,Medium,Sedan,Urban,0.814,0.524,0.624,0.047,0.431,Suresh,PN88701,2023-09-06,0.731,Moderate collision causing body and light damage,38971
+10615,C,Collision,Low,SUV,Urban,0.424,0.497,0.343,0.146,0.28,Neha,PN28616,2023-09-07,0.78,Minor collision with small damage,38814
+10616,C,Fire,Medium,Sedan,Rural,0.67,0.793,0.815,0.268,0.567,Priya,PN21654,2023-09-08,0.963,Moderate fire causing body and light damage,71201
+10617,A,Collision,Medium,SUV,Urban,0.575,0.655,0.572,0.51,0.548,Ramesh,PN27830,2023-09-09,0.499,Moderate collision causing body and light damage,43116
+10618,A,Theft,Medium,Sedan,Urban,0.769,0.605,0.681,0.094,0.464,Amit,PN26205,2023-09-10,0.616,Moderate theft causing body and light damage,39531
+10619,C,Theft,Medium,Sedan,Urban,0.577,0.232,0.359,0.437,0.434,Priya,PN52425,2023-09-11,0.335,Moderate theft causing body and light damage,34379
+10620,B,Collision,Medium,SUV,Urban,0.523,0.455,0.524,0.621,0.562,Priya,PN87495,2023-09-12,0.678,Moderate collision causing body and light damage,43845
+10621,A,Collision,Medium,Sedan,Urban,0.708,0.775,0.723,0.303,0.552,Rahul,PN97694,2023-09-13,0.463,Moderate collision causing body and light damage,47204
+10622,A,Collision,Medium,Sedan,Urban,0.775,0.559,0.602,0.423,0.565,Rahul,PN87355,2023-09-14,0.438,Moderate collision causing body and light damage,44761
+10623,A,Theft,Medium,SUV,Rural,0.466,0.715,0.613,0.478,0.53,Amit,PN45851,2023-09-15,0.855,Moderate theft causing body and light damage,32389
+10624,B,Theft,Medium,Sedan,Rural,0.588,0.992,0.718,0.476,0.595,Amit,PN16952,2023-09-16,0.05,Moderate theft causing body and light damage,41539
+10625,B,Theft,Medium,Sedan,Urban,0.388,0.81,0.557,0.295,0.419,Amit,PN99761,2023-09-17,0.882,Moderate theft causing body and light damage,36669
+10626,A,Collision,Low,Sedan,Rural,0.1,0.573,0.231,0.579,0.344,Amit,PN57405,2023-09-18,0.852,Minor collision with small damage,25521
+10627,B,Collision,Medium,Truck,Urban,0.64,0.422,0.46,0.292,0.429,Suresh,PN15391,2023-09-19,0.506,Moderate collision causing body and light damage,41960
+10628,B,Fire,Medium,SUV,Urban,0.722,0.0,0.37,0.422,0.461,Kunal,PN90004,2023-09-20,0.49,Moderate fire causing body and light damage,46545
+10629,A,Theft,Medium,SUV,Urban,0.652,0.508,0.482,0.364,0.469,Kunal,PN72468,2023-09-21,0.362,Moderate theft causing body and light damage,34833
+10630,A,Collision,Low,SUV,Urban,0.21,0.468,0.265,0.307,0.271,Priya,PN25091,2023-09-22,0.994,Minor collision with small damage,25336
+10631,B,Fire,Medium,Sedan,Rural,0.53,0.648,0.589,0.437,0.516,Kunal,PN40237,2023-09-23,0.111,Moderate fire causing body and light damage,51731
+10632,C,Theft,Medium,Sedan,Urban,0.156,0.512,0.307,0.674,0.424,Anjali,PN68353,2023-09-24,0.59,Moderate theft causing body and light damage,33387
+10633,B,Collision,Medium,SUV,Urban,0.874,0.47,0.772,0.095,0.521,Priya,PN84500,2023-09-25,0.682,Moderate collision causing body and light damage,51860
+10634,B,Theft,Medium,Sedan,Rural,0.383,0.105,0.336,0.362,0.355,Suresh,PN50682,2023-09-26,0.934,Moderate theft causing body and light damage,22023
+10635,A,Theft,Medium,Sedan,Urban,0.851,0.315,0.54,0.139,0.442,Anjali,PN59634,2023-09-27,0.78,Moderate theft causing body and light damage,30946
+10636,B,Theft,Medium,Sedan,Urban,0.789,0.669,0.757,0.094,0.498,Kunal,PN36968,2023-09-28,0.644,Moderate theft causing body and light damage,42694
+10637,B,Collision,Medium,Sedan,Urban,0.42,0.979,0.737,0.215,0.465,Priya,PN64833,2023-09-29,0.117,Moderate collision causing body and light damage,50850
+10638,A,Collision,Medium,Truck,Rural,0.373,0.526,0.42,0.718,0.53,Amit,PN50205,2023-09-30,0.374,Moderate collision causing body and light damage,34701
+10639,A,Fire,Medium,Sedan,Rural,0.67,0.632,0.576,0.437,0.539,Ramesh,PN86907,2023-10-01,0.139,Moderate fire causing body and light damage,49256
+10640,A,Collision,Medium,SUV,Urban,0.431,0.788,0.609,0.296,0.448,Kunal,PN52541,2023-10-02,0.881,Moderate collision causing body and light damage,41754
+10641,A,Collision,Medium,Sedan,Urban,0.62,0.347,0.475,0.259,0.418,Anjali,PN38285,2023-10-03,0.75,Moderate collision causing body and light damage,32232
+10642,A,Collision,Medium,Truck,Urban,0.503,0.642,0.551,0.512,0.526,Rahul,PN62513,2023-10-04,0.758,Moderate collision causing body and light damage,41558
+10643,A,Collision,Low,Sedan,Rural,0.244,0.365,0.326,0.398,0.339,Anjali,PN25430,2023-10-05,0.652,Minor collision with small damage,25969
+10644,A,Theft,Low,Sedan,Urban,0.154,0.766,0.423,0.294,0.317,Anjali,PN19033,2023-10-06,0.507,Minor theft with small damage,26507
+10645,A,Fire,Medium,SUV,Urban,0.645,0.588,0.559,0.132,0.406,Rahul,PN29918,2023-10-07,0.15,Moderate fire causing body and light damage,47667
+10646,C,Collision,Medium,SUV,Rural,0.488,0.625,0.562,0.198,0.401,Priya,PN28256,2023-10-08,0.33,Moderate collision causing body and light damage,41191
+10647,B,Collision,Medium,Sedan,Urban,0.489,0.354,0.441,0.709,0.558,Ramesh,PN58522,2023-10-09,0.137,Moderate collision causing body and light damage,43337
+10648,B,Collision,Medium,Sedan,Urban,0.739,0.727,0.674,0.437,0.592,Rahul,PN74353,2023-10-10,0.725,Moderate collision causing body and light damage,52611
+10649,C,Fire,Medium,Sedan,Urban,0.835,1.0,0.964,0.228,0.643,Kunal,PN41188,2023-10-11,0.16,Moderate fire causing body and light damage,90897
+10650,B,Theft,Medium,Sedan,Rural,0.545,0.298,0.333,0.483,0.436,Ramesh,PN65134,2023-10-12,0.702,Moderate theft causing body and light damage,28788
+10651,A,Collision,Medium,Sedan,Urban,0.532,0.465,0.47,0.581,0.527,Anjali,PN62657,2023-10-13,0.692,Moderate collision causing body and light damage,40475
+10652,B,Theft,Medium,SUV,Urban,0.7,0.608,0.641,0.259,0.5,Suresh,PN46088,2023-10-14,0.459,Moderate theft causing body and light damage,40559
+10653,B,Fire,Medium,Sedan,Urban,0.329,0.747,0.506,0.321,0.396,Neha,PN24979,2023-10-15,0.135,Moderate fire causing body and light damage,50641
+10654,B,Theft,Medium,Sedan,Urban,0.645,0.41,0.499,0.357,0.471,Priya,PN78264,2023-10-16,0.315,Moderate theft causing body and light damage,35922
+10655,B,Fire,Medium,SUV,Urban,0.71,0.0,0.449,0.174,0.391,Suresh,PN60106,2023-10-17,0.32,Moderate fire causing body and light damage,43347
+10656,A,Collision,Medium,Truck,Urban,0.736,0.89,0.77,0.432,0.628,Suresh,PN11595,2023-10-18,0.7,Moderate collision causing body and light damage,51944
+10657,A,Theft,Medium,SUV,Rural,0.213,0.74,0.598,0.191,0.358,Ramesh,PN42624,2023-10-19,0.114,Moderate theft causing body and light damage,25886
+10658,A,Collision,Low,Sedan,Urban,0.448,0.114,0.303,0.107,0.253,Priya,PN77824,2023-10-20,0.829,Minor collision with small damage,21882
+10659,B,Theft,Low,Sedan,Urban,0.424,0.398,0.416,0.191,0.328,Suresh,PN50431,2023-10-21,0.761,Minor theft with small damage,27292
+10660,B,Theft,Medium,Truck,Urban,0.62,0.942,0.805,0.418,0.613,Amit,PN27127,2023-10-22,0.186,Moderate theft causing body and light damage,49596
+10661,A,Theft,Medium,Sedan,Urban,0.696,0.912,0.931,0.216,0.598,Suresh,PN27878,2023-10-23,0.719,Moderate theft causing body and light damage,44126
+10662,C,Theft,Medium,Sedan,Rural,0.899,0.785,0.792,0.328,0.628,Amit,PN82480,2023-10-24,0.669,Moderate theft causing body and light damage,51036
+10663,B,Collision,Medium,SUV,Urban,0.501,0.506,0.447,0.361,0.424,Neha,PN70690,2023-10-25,0.748,Moderate collision causing body and light damage,38929
+10664,A,Collision,Medium,SUV,Urban,0.5,0.571,0.498,0.141,0.356,Amit,PN87838,2023-10-26,0.189,Moderate collision causing body and light damage,35276
+10665,A,Fire,High,SUV,Urban,0.83,0.517,0.675,0.865,0.782,Amit,PN66360,2023-10-27,0.158,Severe fire with major damage and possible injuries,64182
+10666,A,Fire,Medium,Sedan,Urban,0.659,0.832,0.659,0.297,0.515,Ramesh,PN10207,2023-10-28,0.236,Moderate fire causing body and light damage,57676
+10667,A,Collision,Medium,Sedan,Urban,0.854,0.331,0.593,0.556,0.63,Suresh,PN11083,2023-10-29,0.366,Moderate collision causing body and light damage,45905
+10668,A,Collision,Medium,Truck,Urban,0.658,0.349,0.588,0.344,0.504,Neha,PN61564,2023-10-30,0.794,Moderate collision causing body and light damage,40548
+10669,A,Collision,Medium,Sedan,Rural,0.369,0.803,0.593,0.589,0.547,Suresh,PN13311,2023-10-31,0.738,Moderate collision causing body and light damage,37061
+10670,A,Theft,Medium,SUV,Rural,0.333,0.539,0.422,0.603,0.477,Kunal,PN33135,2023-11-01,0.925,Moderate theft causing body and light damage,27829
+10671,A,Theft,Medium,SUV,Urban,0.29,0.895,0.561,0.431,0.455,Kunal,PN67109,2023-11-02,0.059,Moderate theft causing body and light damage,33635
+10672,C,Collision,Medium,SUV,Rural,0.732,0.382,0.602,0.093,0.425,Amit,PN71354,2023-11-03,0.012,Moderate collision causing body and light damage,43485
+10673,A,Collision,High,Sedan,Urban,0.838,0.536,0.646,0.718,0.713,Rahul,PN73647,2023-11-04,0.699,Severe collision with major damage and possible injuries,50133
+10674,B,Theft,Medium,Sedan,Urban,0.97,0.319,0.737,0.222,0.578,Amit,PN69301,2023-11-05,0.279,Moderate theft causing body and light damage,42277
+10675,B,Theft,Medium,SUV,Urban,0.769,0.552,0.757,0.142,0.513,Suresh,PN72233,2023-11-06,0.334,Moderate theft causing body and light damage,42181
+10676,C,Collision,Medium,Truck,Urban,0.833,0.18,0.519,0.568,0.601,Anjali,PN92128,2023-11-07,0.547,Moderate collision causing body and light damage,52602
+10677,A,Collision,Medium,Truck,Urban,0.484,0.428,0.455,0.407,0.442,Neha,PN56212,2023-11-08,0.102,Moderate collision causing body and light damage,35443
+10678,A,Collision,Medium,Sedan,Urban,0.369,0.191,0.331,0.393,0.363,Rahul,PN99468,2023-11-09,0.643,Moderate collision causing body and light damage,26477
+10679,C,Collision,Medium,Sedan,Urban,0.77,0.723,0.801,0.249,0.574,Neha,PN67776,2023-11-10,0.325,Moderate collision causing body and light damage,61702
+10680,C,Collision,Medium,Truck,Urban,0.684,0.729,0.666,0.622,0.652,Ramesh,PN94576,2023-11-11,0.633,Moderate collision causing body and light damage,61092
+10681,C,Theft,Low,SUV,Urban,0.621,0.117,0.343,0.163,0.327,Amit,PN81386,2023-11-12,0.834,Minor theft with small damage,29530
+10682,A,Fire,Medium,Truck,Rural,0.677,0.883,0.714,0.397,0.58,Amit,PN61588,2023-11-13,0.171,Moderate fire causing body and light damage,58465
+10683,A,Theft,Medium,Sedan,Urban,0.665,1.0,0.853,0.141,0.531,Kunal,PN41716,2023-11-14,0.931,Moderate theft causing body and light damage,42197
+10684,B,Theft,Medium,SUV,Urban,0.857,0.562,0.742,0.571,0.697,Ramesh,PN88255,2023-11-15,0.531,Moderate theft causing body and light damage,46352
+10685,C,Collision,High,SUV,Urban,0.859,0.39,0.557,0.813,0.72,Kunal,PN31777,2023-11-16,0.923,Severe collision with major damage and possible injuries,61004
+10686,B,Collision,Medium,SUV,Urban,0.709,1.0,0.832,0.486,0.669,Suresh,PN59285,2023-11-17,0.208,Moderate collision causing body and light damage,61007
+10687,B,Collision,Medium,Sedan,Rural,0.769,0.22,0.427,0.194,0.402,Amit,PN92558,2023-11-18,0.605,Moderate collision causing body and light damage,33987
+10688,A,Collision,Medium,Sedan,Urban,0.703,0.555,0.584,0.563,0.599,Suresh,PN38788,2023-11-19,0.404,Moderate collision causing body and light damage,46489
+10689,C,Theft,Medium,SUV,Urban,0.508,0.595,0.579,0.298,0.452,Neha,PN14019,2023-11-20,0.774,Moderate theft causing body and light damage,42959
+10690,A,Fire,Medium,Sedan,Rural,0.751,0.886,0.782,0.23,0.555,Rahul,PN85018,2023-11-21,0.606,Moderate fire causing body and light damage,56237
+10691,A,Collision,Medium,SUV,Urban,0.321,0.64,0.465,0.323,0.38,Rahul,PN56873,2023-11-22,0.495,Moderate collision causing body and light damage,34047
+10692,B,Collision,Medium,Truck,Urban,0.811,0.425,0.537,0.096,0.415,Rahul,PN94116,2023-11-23,0.913,Moderate collision causing body and light damage,42305
+10693,B,Theft,Medium,Sedan,Urban,0.361,0.312,0.346,0.719,0.498,Kunal,PN19895,2023-11-24,0.377,Moderate theft causing body and light damage,32045
+10694,A,Collision,Medium,Truck,Rural,0.657,0.465,0.559,0.349,0.495,Priya,PN89671,2023-11-25,0.22,Moderate collision causing body and light damage,35675
+10695,A,Collision,Medium,Sedan,Urban,0.431,0.298,0.328,0.447,0.396,Ramesh,PN59013,2023-11-26,0.608,Moderate collision causing body and light damage,28241
+10696,B,Theft,Medium,SUV,Urban,0.711,0.562,0.627,0.731,0.685,Rahul,PN69570,2023-11-27,0.624,Moderate theft causing body and light damage,45035
+10697,A,Theft,Medium,Truck,Urban,0.593,0.409,0.51,0.692,0.599,Amit,PN85923,2023-11-28,0.439,Moderate theft causing body and light damage,32947
+10698,B,Collision,Low,Sedan,Urban,0.281,0.176,0.188,0.259,0.235,Ramesh,PN92895,2023-11-29,0.487,Minor collision with small damage,26323
+10699,A,Collision,Medium,Sedan,Urban,0.684,0.864,0.7,0.389,0.573,Neha,PN57672,2023-11-30,0.96,Moderate collision causing body and light damage,47929
+10700,B,Theft,Medium,Sedan,Urban,0.484,0.426,0.545,0.218,0.402,Neha,PN16121,2023-12-01,0.733,Moderate theft causing body and light damage,32498
+10701,B,Collision,Medium,Sedan,Urban,0.776,0.233,0.473,0.622,0.593,Kunal,PN92445,2023-12-02,0.111,Moderate collision causing body and light damage,44823
+10702,A,Collision,Medium,SUV,Rural,0.6,0.508,0.549,0.689,0.615,Neha,PN77863,2023-12-03,0.212,Moderate collision causing body and light damage,38709
+10703,A,Theft,Medium,Truck,Rural,0.679,0.567,0.674,0.1,0.445,Neha,PN28930,2023-12-04,0.976,Moderate theft causing body and light damage,31196
+10704,A,Collision,Medium,Sedan,Urban,0.408,0.113,0.437,0.731,0.549,Anjali,PN59987,2023-12-05,0.726,Moderate collision causing body and light damage,33178
+10705,A,Theft,Medium,Sedan,Rural,0.482,0.633,0.495,0.174,0.364,Priya,PN45502,2023-12-06,0.915,Moderate theft causing body and light damage,29570
+10706,C,Collision,Medium,Sedan,Urban,0.508,0.288,0.421,0.34,0.406,Anjali,PN41688,2023-12-07,0.304,Moderate collision causing body and light damage,41938
+10707,A,Fire,Medium,SUV,Urban,0.771,0.978,0.839,0.12,0.538,Suresh,PN17304,2023-12-08,0.742,Moderate fire causing body and light damage,66476
+10708,C,Collision,Medium,Sedan,Urban,0.935,0.681,0.781,0.464,0.685,Suresh,PN14049,2023-12-09,0.714,Moderate collision causing body and light damage,66665
+10709,A,Collision,Low,SUV,Rural,0.439,0.45,0.408,0.172,0.32,Anjali,PN24947,2023-12-10,0.295,Minor collision with small damage,28496
+10710,B,Collision,Medium,SUV,Rural,0.815,0.364,0.533,0.286,0.491,Rahul,PN19495,2023-12-11,0.551,Moderate collision causing body and light damage,40298
+10711,C,Collision,Low,SUV,Urban,0.166,0.524,0.343,0.361,0.315,Priya,PN34707,2023-12-12,0.627,Minor collision with small damage,36692
+10712,B,Fire,Low,Sedan,Rural,0.361,0.703,0.458,0.07,0.283,Kunal,PN71920,2023-12-13,0.481,Minor fire with small damage,43276
+10713,B,Fire,Medium,SUV,Urban,0.408,0.544,0.523,0.487,0.486,Suresh,PN54544,2023-12-14,0.827,Moderate fire causing body and light damage,51995
+10714,B,Collision,Low,Sedan,Rural,0.329,0.496,0.415,0.044,0.25,Anjali,PN40706,2023-12-15,0.833,Minor collision with small damage,28204
+10715,A,Collision,Low,Sedan,Rural,0.283,0.565,0.445,0.273,0.344,Kunal,PN43993,2023-12-16,0.851,Minor collision with small damage,29492
+10716,C,Theft,Medium,Truck,Urban,0.683,0.399,0.518,0.527,0.554,Kunal,PN24987,2023-12-17,0.803,Moderate theft causing body and light damage,41950
+10717,C,Fire,Medium,SUV,Rural,0.557,0.464,0.492,0.594,0.546,Neha,PN29089,2023-12-18,0.488,Moderate fire causing body and light damage,57032
+10718,C,Collision,Medium,Sedan,Urban,0.676,0.029,0.367,0.28,0.394,Suresh,PN75997,2023-12-19,0.381,Moderate collision causing body and light damage,37620
+10719,A,Collision,Medium,Sedan,Urban,0.738,0.793,0.708,0.159,0.494,Ramesh,PN19993,2023-12-20,0.831,Moderate collision causing body and light damage,45436
+10720,B,Collision,Medium,Sedan,Urban,0.653,0.625,0.621,0.416,0.545,Rahul,PN21465,2023-12-21,0.49,Moderate collision causing body and light damage,50132
+10721,C,Theft,Medium,Sedan,Urban,0.732,0.357,0.501,0.509,0.55,Suresh,PN92071,2023-12-22,0.246,Moderate theft causing body and light damage,42495
+10722,A,Collision,Medium,Sedan,Rural,0.586,1.0,0.749,0.484,0.61,Ramesh,PN42640,2023-12-23,0.507,Moderate collision causing body and light damage,46289
+10723,A,Theft,Medium,Sedan,Urban,0.363,0.572,0.362,0.362,0.362,Amit,PN85997,2023-12-24,0.142,Moderate theft causing body and light damage,28208
+10724,B,Collision,Medium,SUV,Urban,0.812,0.291,0.618,0.648,0.669,Ramesh,PN22366,2023-12-25,0.692,Moderate collision causing body and light damage,51087
+10725,B,Theft,Medium,SUV,Rural,0.482,0.764,0.589,0.304,0.454,Ramesh,PN39895,2023-12-26,0.336,Moderate theft causing body and light damage,35166
+10726,C,Collision,Medium,SUV,Rural,0.413,0.65,0.589,0.325,0.448,Neha,PN11785,2023-12-27,0.261,Moderate collision causing body and light damage,45769
+10727,A,Collision,Medium,SUV,Urban,0.564,0.649,0.66,0.311,0.501,Neha,PN16242,2023-12-28,0.957,Moderate collision causing body and light damage,43191
+10728,C,Collision,Medium,Sedan,Rural,0.417,0.444,0.366,0.478,0.421,Rahul,PN34529,2023-12-29,0.777,Moderate collision causing body and light damage,38637
+10729,A,Theft,Medium,Truck,Urban,0.517,0.663,0.535,0.345,0.455,Neha,PN74399,2023-12-30,0.787,Moderate theft causing body and light damage,32490
+10730,A,Collision,High,Truck,Rural,0.669,0.485,0.705,0.738,0.711,Ramesh,PN16356,2023-12-31,0.624,Severe collision with major damage and possible injuries,41247
+10731,A,Collision,High,Truck,Urban,0.67,0.689,0.767,0.68,0.713,Priya,PN33229,2024-01-01,0.839,Severe collision with major damage and possible injuries,51048
+10732,C,Collision,Low,Truck,Urban,0.42,0.074,0.246,0.394,0.34,Neha,PN95380,2024-01-02,0.759,Minor collision with small damage,31119
+10733,B,Collision,Low,Truck,Urban,0.502,0.442,0.485,0.086,0.329,Neha,PN28220,2024-01-03,0.599,Minor collision with small damage,37220
+10734,B,Theft,High,SUV,Urban,0.815,0.981,0.866,0.698,0.789,Anjali,PN35651,2024-01-04,0.961,Severe theft with major damage and possible injuries,57193
+10735,A,Theft,Medium,Sedan,Urban,0.699,0.358,0.55,0.533,0.573,Ramesh,PN97663,2024-01-05,0.192,Moderate theft causing body and light damage,34608
+10736,C,Theft,Medium,SUV,Urban,1.0,0.399,0.664,0.115,0.511,Amit,PN98198,2024-01-06,0.943,Moderate theft causing body and light damage,46478
+10737,A,Collision,Medium,SUV,Urban,0.836,0.438,0.535,0.574,0.611,Amit,PN71850,2024-01-07,0.401,Moderate collision causing body and light damage,45230
+10738,C,Theft,Medium,SUV,Rural,0.829,0.246,0.472,0.082,0.387,Anjali,PN44261,2024-01-08,0.528,Moderate theft causing body and light damage,33168
+10739,B,Collision,Low,SUV,Urban,0.322,0.0,0.162,0.114,0.175,Suresh,PN68479,2024-01-09,0.123,Minor collision with small damage,18425
+10740,A,Collision,Medium,Sedan,Urban,0.753,0.492,0.566,0.315,0.503,Rahul,PN60700,2024-01-10,0.54,Moderate collision causing body and light damage,40442
+10741,B,Collision,High,Sedan,Urban,0.589,0.584,0.583,0.931,0.724,Amit,PN52380,2024-01-11,0.611,Severe collision with major damage and possible injuries,52553
+10742,A,Collision,Medium,Truck,Urban,0.49,0.537,0.46,0.218,0.369,Neha,PN89833,2024-01-12,0.998,Moderate collision causing body and light damage,36068
+10743,B,Theft,Medium,SUV,Rural,0.634,0.514,0.535,0.695,0.618,Priya,PN98324,2024-01-13,0.975,Moderate theft causing body and light damage,37252
+10744,B,Theft,High,SUV,Rural,0.789,0.561,0.718,0.673,0.714,Suresh,PN37011,2024-01-14,0.966,Severe theft with major damage and possible injuries,42300
+10745,A,Theft,Medium,Sedan,Urban,0.7,0.806,0.765,0.203,0.527,Rahul,PN58603,2024-01-15,0.348,Moderate theft causing body and light damage,38675
+10746,C,Collision,Medium,Sedan,Urban,0.424,0.502,0.463,0.476,0.461,Priya,PN28447,2024-01-16,0.991,Moderate collision causing body and light damage,46725
+10747,A,Collision,Medium,Truck,Rural,0.748,0.406,0.621,0.708,0.682,Priya,PN93940,2024-01-17,0.455,Moderate collision causing body and light damage,40527
+10748,B,Collision,Medium,SUV,Urban,0.472,0.48,0.5,0.531,0.507,Neha,PN96677,2024-01-18,0.852,Moderate collision causing body and light damage,42222
+10749,C,Collision,Medium,SUV,Rural,0.643,0.695,0.741,0.13,0.477,Ramesh,PN97843,2024-01-19,0.216,Moderate collision causing body and light damage,50262
+10750,B,Collision,Medium,SUV,Urban,0.539,0.903,0.698,0.087,0.422,Ramesh,PN85877,2024-01-20,0.506,Moderate collision causing body and light damage,49574
+10751,A,Collision,Medium,SUV,Rural,0.556,0.393,0.453,0.619,0.54,Ramesh,PN84678,2024-01-21,0.966,Moderate collision causing body and light damage,34348
+10752,C,Collision,Medium,Sedan,Urban,0.753,0.575,0.599,0.26,0.494,Amit,PN74583,2024-01-22,0.947,Moderate collision causing body and light damage,54601
+10753,B,Collision,Medium,SUV,Urban,0.392,0.635,0.492,0.458,0.458,Ramesh,PN73056,2024-01-23,0.684,Moderate collision causing body and light damage,42483
+10754,A,Theft,Medium,Sedan,Rural,0.989,0.302,0.694,0.261,0.58,Rahul,PN91468,2024-01-24,0.798,Moderate theft causing body and light damage,36930
+10755,A,Fire,Low,Sedan,Urban,0.236,0.555,0.46,0.286,0.346,Anjali,PN22017,2024-01-25,0.176,Minor fire with small damage,40293
+10756,C,Fire,Medium,SUV,Urban,0.48,0.184,0.38,0.307,0.371,Neha,PN47880,2024-01-26,0.722,Moderate fire causing body and light damage,46219
+10757,B,Theft,Low,Truck,Urban,0.674,0.108,0.301,0.22,0.343,Anjali,PN11355,2024-01-27,0.618,Minor theft with small damage,27148
+10758,B,Collision,Medium,Sedan,Urban,0.717,0.642,0.733,0.49,0.633,Amit,PN68936,2024-01-28,0.092,Moderate collision causing body and light damage,53002
+10759,C,Theft,Medium,Truck,Urban,0.58,0.454,0.425,0.544,0.504,Rahul,PN74608,2024-01-29,0.113,Moderate theft causing body and light damage,40205
+10760,C,Theft,Medium,Sedan,Urban,0.589,0.601,0.639,0.204,0.455,Ramesh,PN91622,2024-01-30,0.108,Moderate theft causing body and light damage,43307
+10761,A,Collision,Medium,Sedan,Urban,0.682,0.546,0.595,0.213,0.46,Rahul,PN97051,2024-01-31,0.724,Moderate collision causing body and light damage,39639
+10762,A,Collision,Medium,Sedan,Urban,0.554,0.306,0.465,0.645,0.555,Anjali,PN89756,2024-02-01,0.142,Moderate collision causing body and light damage,38204
+10763,A,Theft,Medium,Sedan,Rural,0.879,0.539,0.642,0.192,0.509,Priya,PN57266,2024-02-02,0.468,Moderate theft causing body and light damage,32904
+10764,B,Collision,Medium,SUV,Urban,0.768,0.242,0.563,0.468,0.566,Neha,PN64554,2024-02-03,0.357,Moderate collision causing body and light damage,46043
+10765,A,Collision,High,Sedan,Urban,0.775,0.898,0.763,0.707,0.743,Neha,PN68215,2024-02-04,0.551,Severe collision with major damage and possible injuries,56799
+10766,B,Collision,Low,SUV,Urban,0.407,0.211,0.275,0.169,0.259,Anjali,PN70656,2024-02-05,0.706,Minor collision with small damage,27347
+10767,C,Collision,Medium,Truck,Urban,0.584,0.501,0.493,0.263,0.419,Rahul,PN64104,2024-02-06,0.685,Moderate collision causing body and light damage,47135
+10768,C,Collision,Low,Sedan,Urban,0.54,0.289,0.327,0.256,0.341,Suresh,PN86844,2024-02-07,0.516,Minor collision with small damage,37568
+10769,A,Collision,Medium,SUV,Urban,0.399,0.693,0.55,0.302,0.421,Anjali,PN10969,2024-02-08,0.464,Moderate collision causing body and light damage,38313
+10770,C,Collision,Medium,Sedan,Urban,0.672,0.467,0.66,0.406,0.561,Neha,PN10254,2024-02-09,0.398,Moderate collision causing body and light damage,55852
+10771,A,Collision,Medium,SUV,Urban,0.492,0.42,0.59,0.245,0.432,Priya,PN20306,2024-02-10,0.862,Moderate collision causing body and light damage,34974
+10772,C,Theft,Medium,Sedan,Urban,0.731,0.763,0.752,0.498,0.646,Anjali,PN75516,2024-02-11,0.331,Moderate theft causing body and light damage,53200
+10773,A,Collision,Medium,Sedan,Urban,0.386,0.557,0.527,0.519,0.496,Anjali,PN78197,2024-02-12,0.259,Moderate collision causing body and light damage,38729
+10774,A,Collision,Medium,Sedan,Urban,0.944,0.679,0.823,0.364,0.663,Neha,PN90845,2024-02-13,0.743,Moderate collision causing body and light damage,53311
+10775,C,Collision,Low,Sedan,Urban,0.421,0.305,0.388,0.211,0.323,Anjali,PN28223,2024-02-14,0.36,Minor collision with small damage,35391
+10776,A,Fire,Medium,Sedan,Urban,0.644,0.199,0.404,0.627,0.541,Suresh,PN81441,2024-02-15,0.847,Moderate fire causing body and light damage,44214
+10777,A,Collision,Medium,SUV,Urban,0.758,0.577,0.677,0.359,0.566,Neha,PN77967,2024-02-16,0.328,Moderate collision causing body and light damage,44480
+10778,B,Collision,Low,Truck,Rural,0.486,0.47,0.505,0.108,0.342,Kunal,PN83292,2024-02-17,0.702,Minor collision with small damage,32561
+10779,B,Fire,Medium,Truck,Urban,0.77,0.707,0.71,0.182,0.511,Neha,PN80889,2024-02-18,0.045,Moderate fire causing body and light damage,63717
+10780,B,Theft,Medium,SUV,Urban,0.354,0.53,0.438,0.33,0.378,Suresh,PN60117,2024-02-19,0.386,Moderate theft causing body and light damage,30959
+10781,B,Collision,Medium,Sedan,Urban,0.89,0.601,0.743,0.278,0.587,Kunal,PN11737,2024-02-20,0.343,Moderate collision causing body and light damage,53025
+10782,B,Theft,Medium,Sedan,Urban,0.603,0.144,0.415,0.205,0.368,Kunal,PN92404,2024-02-21,0.817,Moderate theft causing body and light damage,27443
+10783,A,Collision,Medium,Sedan,Urban,0.481,1.0,0.687,0.316,0.497,Neha,PN42476,2024-02-22,0.967,Moderate collision causing body and light damage,46205
+10784,A,Collision,Medium,Sedan,Urban,0.54,0.509,0.522,0.178,0.388,Anjali,PN34325,2024-02-23,0.461,Moderate collision causing body and light damage,36053
+10785,A,Collision,Medium,SUV,Rural,0.762,0.724,0.839,0.401,0.648,Rahul,PN22326,2024-02-24,0.825,Moderate collision causing body and light damage,45931
+10786,C,Collision,Medium,SUV,Urban,0.483,0.341,0.47,0.302,0.406,Amit,PN22911,2024-02-25,0.7,Moderate collision causing body and light damage,43460
+10787,B,Theft,Medium,Sedan,Rural,0.45,0.627,0.606,0.421,0.501,Kunal,PN39080,2024-02-26,0.967,Moderate theft causing body and light damage,35069
+10788,B,Collision,Medium,Sedan,Urban,0.556,0.224,0.391,0.383,0.421,Rahul,PN32635,2024-02-27,0.811,Moderate collision causing body and light damage,33569
+10789,B,Collision,Medium,Truck,Urban,0.365,0.663,0.53,0.533,0.498,Neha,PN61179,2024-02-28,0.077,Moderate collision causing body and light damage,44202
+10790,C,Theft,Medium,SUV,Urban,0.964,0.461,0.763,0.43,0.67,Ramesh,PN15213,2024-02-29,0.713,Moderate theft causing body and light damage,54796
+10791,A,Theft,Medium,Sedan,Urban,0.487,0.557,0.6,0.465,0.523,Ramesh,PN67142,2024-03-01,0.535,Moderate theft causing body and light damage,33777
+10792,B,Collision,Medium,Truck,Urban,0.766,0.724,0.648,0.439,0.588,Amit,PN73545,2024-03-02,0.016,Moderate collision causing body and light damage,51636
+10793,B,Theft,Medium,Truck,Urban,0.642,0.242,0.376,0.441,0.455,Kunal,PN37940,2024-03-03,0.251,Moderate theft causing body and light damage,32137
+10794,B,Collision,Medium,Sedan,Urban,0.403,0.379,0.456,0.48,0.455,Neha,PN58604,2024-03-04,0.922,Moderate collision causing body and light damage,37609
+10795,A,Theft,Medium,Sedan,Rural,0.599,0.664,0.618,0.372,0.516,Priya,PN98901,2024-03-05,0.926,Moderate theft causing body and light damage,31767
+10796,C,Theft,High,SUV,Rural,0.757,1.0,0.845,0.796,0.807,Kunal,PN84332,2024-03-06,0.799,Severe theft with major damage and possible injuries,56822
+10797,C,Fire,Medium,Truck,Urban,0.562,0.515,0.476,0.393,0.46,Neha,PN59119,2024-03-07,0.982,Moderate fire causing body and light damage,60419
+10798,B,Collision,Medium,Truck,Urban,0.839,0.698,0.74,0.089,0.5,Ramesh,PN92888,2024-03-08,0.807,Moderate collision causing body and light damage,51637
+10799,B,Collision,Medium,Sedan,Urban,0.804,0.523,0.594,0.208,0.481,Suresh,PN71604,2024-03-09,0.01,Moderate collision causing body and light damage,46425
+10800,C,Collision,High,Sedan,Urban,0.784,1.0,0.996,0.439,0.731,Amit,PN26820,2024-03-10,0.288,Severe collision with major damage and possible injuries,75134
+10801,B,Collision,Medium,SUV,Urban,0.508,0.113,0.31,0.369,0.373,Suresh,PN86502,2024-03-11,0.031,Moderate collision causing body and light damage,29613
+10802,A,Collision,Medium,SUV,Urban,0.384,0.574,0.476,0.362,0.412,Priya,PN77345,2024-03-12,0.094,Moderate collision causing body and light damage,34798
+10803,B,Fire,Low,Sedan,Urban,0.477,0.144,0.34,0.09,0.267,Neha,PN49314,2024-03-13,0.219,Minor fire with small damage,35584
+10804,B,Collision,Medium,Truck,Urban,0.639,0.0,0.368,0.463,0.46,Anjali,PN50875,2024-03-14,0.504,Moderate collision causing body and light damage,33618
+10805,B,Collision,Medium,SUV,Rural,0.709,0.624,0.714,0.118,0.475,Priya,PN81041,2024-03-15,0.848,Moderate collision causing body and light damage,41526
+10806,B,Theft,Medium,Truck,Urban,0.166,0.585,0.429,0.685,0.479,Suresh,PN80793,2024-03-16,0.862,Moderate theft causing body and light damage,32054
+10807,C,Collision,Medium,Truck,Rural,0.598,0.479,0.507,0.262,0.427,Neha,PN90587,2024-03-17,0.616,Moderate collision causing body and light damage,41587
+10808,C,Theft,Medium,SUV,Urban,0.632,0.523,0.563,0.455,0.533,Kunal,PN14909,2024-03-18,0.928,Moderate theft causing body and light damage,45413
+10809,B,Collision,Medium,Sedan,Urban,0.544,1.0,0.811,0.229,0.525,Rahul,PN24866,2024-03-19,0.5,Moderate collision causing body and light damage,54736
+10810,A,Collision,Medium,SUV,Urban,0.858,0.485,0.645,0.047,0.449,Rahul,PN52789,2024-03-20,0.889,Moderate collision causing body and light damage,39782
+10811,C,Collision,Medium,Sedan,Urban,0.684,0.678,0.681,0.184,0.483,Kunal,PN75997,2024-03-21,0.454,Moderate collision causing body and light damage,56827
+10812,C,Collision,Medium,SUV,Urban,0.862,0.388,0.645,0.326,0.561,Priya,PN38460,2024-03-22,0.277,Moderate collision causing body and light damage,54376
+10813,A,Fire,Medium,Sedan,Urban,0.557,0.624,0.63,0.086,0.397,Anjali,PN58500,2024-03-23,0.916,Moderate fire causing body and light damage,50299
+10814,C,Collision,Medium,SUV,Urban,0.787,0.49,0.55,0.784,0.691,Rahul,PN78769,2024-03-24,0.388,Moderate collision causing body and light damage,60242
+10815,C,Collision,Medium,Sedan,Urban,0.927,0.447,0.723,0.372,0.623,Anjali,PN22128,2024-03-25,0.503,Moderate collision causing body and light damage,59266
+10816,B,Collision,Medium,Sedan,Urban,0.862,1.0,0.919,0.282,0.653,Anjali,PN15202,2024-03-26,0.329,Moderate collision causing body and light damage,61942
+10817,B,Collision,Medium,Sedan,Urban,0.382,0.844,0.648,0.607,0.579,Rahul,PN75327,2024-03-27,0.663,Moderate collision causing body and light damage,50594
+10818,A,Fire,Medium,Sedan,Urban,0.549,0.584,0.606,0.324,0.482,Ramesh,PN57965,2024-03-28,0.995,Moderate fire causing body and light damage,49910
+10819,A,Collision,Medium,SUV,Urban,0.531,0.0,0.346,0.513,0.45,Rahul,PN41238,2024-03-29,0.026,Moderate collision causing body and light damage,28832
+10820,A,Theft,Medium,SUV,Urban,0.698,0.46,0.646,0.147,0.457,Ramesh,PN89258,2024-03-30,0.9,Moderate theft causing body and light damage,35789
+10821,C,Fire,High,SUV,Urban,0.737,1.0,0.936,0.599,0.761,Amit,PN59240,2024-03-31,0.004,Severe fire with major damage and possible injuries,93008
+10822,A,Collision,Medium,Sedan,Rural,0.432,0.492,0.534,0.179,0.372,Ramesh,PN93583,2024-04-01,0.364,Moderate collision causing body and light damage,30857
+10823,A,Fire,Medium,Sedan,Urban,0.614,0.826,0.734,0.342,0.553,Ramesh,PN78837,2024-04-02,0.169,Moderate fire causing body and light damage,61026
+10824,A,Collision,Medium,Sedan,Rural,0.196,0.91,0.555,0.387,0.416,Suresh,PN64289,2024-04-03,0.757,Moderate collision causing body and light damage,35318
+10825,B,Collision,High,Sedan,Urban,0.888,0.605,0.79,0.634,0.747,Anjali,PN42544,2024-04-04,0.051,Severe collision with major damage and possible injuries,57372
+10826,C,Collision,Medium,Truck,Urban,0.498,0.34,0.455,0.435,0.456,Anjali,PN70064,2024-04-05,0.553,Moderate collision causing body and light damage,44524
+10827,A,Theft,Medium,Sedan,Urban,0.611,0.0,0.29,0.533,0.451,Ramesh,PN91176,2024-04-06,0.295,Moderate theft causing body and light damage,23661
+10828,A,Fire,Medium,Sedan,Urban,0.538,0.721,0.65,0.25,0.468,Ramesh,PN32413,2024-04-07,0.134,Moderate fire causing body and light damage,54249
+10829,B,Collision,Medium,Sedan,Urban,0.829,0.346,0.586,0.563,0.625,Suresh,PN92341,2024-04-08,0.772,Moderate collision causing body and light damage,47934
+10830,B,Theft,Low,Sedan,Rural,0.032,0.594,0.271,0.505,0.317,Ramesh,PN95669,2024-04-09,0.217,Minor theft with small damage,26952
+10831,A,Collision,Medium,SUV,Urban,0.597,0.238,0.482,0.166,0.378,Rahul,PN58899,2024-04-10,0.224,Moderate collision causing body and light damage,33822
+10832,B,Collision,Medium,SUV,Urban,0.579,0.484,0.534,0.456,0.512,Kunal,PN96891,2024-04-11,0.275,Moderate collision causing body and light damage,42960
+10833,A,Collision,Medium,Sedan,Urban,0.509,0.558,0.636,0.2,0.436,Ramesh,PN98765,2024-04-12,0.587,Moderate collision causing body and light damage,38453
+10834,A,Fire,Medium,Sedan,Rural,0.945,0.617,0.7,0.404,0.631,Amit,PN79969,2024-04-13,0.66,Moderate fire causing body and light damage,57672
+10835,B,Theft,Medium,Sedan,Urban,0.423,0.271,0.319,0.733,0.505,Ramesh,PN43033,2024-04-14,0.018,Moderate theft causing body and light damage,32046
+10836,B,Collision,Medium,Sedan,Urban,0.754,0.849,0.803,0.461,0.656,Ramesh,PN11378,2024-04-15,0.242,Moderate collision causing body and light damage,59238
+10837,C,Collision,Medium,Sedan,Urban,0.671,0.401,0.593,0.442,0.548,Amit,PN16503,2024-04-16,0.431,Moderate collision causing body and light damage,53733
+10838,A,Collision,Medium,Truck,Rural,0.852,0.131,0.512,0.353,0.517,Kunal,PN52774,2024-04-17,0.332,Moderate collision causing body and light damage,33871
+10839,B,Collision,Medium,SUV,Rural,0.467,0.523,0.51,0.381,0.45,Suresh,PN69608,2024-04-18,0.884,Moderate collision causing body and light damage,36627
+10840,B,Collision,Low,SUV,Urban,0.453,0.559,0.45,0.099,0.31,Rahul,PN43617,2024-04-19,0.788,Minor collision with small damage,36046
+10841,A,Fire,Medium,Sedan,Rural,0.819,0.59,0.647,0.273,0.532,Kunal,PN14814,2024-04-20,0.626,Moderate fire causing body and light damage,52123
+10842,B,Collision,Medium,Sedan,Rural,0.685,0.891,0.804,0.446,0.637,Ramesh,PN68335,2024-04-21,0.338,Moderate collision causing body and light damage,52803
+10843,A,Collision,Low,SUV,Urban,0.291,0.491,0.323,0.139,0.243,Rahul,PN33763,2024-04-22,0.701,Minor collision with small damage,27499
+10844,C,Collision,Medium,SUV,Urban,0.492,0.52,0.48,0.464,0.476,Priya,PN20000,2024-04-23,0.844,Moderate collision causing body and light damage,49030
+10845,A,Fire,Medium,SUV,Urban,0.677,0.274,0.501,0.442,0.513,Anjali,PN90824,2024-04-24,0.595,Moderate fire causing body and light damage,44344
+10846,B,Theft,Medium,Sedan,Rural,0.768,0.755,0.712,0.12,0.486,Rahul,PN13274,2024-04-25,0.784,Moderate theft causing body and light damage,39799
+10847,A,Collision,Medium,SUV,Urban,0.464,0.596,0.61,0.608,0.58,Suresh,PN59868,2024-04-26,0.749,Moderate collision causing body and light damage,42596
+10848,C,Theft,Low,Sedan,Rural,0.017,0.445,0.292,0.11,0.164,Suresh,PN64232,2024-04-27,0.572,Minor theft with small damage,22566
+10849,B,Collision,Medium,Truck,Urban,0.705,0.074,0.311,0.231,0.358,Anjali,PN24227,2024-04-28,0.312,Moderate collision causing body and light damage,30482
+10850,B,Collision,Medium,SUV,Rural,0.356,0.911,0.587,0.194,0.383,Kunal,PN27279,2024-04-29,0.746,Moderate collision causing body and light damage,41897
+10851,A,Collision,Low,SUV,Urban,0.197,0.243,0.106,0.267,0.188,Ramesh,PN84904,2024-04-30,0.207,Minor collision with small damage,19465
+10852,B,Collision,Low,Sedan,Urban,0.034,0.402,0.179,0.287,0.193,Anjali,PN74940,2024-05-01,0.779,Minor collision with small damage,23325
+10853,A,Collision,Medium,SUV,Rural,0.763,0.64,0.74,0.571,0.677,Amit,PN52736,2024-05-02,0.805,Moderate collision causing body and light damage,47296
+10854,C,Fire,Medium,Sedan,Rural,0.626,0.251,0.418,0.508,0.496,Suresh,PN19651,2024-05-03,0.822,Moderate fire causing body and light damage,51854
+10855,A,Theft,Medium,Sedan,Rural,0.555,0.177,0.389,0.66,0.531,Amit,PN89439,2024-05-04,0.473,Moderate theft causing body and light damage,26888
+10856,A,Theft,Medium,Sedan,Urban,0.878,0.019,0.372,0.21,0.408,Kunal,PN94463,2024-05-05,0.192,Moderate theft causing body and light damage,27639
+10857,A,Collision,Medium,SUV,Urban,0.727,0.73,0.769,0.292,0.57,Kunal,PN17771,2024-05-06,0.1,Moderate collision causing body and light damage,47548
+10858,B,Collision,Medium,Sedan,Urban,0.923,0.414,0.641,0.043,0.458,Priya,PN88996,2024-05-07,0.743,Moderate collision causing body and light damage,46332
+10859,B,Theft,Medium,Sedan,Urban,0.321,1.0,0.661,0.08,0.361,Amit,PN80173,2024-05-08,0.886,Moderate theft causing body and light damage,37494
+10860,A,Collision,Medium,Truck,Urban,0.593,0.301,0.443,0.426,0.466,Kunal,PN50834,2024-05-09,0.651,Moderate collision causing body and light damage,35066
+10861,C,Collision,Medium,Sedan,Urban,0.277,0.32,0.235,0.706,0.432,Kunal,PN13553,2024-05-10,0.144,Moderate collision causing body and light damage,34553
+10862,B,Collision,Medium,SUV,Urban,0.554,0.409,0.424,0.223,0.37,Kunal,PN44117,2024-05-11,0.935,Moderate collision causing body and light damage,37538
+10863,B,Theft,Medium,Sedan,Rural,0.55,0.611,0.629,0.75,0.662,Anjali,PN99116,2024-05-12,0.989,Moderate theft causing body and light damage,39135
+10864,B,Collision,Medium,Sedan,Urban,0.725,0.432,0.599,0.128,0.436,Neha,PN87058,2024-05-13,0.433,Moderate collision causing body and light damage,42704
+10865,B,Collision,Medium,SUV,Urban,0.609,0.703,0.709,0.279,0.517,Kunal,PN72137,2024-05-14,0.595,Moderate collision causing body and light damage,49650
+10866,B,Theft,Medium,Sedan,Urban,0.725,0.305,0.531,0.233,0.45,Kunal,PN44890,2024-05-15,0.777,Moderate theft causing body and light damage,33123
+10867,A,Collision,Medium,SUV,Urban,0.741,0.205,0.48,0.347,0.479,Amit,PN89428,2024-05-16,0.736,Moderate collision causing body and light damage,38381
+10868,A,Collision,Medium,SUV,Urban,1.0,0.1,0.464,0.476,0.576,Suresh,PN18689,2024-05-17,0.968,Moderate collision causing body and light damage,40032
+10869,C,Collision,Low,SUV,Rural,0.537,0.0,0.255,0.234,0.303,Amit,PN38063,2024-05-18,0.115,Minor collision with small damage,27768
+10870,C,Collision,Medium,SUV,Rural,0.412,0.42,0.415,0.878,0.599,Amit,PN67198,2024-05-19,0.581,Moderate collision causing body and light damage,43143
+10871,A,Theft,Medium,Sedan,Rural,0.649,0.475,0.66,0.504,0.595,Neha,PN89598,2024-05-20,0.692,Moderate theft causing body and light damage,33491
+10872,A,Collision,Low,Sedan,Rural,0.44,0.392,0.45,0.151,0.328,Neha,PN11363,2024-05-21,0.89,Minor collision with small damage,29544
+10873,B,Collision,Medium,SUV,Urban,0.896,0.861,0.955,0.138,0.617,Anjali,PN26691,2024-05-22,0.874,Moderate collision causing body and light damage,61942
+10874,B,Fire,Medium,SUV,Urban,0.543,0.857,0.73,0.423,0.57,Ramesh,PN12751,2024-05-23,0.978,Moderate fire causing body and light damage,67066
+10875,A,Fire,Low,Truck,Urban,0.487,0.466,0.441,0.056,0.296,Suresh,PN17782,2024-05-24,0.512,Minor fire with small damage,39939
+10876,A,Fire,Medium,Truck,Urban,0.506,0.102,0.309,0.718,0.512,Kunal,PN93184,2024-05-25,0.831,Moderate fire causing body and light damage,39061
+10877,B,Collision,Medium,Truck,Urban,0.744,0.408,0.588,0.48,0.576,Anjali,PN22540,2024-05-26,0.427,Moderate collision causing body and light damage,45536
+10878,B,Collision,Medium,SUV,Urban,0.568,0.4,0.437,0.387,0.444,Ramesh,PN55991,2024-05-27,0.422,Moderate collision causing body and light damage,39267
+10879,A,Fire,Medium,Sedan,Urban,0.472,0.386,0.409,0.268,0.365,Kunal,PN80875,2024-05-28,0.253,Moderate fire causing body and light damage,39499
+10880,A,Theft,Medium,SUV,Urban,0.933,0.376,0.644,0.375,0.594,Kunal,PN37609,2024-05-29,0.818,Moderate theft causing body and light damage,39658
+10881,A,Collision,Medium,SUV,Urban,0.429,0.387,0.488,0.353,0.422,Neha,PN66655,2024-05-30,0.986,Moderate collision causing body and light damage,33935
+10882,B,Collision,Medium,Sedan,Urban,0.607,0.453,0.426,0.684,0.565,Kunal,PN81384,2024-05-31,0.256,Moderate collision causing body and light damage,46514
+10883,A,Collision,Medium,Truck,Urban,0.73,0.391,0.621,0.278,0.506,Kunal,PN73177,2024-06-01,0.056,Moderate collision causing body and light damage,41852
+10884,A,Fire,Low,Truck,Urban,0.274,0.602,0.391,0.143,0.269,Amit,PN68396,2024-06-02,0.816,Minor fire with small damage,36661
+10885,C,Collision,Medium,SUV,Urban,0.696,0.64,0.599,0.219,0.467,Neha,PN26877,2024-06-03,0.62,Moderate collision causing body and light damage,51882
+10886,A,Collision,Medium,Sedan,Rural,0.389,0.322,0.415,0.399,0.403,Priya,PN28405,2024-06-04,0.96,Moderate collision causing body and light damage,29804
+10887,B,Collision,Medium,Sedan,Urban,0.765,0.868,0.853,0.31,0.618,Amit,PN58629,2024-06-05,0.252,Moderate collision causing body and light damage,59968
+10888,A,Theft,Low,Truck,Urban,0.407,0.305,0.419,0.197,0.328,Ramesh,PN56233,2024-06-06,0.071,Minor theft with small damage,22981
+10889,A,Theft,Medium,Truck,Rural,0.739,0.146,0.482,0.149,0.4,Amit,PN31471,2024-06-07,0.492,Moderate theft causing body and light damage,27175
+10890,A,Collision,Medium,Sedan,Urban,0.821,0.645,0.836,0.36,0.643,Anjali,PN13302,2024-06-08,0.085,Moderate collision causing body and light damage,51023
+10891,B,Theft,Medium,Sedan,Urban,0.772,0.346,0.587,0.233,0.482,Priya,PN89973,2024-06-09,0.262,Moderate theft causing body and light damage,37336
+10892,C,Fire,Medium,Truck,Urban,0.65,0.63,0.632,0.253,0.484,Neha,PN90048,2024-06-10,0.126,Moderate fire causing body and light damage,69620
+10893,C,Collision,Medium,Sedan,Urban,0.554,0.0,0.294,0.473,0.417,Suresh,PN33511,2024-06-11,0.224,Moderate collision causing body and light damage,37257
+10894,A,Collision,Medium,SUV,Rural,0.485,0.898,0.754,0.212,0.483,Kunal,PN15022,2024-06-12,0.106,Moderate collision causing body and light damage,41664
+10895,B,Collision,Medium,Truck,Rural,0.894,0.718,0.767,0.479,0.677,Rahul,PN53239,2024-06-13,0.954,Moderate collision causing body and light damage,53729
+10896,A,Theft,Medium,Sedan,Urban,0.46,0.175,0.285,0.569,0.434,Suresh,PN81691,2024-06-14,0.279,Moderate theft causing body and light damage,25988
+10897,A,Collision,Medium,SUV,Urban,0.393,0.18,0.271,0.43,0.359,Suresh,PN69269,2024-06-15,0.444,Moderate collision causing body and light damage,26306
+10898,C,Theft,Medium,Sedan,Urban,0.733,0.968,0.745,0.119,0.492,Kunal,PN68398,2024-06-16,0.899,Moderate theft causing body and light damage,53352
+10899,A,Theft,Medium,Sedan,Urban,0.441,0.366,0.41,0.337,0.387,Neha,PN71895,2024-06-17,0.677,Moderate theft causing body and light damage,25963
+10900,A,Collision,Low,Truck,Urban,0.41,0.341,0.281,0.374,0.344,Suresh,PN79890,2024-06-18,0.618,Minor collision with small damage,28531
+10901,A,Fire,Low,Sedan,Urban,0.311,0.0,0.158,0.404,0.287,Priya,PN45284,2024-06-19,0.706,Minor fire with small damage,25100
+10902,A,Collision,Medium,Truck,Urban,0.503,0.462,0.526,0.131,0.364,Kunal,PN58640,2024-06-20,0.829,Moderate collision causing body and light damage,33342
+10903,A,Collision,Medium,SUV,Urban,0.583,0.493,0.514,0.556,0.545,Neha,PN85692,2024-06-21,0.878,Moderate collision causing body and light damage,40661
+10904,B,Theft,High,Sedan,Urban,0.649,0.729,0.773,0.683,0.712,Anjali,PN32453,2024-06-22,0.643,Severe theft with major damage and possible injuries,48037
+10905,B,Theft,Medium,Sedan,Urban,0.79,0.2,0.422,0.133,0.38,Suresh,PN99294,2024-06-23,0.89,Moderate theft causing body and light damage,32077
+10906,C,Collision,Medium,Sedan,Urban,0.705,0.17,0.497,0.185,0.414,Kunal,PN84374,2024-06-24,0.535,Moderate collision causing body and light damage,40813
+10907,C,Fire,Medium,Sedan,Rural,0.562,0.663,0.646,0.283,0.484,Rahul,PN47976,2024-06-25,0.277,Moderate fire causing body and light damage,60450
+10908,A,Fire,Medium,Sedan,Urban,0.56,0.802,0.595,0.148,0.409,Ramesh,PN23725,2024-06-26,0.88,Moderate fire causing body and light damage,51886
+10909,A,Collision,Medium,Sedan,Urban,0.702,0.157,0.565,0.075,0.396,Neha,PN84873,2024-06-27,0.541,Moderate collision causing body and light damage,32885
+10910,A,Fire,High,SUV,Rural,0.855,0.82,0.834,0.59,0.74,Neha,PN86237,2024-06-28,0.906,Severe fire with major damage and possible injuries,63327
+10911,B,Collision,Medium,SUV,Urban,0.625,0.559,0.548,0.13,0.396,Amit,PN53043,2024-06-29,0.04,Moderate collision causing body and light damage,40279
+10912,A,Collision,Medium,SUV,Urban,0.506,0.823,0.594,0.729,0.631,Anjali,PN87080,2024-06-30,0.398,Moderate collision causing body and light damage,47765
+10913,B,Collision,Low,SUV,Urban,0.401,0.532,0.456,0.12,0.311,Kunal,PN74990,2024-07-01,0.948,Minor collision with small damage,36238
+10914,B,Fire,Low,Sedan,Urban,0.311,0.0,0.149,0.545,0.34,Suresh,PN97050,2024-07-02,0.25,Minor fire with small damage,30938
+10915,B,Theft,Medium,Sedan,Urban,0.733,0.512,0.628,0.048,0.417,Ramesh,PN91863,2024-07-03,0.942,Moderate theft causing body and light damage,38742
+10916,B,Collision,Medium,SUV,Urban,0.716,0.815,0.75,0.311,0.568,Kunal,PN56809,2024-07-04,0.954,Moderate collision causing body and light damage,54676
+10917,A,Collision,Medium,SUV,Urban,0.715,0.327,0.553,0.495,0.562,Rahul,PN26705,2024-07-05,0.882,Moderate collision causing body and light damage,40991
+10918,C,Theft,Medium,Sedan,Rural,0.574,0.453,0.494,0.241,0.409,Priya,PN73131,2024-07-06,0.564,Moderate theft causing body and light damage,35392
+10919,C,Collision,Medium,Truck,Urban,0.881,0.506,0.597,0.151,0.476,Neha,PN86015,2024-07-07,0.647,Moderate collision causing body and light damage,55415
+10920,A,Fire,Low,SUV,Urban,0.503,0.0,0.244,0.129,0.25,Priya,PN72456,2024-07-08,0.87,Minor fire with small damage,25852
+10921,C,Theft,Medium,SUV,Rural,0.791,0.968,0.761,0.224,0.552,Priya,PN86859,2024-07-09,0.776,Moderate theft causing body and light damage,49687
+10922,B,Collision,Medium,Sedan,Urban,0.592,0.325,0.476,0.719,0.597,Priya,PN88473,2024-07-10,0.63,Moderate collision causing body and light damage,45670
+10923,C,Fire,Medium,SUV,Rural,0.478,0.676,0.528,0.777,0.618,Anjali,PN33089,2024-07-11,0.982,Moderate fire causing body and light damage,60746
+10924,C,Collision,Medium,SUV,Urban,0.719,0.528,0.632,0.196,0.475,Amit,PN77238,2024-07-12,0.686,Moderate collision causing body and light damage,52775
+10925,B,Fire,Medium,SUV,Rural,0.682,0.864,0.839,0.252,0.573,Kunal,PN85940,2024-07-13,0.975,Moderate fire causing body and light damage,64390
+10926,A,Theft,Medium,SUV,Urban,0.671,0.652,0.614,0.273,0.489,Priya,PN83916,2024-07-14,0.057,Moderate theft causing body and light damage,36367
+10927,A,Theft,Medium,Truck,Rural,0.616,0.491,0.607,0.432,0.539,Suresh,PN97526,2024-07-15,0.139,Moderate theft causing body and light damage,31332
+10928,B,Collision,Medium,SUV,Rural,0.592,0.327,0.438,0.571,0.522,Suresh,PN71396,2024-07-16,0.451,Moderate collision causing body and light damage,37372
+10929,B,Fire,High,Sedan,Urban,1.0,0.749,0.962,0.83,0.917,Ramesh,PN13877,2024-07-17,0.385,Severe fire with major damage and possible injuries,86795
+10930,A,Collision,Medium,SUV,Urban,0.837,0.082,0.441,0.279,0.455,Ramesh,PN94256,2024-07-18,0.783,Moderate collision causing body and light damage,34491
+10931,A,Collision,Medium,SUV,Urban,0.745,0.711,0.686,0.52,0.631,Rahul,PN83212,2024-07-19,0.161,Moderate collision causing body and light damage,48350
+10932,C,Collision,Medium,SUV,Urban,0.622,0.275,0.483,0.38,0.47,Priya,PN41818,2024-07-20,0.976,Moderate collision causing body and light damage,46682
+10933,C,Collision,Medium,Sedan,Urban,0.801,0.863,0.81,0.408,0.648,Priya,PN58555,2024-07-21,0.315,Moderate collision causing body and light damage,69910
+10934,B,Collision,Medium,Sedan,Urban,0.704,0.59,0.605,0.204,0.464,Amit,PN52368,2024-07-22,0.429,Moderate collision causing body and light damage,46104
+10935,A,Theft,Medium,Truck,Urban,0.605,0.711,0.634,0.327,0.506,Kunal,PN58180,2024-07-23,0.275,Moderate theft causing body and light damage,35424
+10936,A,Fire,Medium,SUV,Urban,0.539,0.57,0.553,0.545,0.547,Priya,PN99666,2024-07-24,0.579,Moderate fire causing body and light damage,51178
+10937,A,Collision,Medium,Truck,Urban,0.584,0.112,0.415,0.485,0.477,Priya,PN59421,2024-07-25,0.059,Moderate collision causing body and light damage,32194
+10938,C,Theft,Low,SUV,Urban,0.0,0.335,0.071,0.498,0.228,Anjali,PN36620,2024-07-26,0.15,Minor theft with small damage,21559
+10939,A,Collision,Medium,SUV,Urban,0.642,0.718,0.681,0.499,0.601,Kunal,PN70539,2024-07-27,0.746,Moderate collision causing body and light damage,45986
+10940,B,Fire,Medium,SUV,Urban,0.502,0.592,0.578,0.323,0.461,Priya,PN27077,2024-07-28,0.187,Moderate fire causing body and light damage,53350
+10941,A,Theft,High,Truck,Urban,0.919,0.845,0.892,0.6,0.78,Neha,PN22663,2024-07-29,0.236,Severe theft with major damage and possible injuries,50608
+10942,B,Collision,Medium,SUV,Urban,0.604,0.651,0.693,0.212,0.483,Neha,PN93335,2024-07-30,0.793,Moderate collision causing body and light damage,48409
+10943,B,Theft,Medium,SUV,Urban,0.362,0.308,0.332,0.367,0.352,Anjali,PN57285,2024-07-31,0.093,Moderate theft causing body and light damage,26193
+10944,C,Collision,Medium,Sedan,Urban,0.59,0.351,0.461,0.314,0.428,Anjali,PN61235,2024-08-01,0.437,Moderate collision causing body and light damage,42930
+10945,A,Collision,Medium,SUV,Urban,0.391,0.576,0.513,0.353,0.424,Amit,PN27619,2024-08-02,0.023,Moderate collision causing body and light damage,40004
+10946,A,Theft,Medium,SUV,Rural,0.695,0.0,0.352,0.368,0.427,Anjali,PN79503,2024-08-03,0.347,Moderate theft causing body and light damage,24171
+10947,A,Collision,Medium,Sedan,Urban,0.658,0.968,0.794,0.177,0.52,Amit,PN67477,2024-08-04,0.699,Moderate collision causing body and light damage,49174
+10948,C,Collision,Medium,Sedan,Urban,0.792,0.66,0.752,0.343,0.596,Anjali,PN37488,2024-08-05,0.09,Moderate collision causing body and light damage,62991
+10949,C,Collision,Medium,Sedan,Urban,0.442,0.857,0.617,0.43,0.507,Anjali,PN88747,2024-08-06,0.888,Moderate collision causing body and light damage,55749
+10950,B,Theft,Low,Sedan,Rural,0.607,0.155,0.35,0.165,0.327,Suresh,PN31169,2024-08-07,0.909,Minor theft with small damage,25447
+10951,B,Collision,Medium,Sedan,Rural,0.327,0.861,0.568,0.34,0.428,Amit,PN40373,2024-08-08,0.105,Moderate collision causing body and light damage,40312
+10952,B,Collision,High,Sedan,Urban,0.74,1.0,0.938,0.637,0.778,Rahul,PN42669,2024-08-09,0.991,Severe collision with major damage and possible injuries,65970
+10953,A,Theft,Medium,Truck,Urban,0.704,0.22,0.301,0.433,0.434,Suresh,PN65277,2024-08-10,0.298,Moderate theft causing body and light damage,28113
+10954,C,Theft,Medium,SUV,Rural,0.699,0.743,0.741,0.215,0.522,Anjali,PN82170,2024-08-11,0.084,Moderate theft causing body and light damage,43876
+10955,B,Collision,Medium,Sedan,Urban,0.6,0.55,0.577,0.194,0.429,Kunal,PN65120,2024-08-12,0.005,Moderate collision causing body and light damage,45303
+10956,A,Collision,Medium,Sedan,Urban,0.683,0.164,0.339,0.418,0.44,Priya,PN76376,2024-08-13,0.409,Moderate collision causing body and light damage,31524
+10957,B,Collision,High,SUV,Urban,0.921,0.673,0.813,0.88,0.861,Anjali,PN64235,2024-08-14,0.63,Severe collision with major damage and possible injuries,62921
+10958,A,Collision,Medium,Sedan,Urban,0.543,0.758,0.674,0.242,0.475,Amit,PN44229,2024-08-15,0.332,Moderate collision causing body and light damage,42777
+10959,A,Collision,Medium,Truck,Rural,0.628,0.4,0.543,0.266,0.449,Rahul,PN96854,2024-08-16,0.837,Moderate collision causing body and light damage,32494
+10960,B,Theft,Medium,SUV,Rural,0.383,0.841,0.48,0.347,0.407,Amit,PN25405,2024-08-17,0.717,Moderate theft causing body and light damage,33258
+10961,A,Theft,Medium,SUV,Rural,0.426,0.133,0.348,0.336,0.359,Anjali,PN25847,2024-08-18,0.35,Moderate theft causing body and light damage,21656
+10962,B,Theft,Medium,Sedan,Urban,0.62,0.176,0.361,0.31,0.392,Amit,PN33547,2024-08-19,0.734,Moderate theft causing body and light damage,30416
+10963,A,Collision,Medium,SUV,Rural,0.821,0.584,0.737,0.183,0.532,Suresh,PN16575,2024-08-20,0.94,Moderate collision causing body and light damage,42413
+10964,A,Theft,Medium,Sedan,Urban,0.549,0.556,0.59,0.28,0.458,Kunal,PN14843,2024-08-21,0.093,Moderate theft causing body and light damage,32867
+10965,A,Collision,Medium,Truck,Urban,0.553,0.371,0.418,0.679,0.549,Kunal,PN17739,2024-08-22,0.306,Moderate collision causing body and light damage,37879
+10966,A,Fire,Medium,SUV,Rural,0.519,0.752,0.669,0.386,0.526,Suresh,PN24852,2024-08-23,0.463,Moderate fire causing body and light damage,50322
+10967,B,Theft,Medium,Sedan,Urban,0.493,0.683,0.569,0.102,0.367,Anjali,PN61661,2024-08-24,0.498,Moderate theft causing body and light damage,33329
+10968,A,Collision,Medium,Sedan,Urban,0.659,0.765,0.608,0.461,0.559,Ramesh,PN19157,2024-08-25,0.542,Moderate collision causing body and light damage,47014
+10969,B,Theft,Medium,Sedan,Urban,0.301,0.519,0.468,0.826,0.578,Suresh,PN97942,2024-08-26,0.301,Moderate theft causing body and light damage,34376
+10970,B,Collision,High,SUV,Rural,0.856,0.701,0.74,0.686,0.741,Suresh,PN82968,2024-08-27,0.667,Severe collision with major damage and possible injuries,56546
+10971,B,Theft,Medium,Sedan,Urban,0.467,0.439,0.41,0.308,0.38,Neha,PN28837,2024-08-28,0.645,Moderate theft causing body and light damage,30640
+10972,C,Collision,Medium,SUV,Urban,0.744,1.0,0.852,0.146,0.548,Anjali,PN90684,2024-08-29,0.578,Moderate collision causing body and light damage,66425
+10973,B,Collision,Medium,Sedan,Urban,0.346,0.347,0.36,0.612,0.458,Amit,PN86730,2024-08-30,0.114,Moderate collision causing body and light damage,34750
+10974,A,Fire,High,SUV,Rural,0.734,1.0,0.864,0.568,0.72,Suresh,PN24819,2024-08-31,0.477,Severe fire with major damage and possible injuries,63695
+10975,A,Collision,Medium,Truck,Rural,0.734,0.559,0.674,0.019,0.424,Amit,PN82161,2024-09-01,0.356,Moderate collision causing body and light damage,39756
+10976,A,Theft,Medium,SUV,Urban,0.677,0.206,0.375,0.56,0.509,Amit,PN17404,2024-09-02,0.491,Moderate theft causing body and light damage,31237
+10977,B,Collision,Medium,SUV,Urban,0.401,0.892,0.609,0.187,0.399,Neha,PN24674,2024-09-03,0.922,Moderate collision causing body and light damage,43331
+10978,A,Theft,Medium,Sedan,Urban,0.65,0.581,0.61,0.164,0.439,Anjali,PN86043,2024-09-04,0.481,Moderate theft causing body and light damage,36008
+10979,B,Theft,Medium,Sedan,Rural,0.363,0.763,0.658,0.28,0.448,Amit,PN95923,2024-09-05,0.014,Moderate theft causing body and light damage,35749
+10980,B,Collision,Medium,SUV,Urban,0.549,0.856,0.697,0.428,0.56,Rahul,PN28697,2024-09-06,0.439,Moderate collision causing body and light damage,51954
+10981,A,Collision,Medium,Sedan,Rural,0.806,0.634,0.774,0.216,0.557,Suresh,PN95083,2024-09-07,0.821,Moderate collision causing body and light damage,43210
+10982,C,Collision,Medium,Sedan,Urban,0.759,0.402,0.583,0.666,0.651,Amit,PN70663,2024-09-08,0.78,Moderate collision causing body and light damage,57148
+10983,A,Collision,Medium,Sedan,Rural,0.603,0.794,0.674,0.481,0.583,Ramesh,PN33570,2024-09-09,0.513,Moderate collision causing body and light damage,45132
+10984,A,Collision,Low,Sedan,Rural,0.405,0.55,0.465,0.185,0.341,Ramesh,PN38037,2024-09-10,0.25,Minor collision with small damage,29030
+10985,B,Theft,Medium,Sedan,Urban,0.729,0.721,0.717,0.61,0.676,Neha,PN47982,2024-09-11,0.465,Moderate theft causing body and light damage,48013
+10986,B,Fire,Medium,Truck,Rural,0.604,0.012,0.338,0.503,0.457,Rahul,PN78524,2024-09-12,0.564,Moderate fire causing body and light damage,37297
+10987,B,Fire,Medium,Sedan,Urban,0.136,0.662,0.468,0.352,0.355,Kunal,PN15156,2024-09-13,1.0,Moderate fire causing body and light damage,42841
+10988,B,Theft,Medium,SUV,Urban,0.757,0.39,0.591,0.336,0.522,Kunal,PN48280,2024-09-14,0.644,Moderate theft causing body and light damage,41301
+10989,A,Theft,High,Sedan,Urban,0.595,0.963,0.839,0.619,0.702,Suresh,PN85324,2024-09-15,0.694,Severe theft with major damage and possible injuries,44657
+10990,C,Theft,Medium,SUV,Rural,0.84,0.706,0.725,0.267,0.565,Anjali,PN70706,2024-09-16,0.491,Moderate theft causing body and light damage,48012
+10991,C,Collision,Medium,Sedan,Urban,0.381,0.61,0.475,0.76,0.57,Neha,PN89721,2024-09-17,0.354,Moderate collision causing body and light damage,49375
+10992,B,Fire,Low,Truck,Urban,0.0,0.672,0.3,0.32,0.248,Ramesh,PN94270,2024-09-18,0.813,Minor fire with small damage,36152
+10993,A,Theft,Medium,Truck,Urban,0.656,0.3,0.494,0.353,0.47,Rahul,PN19971,2024-09-19,0.495,Moderate theft causing body and light damage,31373
+10994,B,Collision,Medium,Sedan,Urban,0.658,0.956,0.789,0.39,0.603,Suresh,PN63140,2024-09-20,0.995,Moderate collision causing body and light damage,56388
+10995,A,Collision,Medium,Truck,Urban,0.262,1.0,0.667,0.263,0.424,Amit,PN53408,2024-09-21,0.457,Moderate collision causing body and light damage,42485
+10996,A,Collision,Low,Truck,Urban,0.404,0.648,0.48,0.192,0.35,Suresh,PN62022,2024-09-22,0.068,Minor collision with small damage,34550
+10997,C,Collision,Medium,Truck,Rural,1.0,0.948,0.976,0.073,0.62,Priya,PN16487,2024-09-23,0.683,Moderate collision causing body and light damage,67613
+10998,A,Fire,Medium,Truck,Urban,0.539,0.408,0.508,0.524,0.52,Suresh,PN30997,2024-09-24,0.047,Moderate fire causing body and light damage,49185
+10999,C,Collision,Medium,Sedan,Urban,0.746,0.351,0.445,0.587,0.562,Amit,PN56456,2024-09-25,0.251,Moderate collision causing body and light damage,50780
+11000,B,Collision,Medium,SUV,Urban,0.47,0.56,0.621,0.724,0.632,Priya,PN87988,2024-09-26,0.354,Moderate collision causing body and light damage,48357
+11001,A,Fire,Medium,Sedan,Urban,0.182,0.659,0.406,0.691,0.475,Kunal,PN90908,2024-09-27,0.739,Moderate fire causing body and light damage,44604
+11002,B,Collision,Medium,Sedan,Rural,0.566,0.452,0.407,0.19,0.352,Rahul,PN69416,2024-09-28,0.494,Moderate collision causing body and light damage,34364
+11003,C,Collision,Medium,Truck,Rural,0.547,0.684,0.624,0.275,0.469,Neha,PN54767,2024-09-29,0.029,Moderate collision causing body and light damage,47962
+11004,B,Collision,Medium,Sedan,Urban,0.52,0.627,0.575,0.374,0.484,Rahul,PN88970,2024-09-30,0.617,Moderate collision causing body and light damage,45111
+11005,C,Theft,Medium,SUV,Rural,0.577,0.3,0.435,0.3,0.409,Suresh,PN87952,2024-10-01,0.411,Moderate theft causing body and light damage,32382
+11006,B,Fire,Medium,Truck,Rural,0.653,0.68,0.716,0.523,0.626,Kunal,PN94784,2024-10-02,0.922,Moderate fire causing body and light damage,60146
+11007,B,Collision,Medium,Truck,Rural,0.57,0.766,0.705,0.647,0.655,Neha,PN38194,2024-10-03,0.5,Moderate collision causing body and light damage,50592
+11008,C,Fire,Low,Truck,Urban,0.347,0.593,0.485,0.196,0.342,Suresh,PN43785,2024-10-04,0.709,Minor fire with small damage,53895
+11009,A,Collision,Medium,Sedan,Rural,0.697,0.838,0.79,0.053,0.477,Ramesh,PN68676,2024-10-05,0.219,Moderate collision causing body and light damage,43214
+11010,B,Fire,Medium,Sedan,Urban,0.21,0.246,0.223,0.643,0.388,Ramesh,PN18373,2024-10-06,0.761,Moderate fire causing body and light damage,37141
+11011,A,Theft,Medium,Sedan,Urban,0.19,0.667,0.517,0.564,0.47,Amit,PN40283,2024-10-07,0.721,Moderate theft causing body and light damage,30769
+11012,C,Theft,Medium,Sedan,Urban,0.748,0.257,0.429,0.178,0.392,Kunal,PN65911,2024-10-08,0.904,Moderate theft causing body and light damage,37359
+11013,C,Collision,Medium,Sedan,Urban,0.701,0.271,0.493,0.242,0.434,Anjali,PN36414,2024-10-09,0.034,Moderate collision causing body and light damage,43938
+11014,A,Fire,Low,Sedan,Urban,0.589,0.392,0.494,0.084,0.349,Kunal,PN24378,2024-10-10,0.448,Minor fire with small damage,43291
+11015,B,Theft,Medium,SUV,Urban,0.321,0.314,0.358,0.549,0.427,Anjali,PN93872,2024-10-11,0.679,Moderate theft causing body and light damage,25443
+11016,C,Collision,Medium,SUV,Urban,0.458,0.413,0.394,0.431,0.422,Rahul,PN14700,2024-10-12,0.095,Moderate collision causing body and light damage,42749
+11017,A,Theft,Medium,Sedan,Rural,0.547,0.496,0.435,0.647,0.542,Ramesh,PN74143,2024-10-13,0.411,Moderate theft causing body and light damage,31722
+11018,B,Collision,Medium,SUV,Rural,0.281,0.759,0.528,0.642,0.524,Priya,PN73229,2024-10-14,0.942,Moderate collision causing body and light damage,38936
+11019,C,Fire,Medium,Sedan,Urban,0.452,0.47,0.475,0.366,0.427,Priya,PN23901,2024-10-15,0.436,Moderate fire causing body and light damage,56448
+11020,A,Collision,Medium,Sedan,Rural,0.73,0.154,0.517,0.149,0.412,Kunal,PN32597,2024-10-16,0.985,Moderate collision causing body and light damage,29591
+11021,B,Theft,Medium,SUV,Rural,0.885,0.835,0.797,0.088,0.531,Kunal,PN43428,2024-10-17,0.057,Moderate theft causing body and light damage,42724
+11022,A,Collision,Medium,SUV,Rural,0.516,0.341,0.486,0.146,0.356,Suresh,PN45687,2024-10-18,0.718,Moderate collision causing body and light damage,30102
+11023,C,Collision,Medium,SUV,Urban,0.751,0.535,0.762,0.261,0.559,Kunal,PN39493,2024-10-19,0.581,Moderate collision causing body and light damage,58100
+11024,C,Collision,Low,Sedan,Urban,0.217,0.662,0.421,0.316,0.338,Neha,PN61224,2024-10-20,0.501,Minor collision with small damage,38659
+11025,C,Collision,Medium,Truck,Rural,0.732,0.6,0.601,0.266,0.493,Priya,PN41852,2024-10-21,0.971,Moderate collision causing body and light damage,48415
+11026,B,Collision,Medium,SUV,Urban,0.439,0.824,0.611,0.65,0.592,Suresh,PN20932,2024-10-22,0.13,Moderate collision causing body and light damage,51866
+11027,C,Collision,Medium,SUV,Urban,0.661,0.67,0.666,0.498,0.598,Anjali,PN98545,2024-10-23,0.896,Moderate collision causing body and light damage,60007
+11028,C,Collision,Medium,SUV,Urban,0.55,0.335,0.471,0.725,0.589,Neha,PN74202,2024-10-24,0.691,Moderate collision causing body and light damage,51663
+11029,A,Collision,Medium,Truck,Urban,0.864,1.0,0.902,0.321,0.662,Kunal,PN43583,2024-10-25,0.259,Moderate collision causing body and light damage,59153
+11030,C,Collision,Medium,SUV,Urban,0.425,0.599,0.59,0.461,0.505,Kunal,PN57278,2024-10-26,0.902,Moderate collision causing body and light damage,50257
+11031,A,Theft,Medium,SUV,Urban,0.726,0.513,0.564,0.743,0.668,Ramesh,PN39865,2024-10-27,0.429,Moderate theft causing body and light damage,42319
+11032,B,Collision,Medium,Truck,Urban,0.544,0.791,0.581,0.736,0.636,Suresh,PN22289,2024-10-28,0.814,Moderate collision causing body and light damage,52638
+11033,A,Fire,Medium,SUV,Rural,0.568,0.612,0.646,0.036,0.387,Neha,PN80270,2024-10-29,0.389,Moderate fire causing body and light damage,42414
+11034,A,Fire,Medium,Sedan,Rural,0.563,0.65,0.493,0.21,0.394,Amit,PN95549,2024-10-30,0.851,Moderate fire causing body and light damage,42274
+11035,A,Theft,Medium,SUV,Urban,0.431,1.0,0.705,0.077,0.399,Kunal,PN45521,2024-10-31,0.637,Moderate theft causing body and light damage,34071
+11036,B,Collision,Medium,Sedan,Rural,0.597,0.481,0.695,0.435,0.572,Rahul,PN16505,2024-11-01,0.141,Moderate collision causing body and light damage,44765
+11037,A,Fire,Medium,Sedan,Urban,0.587,0.471,0.528,0.568,0.556,Rahul,PN54327,2024-11-02,0.65,Moderate fire causing body and light damage,52723
+11038,B,Collision,Medium,SUV,Urban,0.648,0.579,0.558,0.291,0.469,Kunal,PN75519,2024-11-03,0.191,Moderate collision causing body and light damage,43936
+11039,A,Collision,Medium,Truck,Rural,0.617,0.818,0.715,0.601,0.649,Amit,PN80221,2024-11-04,0.412,Moderate collision causing body and light damage,44930
+11040,A,Collision,Medium,Truck,Rural,0.76,0.173,0.464,0.317,0.464,Priya,PN28409,2024-11-05,0.17,Moderate collision causing body and light damage,32050
+11041,B,Theft,Medium,Sedan,Rural,0.785,0.059,0.43,0.206,0.411,Rahul,PN29517,2024-11-06,0.022,Moderate theft causing body and light damage,26361
+11042,C,Collision,Medium,SUV,Urban,0.39,0.403,0.43,0.368,0.397,Neha,PN54533,2024-11-07,0.212,Moderate collision causing body and light damage,39043
+11043,A,Collision,Medium,Sedan,Rural,0.774,0.142,0.406,0.113,0.362,Kunal,PN40475,2024-11-08,0.536,Moderate collision causing body and light damage,28404
+11044,B,Fire,Medium,Truck,Urban,0.363,0.444,0.488,0.621,0.516,Kunal,PN25327,2024-11-09,0.482,Moderate fire causing body and light damage,50008
+11045,C,Fire,High,Truck,Rural,0.718,0.676,0.709,0.771,0.736,Kunal,PN65344,2024-11-10,0.501,Severe fire with major damage and possible injuries,73937
+11046,B,Collision,Medium,SUV,Rural,0.724,0.327,0.562,0.614,0.615,Amit,PN13671,2024-11-11,0.248,Moderate collision causing body and light damage,42589
+11047,A,Collision,Low,Truck,Urban,0.218,0.193,0.174,0.561,0.338,Priya,PN80477,2024-11-12,0.685,Minor collision with small damage,25369
+11048,A,Theft,Medium,SUV,Urban,0.619,0.567,0.657,0.566,0.613,Suresh,PN88002,2024-11-13,0.704,Moderate theft causing body and light damage,37859
+11049,C,Collision,Medium,SUV,Rural,0.506,0.766,0.623,0.329,0.482,Kunal,PN60756,2024-11-14,0.358,Moderate collision causing body and light damage,49369
+11050,A,Collision,Medium,Sedan,Urban,0.448,0.126,0.301,0.558,0.433,Suresh,PN93822,2024-11-15,0.881,Moderate collision causing body and light damage,29869
+11051,C,Collision,Medium,SUV,Urban,0.87,0.755,0.766,0.266,0.587,Neha,PN54959,2024-11-16,0.644,Moderate collision causing body and light damage,65266
+11052,B,Fire,Medium,SUV,Rural,0.469,0.754,0.562,0.335,0.453,Neha,PN80124,2024-11-17,0.713,Moderate fire causing body and light damage,50351
+11053,C,Theft,Medium,SUV,Urban,0.439,0.789,0.648,0.535,0.561,Anjali,PN38080,2024-11-18,0.277,Moderate theft causing body and light damage,48463
+11054,C,Theft,Medium,Sedan,Rural,0.615,0.855,0.713,0.342,0.545,Neha,PN34544,2024-11-19,0.001,Moderate theft causing body and light damage,47323
+11055,C,Fire,Medium,Truck,Urban,0.737,1.0,0.826,0.396,0.636,Rahul,PN86347,2024-11-20,0.865,Moderate fire causing body and light damage,85484
+11056,A,Collision,Medium,Sedan,Urban,0.572,0.461,0.484,0.29,0.424,Neha,PN28733,2024-11-21,0.822,Moderate collision causing body and light damage,37778
+11057,C,Collision,High,SUV,Rural,0.833,0.577,0.74,0.61,0.707,Anjali,PN64211,2024-11-22,0.123,Severe collision with major damage and possible injuries,60473
+11058,B,Collision,Medium,SUV,Urban,0.706,0.446,0.545,0.438,0.534,Kunal,PN50696,2024-11-23,0.374,Moderate collision causing body and light damage,44859
+11059,B,Collision,Medium,SUV,Urban,0.164,0.55,0.352,0.628,0.425,Amit,PN58093,2024-11-24,0.661,Moderate collision causing body and light damage,35704
+11060,B,Collision,Medium,SUV,Rural,0.494,0.933,0.714,0.166,0.451,Amit,PN57042,2024-11-25,0.652,Moderate collision causing body and light damage,45587
+11061,C,Theft,Low,Sedan,Urban,0.488,0.214,0.255,0.255,0.301,Priya,PN63516,2024-11-26,0.86,Minor theft with small damage,28224
+11062,C,Theft,Medium,Sedan,Urban,0.696,0.335,0.442,0.471,0.504,Amit,PN47487,2024-11-27,0.14,Moderate theft causing body and light damage,41671
+11063,C,Fire,Medium,SUV,Urban,0.075,0.894,0.501,0.616,0.462,Anjali,PN50849,2024-11-28,0.43,Moderate fire causing body and light damage,60860
+11064,B,Collision,Medium,SUV,Rural,1.0,0.805,0.866,0.328,0.677,Rahul,PN24550,2024-11-29,0.097,Moderate collision causing body and light damage,54593
+11065,B,Theft,Medium,Sedan,Rural,0.706,0.459,0.636,0.738,0.691,Anjali,PN86400,2024-11-30,0.39,Moderate theft causing body and light damage,40250
+11066,B,Theft,Medium,SUV,Rural,0.63,0.764,0.745,0.178,0.495,Suresh,PN94597,2024-12-01,0.015,Moderate theft causing body and light damage,37298
+11067,A,Collision,Medium,SUV,Urban,0.836,0.635,0.772,0.4,0.636,Anjali,PN59699,2024-12-02,0.898,Moderate collision causing body and light damage,51036
+11068,A,Theft,High,SUV,Rural,1.0,0.925,1.0,0.671,0.869,Priya,PN88160,2024-12-03,0.527,Severe theft with major damage and possible injuries,48565
+11069,A,Collision,High,Truck,Urban,0.774,0.569,0.667,0.743,0.719,Amit,PN78897,2024-12-04,0.85,Severe collision with major damage and possible injuries,49629
+11070,A,Collision,Medium,Sedan,Urban,0.79,0.806,0.831,0.37,0.638,Neha,PN23707,2024-12-05,0.06,Moderate collision causing body and light damage,53962
+11071,A,Collision,Medium,Sedan,Urban,0.626,1.0,0.784,0.104,0.48,Amit,PN11924,2024-12-06,0.227,Moderate collision causing body and light damage,48974
+11072,A,Collision,Medium,SUV,Rural,0.572,0.7,0.758,0.348,0.557,Ramesh,PN88183,2024-12-07,0.259,Moderate collision causing body and light damage,39850
+11073,A,Collision,Medium,SUV,Rural,0.505,0.562,0.633,0.192,0.431,Priya,PN39018,2024-12-08,0.387,Moderate collision causing body and light damage,33394
+11074,A,Theft,Medium,SUV,Urban,0.435,0.731,0.583,0.395,0.478,Kunal,PN97163,2024-12-09,0.803,Moderate theft causing body and light damage,33976
+11075,C,Fire,Medium,Truck,Urban,0.463,0.459,0.48,0.419,0.452,Kunal,PN31031,2024-12-10,0.387,Moderate fire causing body and light damage,57582
+11076,B,Theft,Medium,Truck,Rural,0.33,1.0,0.733,0.269,0.467,Rahul,PN75164,2024-12-11,0.205,Moderate theft causing body and light damage,38236
+11077,A,Theft,Medium,Truck,Urban,0.585,0.595,0.583,0.53,0.562,Amit,PN78237,2024-12-12,0.065,Moderate theft causing body and light damage,35503
+11078,B,Collision,Medium,SUV,Rural,0.263,0.482,0.34,0.543,0.406,Amit,PN59573,2024-12-13,0.079,Moderate collision causing body and light damage,30205
+11079,A,Theft,Medium,SUV,Urban,0.638,0.341,0.533,0.498,0.54,Rahul,PN26719,2024-12-14,0.76,Moderate theft causing body and light damage,33470
+11080,C,Collision,Medium,Sedan,Urban,0.593,0.824,0.712,0.481,0.596,Anjali,PN19718,2024-12-15,0.445,Moderate collision causing body and light damage,61424
+11081,C,Collision,Medium,Sedan,Urban,0.629,0.767,0.707,0.358,0.552,Suresh,PN10056,2024-12-16,0.726,Moderate collision causing body and light damage,62082
+11082,A,Collision,Medium,SUV,Urban,0.496,0.426,0.419,0.344,0.404,Neha,PN25352,2024-12-17,0.682,Moderate collision causing body and light damage,33882
+11083,B,Collision,Medium,Sedan,Rural,1.0,0.694,0.761,0.32,0.632,Anjali,PN57820,2024-12-18,0.135,Moderate collision causing body and light damage,54873
+11084,C,Collision,Medium,Truck,Urban,0.872,0.173,0.534,0.398,0.547,Neha,PN78683,2024-12-19,0.143,Moderate collision causing body and light damage,49010
+11085,C,Collision,Medium,SUV,Rural,0.351,0.596,0.519,0.235,0.372,Suresh,PN79073,2024-12-20,0.755,Moderate collision causing body and light damage,37944
+11086,B,Collision,Medium,SUV,Urban,0.647,0.663,0.644,0.546,0.605,Suresh,PN98348,2024-12-21,0.721,Moderate collision causing body and light damage,50110
+11087,B,Fire,Medium,Sedan,Urban,0.478,0.977,0.799,0.451,0.596,Ramesh,PN10721,2024-12-22,0.378,Moderate fire causing body and light damage,70544
+11088,A,Collision,Low,Sedan,Urban,0.397,0.357,0.342,0.292,0.333,Anjali,PN92305,2024-12-23,0.077,Minor collision with small damage,31262
+11089,C,Collision,Low,Sedan,Urban,0.332,0.23,0.228,0.195,0.236,Rahul,PN61969,2024-12-24,0.012,Minor collision with small damage,28455
+11090,A,Collision,Medium,Sedan,Rural,0.686,0.326,0.503,0.113,0.384,Priya,PN50194,2024-12-25,0.288,Moderate collision causing body and light damage,30796
+11091,C,Theft,Medium,Sedan,Urban,0.464,0.216,0.336,0.329,0.359,Neha,PN56556,2024-12-26,0.009,Moderate theft causing body and light damage,29638
+11092,B,Collision,Medium,SUV,Urban,0.794,0.884,0.877,0.312,0.634,Suresh,PN56775,2024-12-27,0.23,Moderate collision causing body and light damage,57505
+11093,B,Collision,High,Truck,Urban,0.799,0.937,0.829,0.69,0.767,Suresh,PN89882,2024-12-28,0.42,Severe collision with major damage and possible injuries,65225
+11094,B,Collision,Medium,Truck,Urban,0.875,0.63,0.821,0.217,0.59,Rahul,PN49883,2024-12-29,0.121,Moderate collision causing body and light damage,55094
+11095,A,Collision,Medium,SUV,Urban,0.43,0.855,0.741,0.264,0.488,Kunal,PN20911,2024-12-30,0.104,Moderate collision causing body and light damage,43999
+11096,A,Collision,Medium,Sedan,Rural,0.695,0.583,0.637,0.086,0.428,Priya,PN75795,2024-12-31,0.896,Moderate collision causing body and light damage,35116
+11097,A,Collision,Medium,Truck,Urban,0.726,0.526,0.689,0.467,0.608,Suresh,PN30872,2025-01-01,0.585,Moderate collision causing body and light damage,47662
+11098,A,Collision,Medium,Truck,Urban,0.505,0.467,0.433,0.265,0.38,Kunal,PN84327,2025-01-02,0.934,Moderate collision causing body and light damage,33353
+11099,C,Collision,Medium,Sedan,Urban,0.446,0.472,0.513,0.474,0.484,Ramesh,PN83072,2025-01-03,0.346,Moderate collision causing body and light damage,47796
+11100,A,Collision,Medium,SUV,Rural,0.922,0.163,0.595,0.37,0.57,Priya,PN95968,2025-01-04,0.677,Moderate collision causing body and light damage,35343
+11101,A,Theft,Medium,Sedan,Urban,0.645,0.616,0.674,0.536,0.613,Kunal,PN54537,2025-01-05,0.205,Moderate theft causing body and light damage,38941
+11102,C,Collision,Medium,Truck,Urban,0.727,0.54,0.633,0.616,0.645,Ramesh,PN95077,2025-01-06,0.618,Moderate collision causing body and light damage,59798
+11103,C,Collision,Medium,Truck,Urban,0.436,0.736,0.438,0.262,0.367,Amit,PN26860,2025-01-07,0.13,Moderate collision causing body and light damage,47235
+11104,C,Collision,Medium,Sedan,Urban,0.356,0.573,0.433,0.446,0.423,Neha,PN80819,2025-01-08,0.002,Moderate collision causing body and light damage,44877
+11105,C,Fire,Medium,Truck,Urban,0.486,0.509,0.466,0.281,0.396,Suresh,PN40743,2025-01-09,0.932,Moderate fire causing body and light damage,56583
+11106,A,Collision,Medium,SUV,Urban,0.575,0.332,0.405,0.72,0.565,Kunal,PN52559,2025-01-10,0.555,Moderate collision causing body and light damage,36513
+11107,A,Collision,Medium,Truck,Rural,0.387,0.568,0.484,0.495,0.469,Priya,PN82941,2025-01-11,0.927,Moderate collision causing body and light damage,33665
+11108,C,Theft,Medium,SUV,Urban,0.598,0.735,0.645,0.233,0.471,Ramesh,PN42205,2025-01-12,0.334,Moderate theft causing body and light damage,46826
+11109,B,Collision,Low,Truck,Rural,0.262,0.264,0.222,0.392,0.298,Neha,PN99944,2025-01-13,0.328,Minor collision with small damage,24816
+11110,A,Collision,Medium,Sedan,Urban,0.376,0.572,0.421,0.311,0.368,Anjali,PN27645,2025-01-14,0.401,Moderate collision causing body and light damage,33628
+11111,C,Collision,Medium,Sedan,Urban,0.734,0.608,0.635,0.74,0.697,Neha,PN81859,2025-01-15,0.706,Moderate collision causing body and light damage,61179
+11112,A,Fire,Medium,Sedan,Urban,0.721,0.37,0.602,0.141,0.441,Anjali,PN81473,2025-01-16,0.566,Moderate fire causing body and light damage,45965
+11113,A,Collision,Medium,Truck,Urban,0.522,0.403,0.429,0.474,0.466,Anjali,PN60734,2025-01-17,0.925,Moderate collision causing body and light damage,32980
+11114,B,Theft,Medium,Truck,Rural,0.396,0.608,0.476,0.523,0.479,Suresh,PN40431,2025-01-18,0.025,Moderate theft causing body and light damage,33323
+11115,B,Fire,Medium,Truck,Urban,0.395,0.267,0.308,0.62,0.45,Kunal,PN70914,2025-01-19,0.708,Moderate fire causing body and light damage,43903
+11116,B,Collision,Medium,Truck,Urban,0.525,0.637,0.598,0.081,0.377,Anjali,PN27882,2025-01-20,0.33,Moderate collision causing body and light damage,42965
+11117,A,Collision,Medium,Sedan,Urban,0.729,0.326,0.55,0.613,0.611,Neha,PN88539,2025-01-21,0.18,Moderate collision causing body and light damage,42306
+11118,C,Collision,Medium,Sedan,Rural,0.786,0.816,0.648,0.4,0.577,Suresh,PN53346,2025-01-22,0.51,Moderate collision causing body and light damage,54411
+11119,A,Collision,Medium,Sedan,Urban,0.501,1.0,0.801,0.149,0.48,Kunal,PN22979,2025-01-23,0.505,Moderate collision causing body and light damage,45851
+11120,A,Collision,Low,Sedan,Rural,0.369,0.335,0.424,0.253,0.345,Anjali,PN54828,2025-01-24,0.137,Minor collision with small damage,26864
+11121,C,Fire,Medium,Sedan,Urban,0.654,0.684,0.616,0.433,0.55,Kunal,PN17228,2025-01-25,0.202,Moderate fire causing body and light damage,71911
+11122,C,Theft,Medium,SUV,Urban,0.435,0.368,0.353,0.457,0.411,Amit,PN84836,2025-01-26,0.408,Moderate theft causing body and light damage,34530
+11123,C,Theft,Medium,Sedan,Urban,0.496,0.81,0.631,0.402,0.512,Suresh,PN84217,2025-01-27,0.409,Moderate theft causing body and light damage,48197
+11124,C,Collision,Medium,Sedan,Urban,0.865,0.234,0.512,0.542,0.594,Rahul,PN83803,2025-01-28,0.318,Moderate collision causing body and light damage,52910
+11125,B,Theft,Medium,Sedan,Urban,0.765,0.67,0.729,0.481,0.637,Anjali,PN80908,2025-01-29,0.149,Moderate theft causing body and light damage,46713
+11126,B,Fire,Medium,Sedan,Urban,0.632,0.332,0.384,0.709,0.564,Ramesh,PN48918,2025-01-30,0.004,Moderate fire causing body and light damage,52437
+11127,A,Theft,Medium,Truck,Rural,0.346,0.498,0.366,0.385,0.369,Rahul,PN20920,2025-01-31,0.97,Moderate theft causing body and light damage,25621
+11128,B,Collision,Medium,SUV,Rural,0.642,0.292,0.544,0.669,0.614,Kunal,PN92392,2025-02-01,0.943,Moderate collision causing body and light damage,40196
+11129,A,Theft,Medium,Truck,Rural,0.813,0.756,0.738,0.205,0.54,Kunal,PN37785,2025-02-02,0.484,Moderate theft causing body and light damage,35592
+11130,A,Collision,Medium,Sedan,Urban,0.525,0.341,0.495,0.245,0.401,Neha,PN92757,2025-02-03,0.995,Moderate collision causing body and light damage,32521
+11131,B,Collision,Medium,Sedan,Urban,0.87,0.688,0.797,0.264,0.598,Neha,PN35178,2025-02-04,0.674,Moderate collision causing body and light damage,55326
+11132,B,Collision,Medium,SUV,Urban,0.859,0.464,0.571,0.667,0.667,Neha,PN81997,2025-02-05,0.069,Moderate collision causing body and light damage,53523
+11133,A,Theft,Medium,Sedan,Rural,0.933,0.521,0.759,0.166,0.557,Kunal,PN93401,2025-02-06,0.118,Moderate theft causing body and light damage,36127
+11134,A,Theft,Medium,Sedan,Rural,0.661,0.587,0.618,0.347,0.518,Suresh,PN24052,2025-02-07,0.916,Moderate theft causing body and light damage,32650
+11135,B,Collision,Medium,Sedan,Urban,0.717,0.36,0.516,0.016,0.356,Priya,PN82868,2025-02-08,0.63,Moderate collision causing body and light damage,37162
+11136,A,Collision,Medium,Sedan,Urban,0.883,0.603,0.755,0.362,0.624,Suresh,PN59383,2025-02-09,0.843,Moderate collision causing body and light damage,50440
+11137,C,Collision,Medium,Sedan,Urban,0.689,0.933,0.835,0.289,0.587,Ramesh,PN10327,2025-02-10,0.898,Moderate collision causing body and light damage,65099
+11138,B,Collision,Low,Sedan,Urban,0.5,0.355,0.463,0.054,0.307,Suresh,PN98301,2025-02-11,0.448,Minor collision with small damage,33730
+11139,B,Collision,Medium,SUV,Urban,0.51,0.843,0.736,0.523,0.606,Neha,PN80775,2025-02-12,0.049,Moderate collision causing body and light damage,55134
+11140,B,Collision,Medium,Sedan,Urban,0.648,0.925,0.807,0.544,0.67,Amit,PN85614,2025-02-13,0.188,Moderate collision causing body and light damage,59599
+11141,C,Theft,Low,Sedan,Rural,0.342,0.346,0.275,0.405,0.341,Ramesh,PN17038,2025-02-14,0.067,Minor theft with small damage,25637
+11142,A,Collision,Low,Truck,Urban,0.571,0.186,0.355,0.124,0.306,Rahul,PN18048,2025-02-15,0.189,Minor collision with small damage,25910
+11143,B,Collision,High,Sedan,Urban,0.819,0.625,0.87,0.512,0.717,Amit,PN24954,2025-02-16,0.411,Severe collision with major damage and possible injuries,58372
+11144,B,Collision,Low,Sedan,Rural,0.162,0.413,0.324,0.457,0.345,Ramesh,PN67541,2025-02-17,0.118,Minor collision with small damage,26160
+11145,A,Fire,High,Truck,Urban,0.907,1.0,1.0,0.341,0.718,Ramesh,PN55471,2025-02-18,0.167,Severe fire with major damage and possible injuries,75688
+11146,C,Theft,High,Sedan,Urban,0.824,0.559,0.761,0.613,0.715,Kunal,PN78315,2025-02-19,0.446,Severe theft with major damage and possible injuries,55271
+11147,C,Theft,Medium,Sedan,Urban,0.508,0.349,0.441,0.269,0.386,Neha,PN23225,2025-02-20,0.34,Moderate theft causing body and light damage,35540
+11148,B,Collision,Medium,SUV,Urban,0.709,0.263,0.501,0.315,0.468,Kunal,PN95256,2025-02-21,0.468,Moderate collision causing body and light damage,39582
+11149,C,Collision,Medium,Sedan,Urban,0.601,0.822,0.71,0.474,0.594,Anjali,PN23531,2025-02-22,0.429,Moderate collision causing body and light damage,63707
+11150,C,Collision,Medium,SUV,Rural,0.846,0.407,0.54,0.488,0.58,Rahul,PN80871,2025-02-23,0.644,Moderate collision causing body and light damage,53656
+11151,B,Theft,Medium,Truck,Urban,0.797,0.561,0.68,0.388,0.586,Suresh,PN19530,2025-02-24,0.937,Moderate theft causing body and light damage,43402
+11152,C,Fire,Medium,Sedan,Urban,0.32,0.789,0.615,0.614,0.556,Kunal,PN69035,2025-02-25,0.108,Moderate fire causing body and light damage,68742
+11153,B,Theft,Medium,SUV,Urban,0.717,0.429,0.543,0.076,0.391,Anjali,PN34791,2025-02-26,0.099,Moderate theft causing body and light damage,35033
+11154,B,Fire,Medium,SUV,Urban,0.559,0.539,0.569,0.834,0.673,Rahul,PN11649,2025-02-27,0.853,Moderate fire causing body and light damage,62076
+11155,B,Theft,Medium,Sedan,Rural,0.617,0.546,0.624,0.805,0.695,Neha,PN23472,2025-02-28,0.506,Moderate theft causing body and light damage,38913
+11156,C,Collision,Medium,SUV,Rural,0.454,0.721,0.542,0.551,0.528,Neha,PN78398,2025-03-01,0.766,Moderate collision causing body and light damage,47249
+11157,A,Fire,High,Sedan,Urban,0.95,0.698,0.801,0.49,0.706,Anjali,PN37134,2025-03-02,0.215,Severe fire with major damage and possible injuries,66516
+11158,C,Collision,Medium,SUV,Rural,0.808,0.495,0.601,0.369,0.549,Kunal,PN76453,2025-03-03,0.829,Moderate collision causing body and light damage,51181
+11159,C,Collision,Medium,Sedan,Urban,0.452,0.566,0.468,0.183,0.351,Neha,PN22444,2025-03-04,0.924,Moderate collision causing body and light damage,43063
+11160,A,Collision,Medium,SUV,Rural,0.333,0.457,0.331,0.623,0.448,Amit,PN51121,2025-03-05,0.635,Moderate collision causing body and light damage,26776
+11161,C,Collision,Low,Sedan,Urban,0.523,0.181,0.307,0.221,0.316,Rahul,PN96057,2025-03-06,0.106,Minor collision with small damage,35435
+11162,A,Collision,Medium,Truck,Rural,0.687,0.614,0.722,0.191,0.502,Rahul,PN48217,2025-03-07,0.895,Moderate collision causing body and light damage,39546
+11163,A,Collision,High,Sedan,Rural,0.648,1.0,0.778,0.796,0.759,Ramesh,PN32066,2025-03-08,0.792,Severe collision with major damage and possible injuries,52724
+11164,B,Collision,Medium,Sedan,Urban,0.851,0.329,0.596,0.142,0.465,Priya,PN78347,2025-03-09,0.751,Moderate collision causing body and light damage,44416
+11165,A,Collision,Medium,SUV,Urban,0.758,0.357,0.532,0.217,0.451,Suresh,PN46189,2025-03-10,0.037,Moderate collision causing body and light damage,36255
+11166,C,Collision,Medium,SUV,Rural,0.794,0.332,0.622,0.449,0.587,Anjali,PN84826,2025-03-11,0.799,Moderate collision causing body and light damage,46607
+11167,C,Collision,Medium,SUV,Rural,0.665,0.731,0.764,0.302,0.559,Neha,PN73477,2025-03-12,0.138,Moderate collision causing body and light damage,53590
+11168,B,Collision,Medium,SUV,Urban,0.322,0.662,0.535,0.586,0.513,Rahul,PN45489,2025-03-13,0.222,Moderate collision causing body and light damage,42794
+11169,A,Collision,Medium,SUV,Rural,0.561,0.51,0.551,0.297,0.451,Rahul,PN37284,2025-03-14,0.577,Moderate collision causing body and light damage,35613
+11170,A,Theft,Medium,Truck,Urban,0.812,0.32,0.555,0.24,0.48,Ramesh,PN34698,2025-03-15,0.265,Moderate theft causing body and light damage,33239
+11171,B,Theft,Medium,Sedan,Urban,0.59,0.573,0.522,0.083,0.36,Anjali,PN53660,2025-03-16,0.661,Moderate theft causing body and light damage,35851
+11172,C,Theft,Medium,SUV,Urban,0.701,0.159,0.527,0.549,0.571,Suresh,PN29637,2025-03-17,0.608,Moderate theft causing body and light damage,39591
+11173,B,Theft,Medium,Truck,Urban,0.536,0.586,0.523,0.721,0.605,Priya,PN58024,2025-03-18,0.108,Moderate theft causing body and light damage,41817
+11174,A,Collision,Medium,Truck,Rural,0.394,0.768,0.614,0.527,0.535,Priya,PN70405,2025-03-19,0.656,Moderate collision causing body and light damage,39527
+11175,B,Theft,Medium,Truck,Urban,0.575,0.237,0.459,0.672,0.567,Neha,PN71305,2025-03-20,0.924,Moderate theft causing body and light damage,32529
+11176,B,Collision,Low,Sedan,Rural,0.662,0.167,0.387,0.057,0.31,Priya,PN43556,2025-03-21,0.161,Minor collision with small damage,30881
+11177,C,Collision,Medium,Sedan,Urban,0.469,0.945,0.759,0.444,0.575,Priya,PN92176,2025-03-22,0.597,Moderate collision causing body and light damage,61835
+11178,A,Theft,Medium,SUV,Urban,0.553,0.397,0.513,0.305,0.438,Kunal,PN79561,2025-03-23,0.342,Moderate theft causing body and light damage,30857
+11179,C,Collision,Medium,SUV,Urban,0.412,0.834,0.709,0.67,0.634,Suresh,PN82277,2025-03-24,0.46,Moderate collision causing body and light damage,59522
+11180,B,Theft,High,SUV,Urban,0.824,0.512,0.644,0.944,0.8,Anjali,PN13654,2025-03-25,0.287,Severe theft with major damage and possible injuries,50366
+11181,C,Theft,Low,SUV,Urban,0.541,0.51,0.461,0.133,0.346,Suresh,PN50428,2025-03-26,0.354,Minor theft with small damage,35735
+11182,A,Fire,Medium,Truck,Urban,0.891,0.66,0.75,0.452,0.659,Kunal,PN48036,2025-03-27,0.029,Moderate fire causing body and light damage,65194
+11183,B,Fire,High,Sedan,Urban,0.906,0.329,0.628,0.712,0.717,Neha,PN54549,2025-03-28,0.982,Severe fire with major damage and possible injuries,67048
+11184,C,Collision,Medium,Truck,Urban,0.584,0.583,0.586,0.049,0.371,Rahul,PN75355,2025-03-29,0.625,Moderate collision causing body and light damage,46605
+11185,A,Collision,Low,Sedan,Urban,0.398,0.455,0.407,0.185,0.316,Ramesh,PN72119,2025-03-30,0.501,Minor collision with small damage,32946
+11186,C,Collision,Medium,Sedan,Urban,0.183,0.22,0.106,0.68,0.351,Neha,PN99096,2025-03-31,0.384,Moderate collision causing body and light damage,30302
+11187,B,Collision,Medium,SUV,Rural,0.306,0.634,0.494,0.769,0.566,Amit,PN56257,2025-04-01,0.539,Moderate collision causing body and light damage,40796
+11188,A,Theft,Low,SUV,Rural,0.325,0.484,0.503,0.107,0.309,Priya,PN25987,2025-04-02,0.38,Minor theft with small damage,21761
+11189,A,Theft,Medium,Sedan,Urban,0.876,0.511,0.716,0.541,0.678,Kunal,PN30810,2025-04-03,0.36,Moderate theft causing body and light damage,44504
+11190,B,Theft,Medium,Sedan,Urban,0.623,0.247,0.466,0.306,0.433,Ramesh,PN30311,2025-04-04,0.464,Moderate theft causing body and light damage,30585
+11191,A,Collision,Medium,Truck,Urban,0.678,0.948,0.842,0.233,0.565,Rahul,PN64478,2025-04-05,0.276,Moderate collision causing body and light damage,52298
+11192,B,Collision,Medium,Sedan,Rural,0.156,0.769,0.482,0.574,0.454,Rahul,PN44920,2025-04-06,0.18,Moderate collision causing body and light damage,35747
+11193,A,Collision,Medium,SUV,Urban,0.36,0.791,0.622,0.148,0.38,Suresh,PN18738,2025-04-07,0.557,Moderate collision causing body and light damage,37598
+11194,B,Collision,Medium,SUV,Urban,0.777,0.474,0.645,0.155,0.476,Amit,PN83424,2025-04-08,0.843,Moderate collision causing body and light damage,47008
+11195,A,Fire,Medium,SUV,Urban,0.657,0.118,0.372,0.381,0.433,Anjali,PN72232,2025-04-09,0.153,Moderate fire causing body and light damage,40938
+11196,C,Collision,Medium,SUV,Urban,0.571,1.0,0.745,0.447,0.591,Rahul,PN15474,2025-04-10,0.033,Moderate collision causing body and light damage,63132
+11197,C,Collision,Medium,Sedan,Urban,0.713,0.535,0.611,0.729,0.679,Amit,PN69026,2025-04-11,0.247,Moderate collision causing body and light damage,61482
+11198,C,Collision,Medium,SUV,Rural,0.927,0.363,0.661,0.245,0.548,Priya,PN76024,2025-04-12,0.98,Moderate collision causing body and light damage,51820
+11199,B,Theft,Medium,Sedan,Urban,0.556,0.654,0.589,0.214,0.432,Suresh,PN60974,2025-04-13,0.829,Moderate theft causing body and light damage,36505
+11200,A,Theft,Medium,SUV,Urban,0.614,0.842,0.744,0.293,0.537,Ramesh,PN34144,2025-04-14,0.596,Moderate theft causing body and light damage,42131
