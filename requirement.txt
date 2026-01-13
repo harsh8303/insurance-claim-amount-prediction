@@ -1,0 +1,24 @@
+Flask
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+xgboost
+
+
+
+
+
+
+
+residuals = y_test - y_test_pred
+
+plt.figure(figsize=(8,6))
+plt.scatter(y_test_pred, residuals, alpha=0.6)
+plt.axhline(y=0)
+plt.xlabel("Predicted Claim Amount")
+plt.ylabel("Residuals")
+plt.title("Residual Plot (Lasso Regression)")
+plt.show()
