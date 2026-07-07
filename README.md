@@ -2,7 +2,7 @@
   <img src="images/banner.png" alt="Insurance Claim Amount Prediction Banner" width="100%">
 </p>
 
-<h1 align="center">🚗 Insurance Claim Amount Prediction</h1>
+<h1 align="center"> Insurance Claim Amount Prediction</h1>
 
 <p align="center">
 An End-to-End Machine Learning Regression Project for Predicting Insurance Claim Amounts
@@ -17,7 +17,7 @@ An End-to-End Machine Learning Regression Project for Predicting Insurance Claim
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The **Insurance Claim Amount Prediction** project is an end-to-end Machine Learning regression application that estimates the insurance claim amount based on policy details, accident information, vehicle damage, and textual claim descriptions.
 
@@ -25,7 +25,7 @@ The project demonstrates the complete Machine Learning workflow, including **dat
 
 ---
 
-# 🚀 Features
+#  Features
 
 - End-to-End Machine Learning Pipeline
 - Data Cleaning & Preprocessing
@@ -37,13 +37,13 @@ The project demonstrates the complete Machine Learning workflow, including **dat
 
 ---
 
-# 🧠 Machine Learning Model
+#  Machine Learning Model
 
 ### Algorithm Used
 
 - **Lasso Regression**
 
-### 📊 Model Performance
+###  Model Performance
 
 | Metric | Training | Testing |
 |---------|----------|----------|
@@ -53,7 +53,7 @@ The project demonstrates the complete Machine Learning workflow, including **dat
 
 ---
 
-# 📋 Features Used
+#  Features Used
 
 - Policy Type
 - Accident Type
@@ -67,13 +67,13 @@ The project demonstrates the complete Machine Learning workflow, including **dat
 - Overall Claim Risk
 - Claim Description (Text Feature)
 
-### 🎯 Target Variable
+###  Target Variable
 
 - Insurance Claim Amount (Continuous Value)
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 - Python
 - Scikit-learn
@@ -84,7 +84,7 @@ The project demonstrates the complete Machine Learning workflow, including **dat
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 insurance-claim-amount-prediction/
@@ -106,9 +106,9 @@ insurance-claim-amount-prediction/
 
 ---
 
-# 📸 Application Preview
+# Application Preview
 
-## 🏠 Home Page
+##  Home Page
 
 <p align="center">
   <img src="images/home.png" width="90%" alt="Home Page">
@@ -116,7 +116,7 @@ insurance-claim-amount-prediction/
 
 ---
 
-## ✍️ Prediction Page
+##  Prediction Page
 
 <p align="center">
   <img src="images/prediction.png" width="90%" alt="Prediction Page">
@@ -124,7 +124,7 @@ insurance-claim-amount-prediction/
 
 ---
 
-## ✅ Prediction Result
+## Prediction Result
 
 <p align="center">
   <img src="images/result.png" width="90%" alt="Prediction Result">
@@ -132,7 +132,7 @@ insurance-claim-amount-prediction/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ### Clone the repository
 
@@ -174,7 +174,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
 - Improve prediction performance using advanced regression algorithms.
 - Hyperparameter optimization.
@@ -184,7 +184,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Harshit Sahu**
 
@@ -193,6 +193,6 @@ http://127.0.0.1:5000
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a  on GitHub.
